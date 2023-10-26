@@ -1,0 +1,23 @@
+{
+  "name": "catroommember-system",
+  "version": "1.0.0",
+  "description": "catRoomMember-System",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Aruminiya/catRoomMember-System.git"
+  },
+  "author": "Leo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Aruminiya/catRoomMember-System/issues"
+  },
+  "homepage": "https://github.com/Aruminiya/catRoomMember-System#readme",
+  "devDependencies": {
+    "json-server": "^0.17.4",
+    "json-server-auth": "^2.1.0"
+  }
+}

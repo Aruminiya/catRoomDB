@@ -1,3 +1,177 @@
 {
-  "users": []
+  "users": [
+    {
+      "email": "Abc123@gmail.com",
+      "password": "Abc123456",
+      "name": "王小明",
+      "gender": "male",
+      "birthday": "1999-01-08",
+      "phone": "0911111111",
+      "address": "臺中市南屯區春安路3號",
+      "photo": "url",
+      "id": 1
+    },
+    {
+      "email": "Efg456@gmail.com",
+      "password": "Efg456789",
+      "name": "陳小華",
+      "gender": "female",
+      "birthday": "2001-03-19",
+      "phone": "0922222222",
+      "address": "彰化縣鹿港鎮建國路7號",
+      "photo": "url",
+      "id": 2
+    }
+  ],
+  "cats": [
+    {
+      "name": "喵喵",
+      "gender": "female",
+      "birthday": "2020-01-01",
+      "assortment": "虎斑貓",
+      "color": "黑色虎斑",
+      "weight": 5,
+      "userId": 1,
+      "id": 1
+    },
+    {
+      "name": "咪咪",
+      "gender": "male",
+      "birthday": "2019-08-23",
+      "assortment": "白貓",
+      "color": "白色",
+      "weight": 4.5,
+      "userId": 1,
+      "id": 2
+    },
+    {
+      "name": "探探",
+      "gender": "male",
+      "birthday": "2018-04-16",
+      "assortment": "黑貓",
+      "color": "黑色",
+      "weight": 4.3,
+      "userId": 2,
+      "id": 3
+    },
+    {
+      "name": "蕾蕾",
+      "gender": "female",
+      "birthday": "2018-04-16",
+      "assortment": "三花貓",
+      "color": "三花色",
+      "weight": 4.8,
+      "userId": 2,
+      "id": 4
+    }
+  ],
+  "rooms": [
+    {
+      "name": "精緻房",
+      "quantity": 3,
+      "price": 800,
+      "facility": ["床舖", "小型爬架", "個人窩", "專屬玩具"],
+      "size": [155, 145, 300],
+      "id": 1
+    },
+    {
+      "name": "經典房",
+      "quantity": 3,
+      "price": 1000,
+      "facility": ["床舖", "小型爬架", "個人窩"],
+      "size": [105, 145, 300],
+      "id": 2
+    },
+    {
+      "name": "豪華房",
+      "quantity": 3,
+      "price": 1000,
+      "facility": ["豪華床舖", "大型爬架", "個人窩", "專屬玩具"],
+      "size": [210, 145, 300],
+      "id": 3
+    }
+  ],
+  "roomStates": [
+    {
+      "date": "2023-09-17",
+      "status": {
+        "classic_A": true,
+        "classic_B": false,
+        "classic_C": false,
+        "delicate_A": true,
+        "delicate_B": false,
+        "delicate_C": true,
+        "luxury_A": false,
+        "luxury_B": true,
+        "luxury_C": false
+      },
+      "id": 1
+    },
+    {
+      "date": "2023-09-18",
+      "status": {
+        "classic_A": true,
+        "classic_B": false,
+        "classic_C": true,
+        "delicate_A": false,
+        "delicate_B": true,
+        "delicate_C": true,
+        "luxury_A": true,
+        "luxury_B": true,
+        "luxury_C": false
+      },
+      "id": 2
+    }
+  ],
+  "bookings": [
+    {
+      "userId": 1,
+      "checkIn": "2023-09-17",
+      "checkOut": "2023-09-19",
+      "roomId": 1,
+      "state": "已退房",
+      "quantity": 1,
+      "price": 1600,
+      "feedback": "服務棒，氣氛好",
+      "id": 1
+    },
+    {
+      "userId": 2,
+      "checkIn": "2023-09-21",
+      "checkOut": "2023-09-24",
+      "roomId": 2,
+      "state": "已退房",
+      "quantity": 3,
+      "price": 3000,
+      "feedback": "很喜歡你們，下次會再來住",
+      "id": 1
+    }
+  ],
+  "managers": [
+    {
+      "email": "Hij123@gmail.com",
+      "password": "Hij123456",
+      "name": "李祥",
+      "gender": "male",
+      "birthday": "1989-01-08",
+      "phone": "0933333333",
+      "address": "高雄市橋頭區竹林街32號",
+      "photo": "url",
+      "id": 1
+    }
+  ],
+  "article": [
+    {
+      "title": "愛，是貓咪眼中的溫柔",
+      "content": "大家好，我想和大家分享一個關於貓咪的故事。有一天，我在街頭巧遇了一隻流浪貓，它的眼神深深地打動了我。這隻貓咪顯然曾經受過傷害，但它的眼中充滿了渴望和溫柔。",
+      "id": 1
+    }
+  ],
+  "faqs": [
+    {
+      "title": "我送貓入住時應該攜帶什麼東西？",
+      "content": "請攜帶您的貓的食物，以確保飲食的一致性。您也可以攜帶家中的一些喜愛玩具、床上用品或安慰物品。其餘的事情就交給我們吧。",
+      "id": 1
+    }
+  ]
 }

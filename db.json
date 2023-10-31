@@ -178,7 +178,9 @@
       "address": "新北市汐止區大同路二段181號",
       "gender": "male",
       "userPhoto": "https://i.imgur.com/rUTLxZC.jpg",
-      "catId": 9,
+      "catId": [
+        9
+      ],
       "lastLoginTime": null
     },
     {
@@ -311,7 +313,9 @@
       "address": "台北市士林區中山北路五段55號",
       "gender": "female",
       "userPhoto": "https://i.imgur.com/rUTLxZC.jpg",
-      "catId": 14,
+      "catId": [
+        14
+      ],
       "lastLoginTime": null
     },
     {
@@ -367,7 +371,9 @@
       "address": "台北市萬里區中山路二段168號",
       "gender": "male",
       "userPhoto": "https://i.imgur.com/rUTLxZC.jpg",
-      "catId": 15,
+      "catId": [
+        15
+      ],
       "lastLoginTime": null
     },
     {
@@ -1577,30 +1583,352 @@
         "luxury_C_canUse": false
       },
       "id": 21
+    },
+    {
+      "date": "2023-12-10",
+      "availableCount": {
+        "classic": 1,
+        "delicate": 2,
+        "luxury": 3
+      },
+      "status": {
+        "classic_A_canUse": false,
+        "classic_B_canUse": true,
+        "classic_C_canUse": true,
+        "delicate_A_canUse": true,
+        "delicate_B_canUse": true,
+        "delicate_C_canUse": false,
+        "luxury_A_canUse": true,
+        "luxury_B_canUse": true,
+        "luxury_C_canUse": false
+      },
+      "id": 22
     }
   ],
   "bookings": [
     {
       "userId": 1,
-      "checkIn": "2023-09-17",
-      "checkOut": "2023-09-19",
+      "bookingDate": "2023-11-15",
+      "checkIn": "2023-12-10",
       "roomId": 1,
       "state": "已退房",
-      "quantity": 1,
+      "quantity": 2,
       "price": 1600,
       "feedback": "服務棒，氣氛好",
+      "managerId": 1,
       "id": 1
     },
     {
-      "userId": 2,
-      "checkIn": "2023-09-21",
-      "checkOut": "2023-09-24",
+      "userId": 3,
+      "bookingDate": "2023-10-12",
+      "checkIn": "2023-12-10",
+      "roomId": 1,
+      "state": "已退房",
+      "quantity": 3,
+      "price": 2400,
+      "feedback": "很喜歡你們，下次會再來住",
+      "managerId": 1,
+      "id": 2
+    },
+    {
+      "userId": 6,
+      "bookingDate": "2023-09-12",
+      "checkIn": "2023-12-17",
+      "roomId": 2,
+      "state": "已退房",
+      "quantity": 2,
+      "price": 2000,
+      "feedback": "寵物友善，環境乾淨明亮",
+      "managerId": 4,
+      "id": 3
+    },
+    {
+      "userId": 7,
+      "bookingDate": "2023-11-17",
+      "checkIn": "2023-12-11",
+      "roomId": 2,
+      "state": "已退房",
+      "quantity": 2,
+      "price": 2000,
+      "feedback": "員工態度親切，照顧細心",
+      "managerId": 4,
+      "id": 4
+    },
+    {
+      "userId": 8,
+      "bookingDate": "2023-10-30",
+      "checkIn": "2023-12-19",
+      "roomId": 3,
+      "state": "已退房",
+      "quantity": 6,
+      "price": 9000,
+      "feedback": "員工態度親切，照顧細心",
+      "managerId": 3,
+      "id": 5
+    },
+    {
+      "userId": 9,
+      "bookingDate": "2023-09-17",
+      "checkIn": "2023-12-22",
+      "roomId": 1,
+      "state": "已退房",
+      "quantity": 2,
+      "price": 1600,
+      "feedback": "員工態度親切，照顧細心",
+      "managerId": 2,
+      "id": 6
+    },
+    {
+      "userId": 11,
+      "bookingDate": "2023-11-28",
+      "checkIn": "2023-12-24",
       "roomId": 2,
       "state": "已退房",
       "quantity": 3,
       "price": 3000,
-      "feedback": "很喜歡你們，下次會再來住",
-      "id": 2
+      "feedback": "員工態度親切，照顧細心",
+      "managerId": 2,
+      "id": 7
+    },
+    {
+      "userId": 12,
+      "bookingDate": "2023-12-03",
+      "checkIn": "2023-12-15",
+      "roomId": 1,
+      "state": "入住中",
+      "quantity": 7,
+      "price": 5600,
+      "feedback": "員工態度親切，照顧細心",
+      "managerId": 1,
+      "id": 8
+    },
+    {
+      "userId": 15,
+      "bookingDate": "2023-12-01",
+      "checkIn": "2023-12-12",
+      "roomId": 3,
+      "state": "已退房",
+      "quantity": 4,
+      "price": 6000,
+      "feedback": "員工態度親切，照顧細心",
+      "managerId": 4,
+      "id": 9
+    },
+    {
+      "userId": 18,
+      "bookingDate": "2023-11-25",
+      "checkIn": "2023-12-11",
+      "roomId": 1,
+      "state": "已退房",
+      "quantity": 3,
+      "price": 2400,
+      "feedback": "員工態度親切，照顧細心",
+      "managerId": 3,
+      "id": 10
+    },
+    {
+      "userId": 20,
+      "bookingDate": "2023-10-13",
+      "checkIn": "2023-12-20",
+      "roomId": 2,
+      "state": "已退房",
+      "quantity": 3,
+      "price": 3000,
+      "feedback": "員工態度親切，照顧細心",
+      "managerId": 1,
+      "id": 11
+    },
+    {
+      "userId": 21,
+      "bookingDate": "2023-11-04",
+      "checkIn": "2023-12-11",
+      "roomId": 2,
+      "state": "已退房",
+      "quantity": 6,
+      "price": 6000,
+      "feedback": "員工態度親切，照顧細心",
+      "managerId": 1,
+      "id": 12
+    },
+    {
+      "userId": 25,
+      "bookingDate": "2023-11-23",
+      "checkIn": "2023-12-11",
+      "roomId": 2,
+      "state": "入住中",
+      "quantity": 6,
+      "price": 6000,
+      "feedback": "員工態度親切，照顧細心",
+      "managerId": 1,
+      "id": 13
+    },
+    {
+      "userId": 27,
+      "bookingDate": "2023-12-02",
+      "checkIn": "2023-12-18",
+      "roomId": 3,
+      "state": "已退房",
+      "quantity": 5,
+      "price": 7500,
+      "feedback": "員工態度親切，照顧細心",
+      "managerId": 2,
+      "id": 14
+    },
+    {
+      "userId": 29,
+      "bookingDate": "2023-12-05",
+      "checkIn": "2023-12-21",
+      "roomId": 2,
+      "state": "已退房",
+      "quantity": 3,
+      "price": 3000,
+      "feedback": "員工態度親切，照顧細心",
+      "managerId": 4,
+      "id": 15
+    },
+    {
+      "userId": 32,
+      "bookingDate": "2023-12-11",
+      "checkIn": "2023-12-23",
+      "roomId": 3,
+      "state": "已退房",
+      "quantity": 3,
+      "price": 4500,
+      "feedback": "員工態度親切，照顧細心",
+      "managerId": 3,
+      "id": 16
+    },
+    {
+      "userId": 33,
+      "bookingDate": "2023-12-07",
+      "checkIn": "2023-12-24",
+      "roomId": 3,
+      "state": "已退房",
+      "quantity": 3,
+      "price": 4500,
+      "feedback": "員工態度親切，照顧細心",
+      "managerId": 1,
+      "id": 17
+    },
+    {
+      "userId": 36,
+      "bookingDate": "2023-11-22",
+      "checkIn": "2023-12-11",
+      "roomId": 3,
+      "state": "已退房",
+      "quantity": 3,
+      "price": 4500,
+      "feedback": "員工態度親切，照顧細心",
+      "managerId": 2,
+      "id": 18
+    },
+    {
+      "userId": 39,
+      "bookingDate": "2023-11-23",
+      "checkIn": "2023-12-13",
+      "roomId": 3,
+      "state": "已退房",
+      "quantity": 5,
+      "price": 7500,
+      "feedback": "員工態度親切，照顧細心",
+      "managerId": 1,
+      "id": 19
+    },
+    {
+      "userId": 40,
+      "bookingDate": "2023-11-29",
+      "checkIn": "2023-12-18",
+      "roomId": 1,
+      "state": "已退房",
+      "quantity": 3,
+      "price": 2400,
+      "feedback": "員工態度親切，照顧細心",
+      "managerId": 2,
+      "id": 20
+    },
+    {
+      "userId": 42,
+      "bookingDate": "2023-11-18",
+      "checkIn": "2023-12-13",
+      "roomId": 1,
+      "state": "已退房",
+      "quantity": 4,
+      "price": 3200,
+      "feedback": "員工態度親切，照顧細心",
+      "managerId": 4,
+      "id": 21
+    },
+    {
+      "userId": 45,
+      "bookingDate": "2023-10-30",
+      "checkIn": "2023-12-12",
+      "roomId": 1,
+      "state": "已退房",
+      "quantity": 6,
+      "price": 4800,
+      "feedback": "員工態度親切，照顧細心",
+      "managerId": 3,
+      "id": 22
+    },
+    {
+      "userId": 46,
+      "bookingDate": "2023-11-19",
+      "checkIn": "2023-12-23",
+      "roomId": 1,
+      "state": "已退房",
+      "quantity": 6,
+      "price": 4800,
+      "feedback": "員工態度親切，照顧細心",
+      "managerId": 2,
+      "id": 23
+    },
+    {
+      "userId": 47,
+      "bookingDate": "2023-11-21",
+      "checkIn": "2023-12-19",
+      "roomId": 1,
+      "state": "已退房",
+      "quantity": 3,
+      "price": 2400,
+      "feedback": "員工態度親切，照顧細心",
+      "managerId": 1,
+      "id": 24
+    },
+    {
+      "userId": 49,
+      "bookingDate": "2023-11-24",
+      "checkIn": "2023-12-17",
+      "roomId": 2,
+      "state": "已退房",
+      "quantity": 3,
+      "price": 3000,
+      "feedback": "員工態度親切，照顧細心",
+      "managerId": 4,
+      "id": 25
+    },
+    {
+      "userId": 50,
+      "bookingDate": "2023-12-05",
+      "checkIn": "2023-12-27",
+      "roomId": 1,
+      "state": "已退房",
+      "quantity": 3,
+      "price": 2400,
+      "feedback": "員工態度親切，照顧細心",
+      "managerId": 2,
+      "id": 26
+    },
+    {
+      "userId": 50,
+      "bookingDate": "2023-12-05",
+      "checkIn": "2023-12-27",
+      "roomId": 1,
+      "state": "已退房",
+      "quantity": 3,
+      "price": 2400,
+      "feedback": "員工態度親切，照顧細心",
+      "managerId": 3,
+      "id": 26
     }
   ],
   "managers": [
@@ -1612,7 +1940,7 @@
       "birthday": "1989-01-08",
       "phone": "0933333333",
       "address": "高雄市橋頭區竹林街32號",
-      "photo": "url",
+      "photo": "https://i.imgur.com/rUTLxZC.jpg",
       "id": 1
     },
     {
@@ -1623,8 +1951,30 @@
       "birthday": "1991-01-08",
       "phone": "0944444444",
       "address": "屏東縣佳冬鄉佳和路15號",
-      "photo": "url",
+      "photo": "https://i.imgur.com/rUTLxZC.jpg",
       "id": 2
+    },
+    {
+      "email": "gyba6820@icloudmail.com",
+      "password": "fyrOWKfPU0",
+      "name": "殷榮方",
+      "gender": "male",
+      "birthday": "1992-12-21",
+      "phone": "0945641428",
+      "address": "新北市三峡區中正路123號",
+      "photo": "https://i.imgur.com/rUTLxZC.jpg",
+      "id": 3
+    },
+    {
+      "email": "gprku78550@yahoo.com",
+      "password": "ReqX6uoD1bM",
+      "name": "易佳悅",
+      "gender": "female",
+      "birthday": "1988-03-17",
+      "phone": "0914238751",
+      "address": "台北市中山區南京東路三段27號",
+      "photo": "https://i.imgur.com/rUTLxZC.jpg",
+      "id": 4
     }
   ],
   "article": [

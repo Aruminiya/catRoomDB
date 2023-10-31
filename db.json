@@ -1,1269 +1,1669 @@
 {
   "users": [
-    {
-      "email": "fortest@mail.com",
-      "password": "fortest",
-      "nickname": "測試帳號",
-      "userName": "測試帳號",
-      "phone": "0960964130",
-      "id": 1,
-      "gender": "male",
-      "userPhoto": "https://i.imgur.com/rUTLxZC.jpg",
-      "catId": [1],
-      "lastLoginTime": "2023-10-09T11:34",
-      "bookingHistory": 1
-    },
-    {
-      "email": "tjyln64404@proton.com",
-      "password": "txGt2QFYy6lx",
-      "nickname": "Liam",
-      "userName": "張文義",
-      "phone": "0982141092",
-      "id": 2,
-      "birthday": "2005-09-12",
-      "address": "新北市板橋區翠華街4號",
-      "gender": "male",
-      "userPhoto": "https://i.imgur.com/rUTLxZC.jpg",
-      "catId": null,
-      "lastLoginTime": null,
-      "bookingHistory": null
-    },
-    {
-      "email": "nlfio72957@yahoo.com",
-      "password": "sMbEZYEf2Xd",
-      "nickname": "Olivia",
-      "userName": "顏玉恩",
-      "phone": "0903789154",
-      "id": 3,
-      "birthday": "1993-10-21",
-      "address": "台北市大安區信義路四段505號",
-      "gender": "female",
-      "userPhoto": "https://i.imgur.com/rUTLxZC.jpg",
-      "catId": [2],
-      "lastLoginTime": null,
-      "bookingHistory": null
-    },
-    {
-      "email": "mwg172@yahoo.com",
-      "password": "fq7DIZkm",
-      "nickname": "Noah",
-      "userName": "蕭穎辛",
-      "phone": "0903368714",
-      "id": 4,
-      "birthday": "1995-05-29",
-      "address": "新北市三峽區大學路151號",
-      "gender": "male",
-      "userPhoto": "https://i.imgur.com/rUTLxZC.jpg",
-      "catId": null,
-      "lastLoginTime": null,
-      "bookingHistory": null
-    },
-    {
-      "email": "xthz5266@hotmail.com",
-      "password": "zaThobeFCJN",
-      "nickname": "Emma",
-      "userName": "宗協民",
-      "phone": "0985938759",
-      "id": 5,
-      "birthday": "1984-02-22",
-      "address": "台北市中山區南京東路三段65號",
-      "gender": "male",
-      "userPhoto": "https://i.imgur.com/rUTLxZC.jpg",
-      "catId": null,
-      "lastLoginTime": null,
-      "bookingHistory": null
-    },
-    {
-      "email": "emre5340@gmail.com",
-      "password": "p68e3AMT",
-      "nickname": "Oliver",
-      "userName": "吳政凌",
-      "phone": "0974559639",
-      "id": 6,
-      "birthday": "1981-06-03",
-      "address": "新北市永和區永和路35號",
-      "gender": "female",
-      "userPhoto": "https://i.imgur.com/rUTLxZC.jpg",
-      "catId": [3, 4],
-      "lastLoginTime": null,
-      "bookingHistory": null
-    },
-    {
-      "email": "pwvj9716@aolmail.com",
-      "password": "eugjWjw9n",
-      "nickname": "Ava",
-      "userName": "王仲緯",
-      "phone": "0922518197",
-      "id": 7,
-      "birthday": "1998-08-17",
-      "address": "台北市萬華區漢中街205號",
-      "gender": "male",
-      "userPhoto": "https://i.imgur.com/rUTLxZC.jpg",
-      "catId": [5],
-      "lastLoginTime": null,
-      "bookingHistory": null
-    },
-    {
-      "email": "pfzqj83586@hotmail.com",
-      "password": "cx30PFYTsi",
-      "nickname": "Ethan",
-      "userName": "蔡珮齊",
-      "phone": "0912627378",
-      "id": 8,
-      "birthday": "1990-12-11",
-      "address": "新北市新店區中興路101號",
-      "gender": "male",
-      "userPhoto": "https://i.imgur.com/rUTLxZC.jpg",
-      "catId": [6],
-      "lastLoginTime": null,
-      "bookingHistory": null
-    },
-    {
-      "email": "mxkoo23137@aolmail.com",
-      "password": "mGu6zYdGkQlv",
-      "nickname": "Charlotte",
-      "userName": "林雅婷",
-      "phone": "0955705518",
-      "id": 9,
-      "birthday": "1991-11-08",
-      "address": "台北市松山區敦化南路一段103號",
-      "gender": "female",
-      "userPhoto": "https://i.imgur.com/rUTLxZC.jpg",
-      "catId": [7],
-      "lastLoginTime": null,
-      "bookingHistory": null
-    },
-    {
-      "email": "evnk6550@zoho.com",
-      "password": "azEPaFlag",
-      "nickname": "Aiden",
-      "userName": "林宗堅",
-      "phone": "0937930540",
-      "id": 10,
-      "birthday": "1996-09-28",
-      "address": "新北市中和區員山路110號",
-      "gender": "female",
-      "userPhoto": "https://i.imgur.com/rUTLxZC.jpg",
-      "catId": null,
-      "lastLoginTime": null,
-      "bookingHistory": null
-    },
-    {
-      "email": "zyume72430@zoho.com",
-      "password": "F0YLREpMoqa",
-      "nickname": "Sophia",
-      "userName": "汪豪輝",
-      "phone": "0943548311",
-      "id": 11,
-      "birthday": "1994-04-25",
-      "address": "台北市信義區忠孝東路五段508號",
-      "gender": "male",
-      "userPhoto": "https://i.imgur.com/rUTLxZC.jpg",
-      "catId": [8],
-      "lastLoginTime": null,
-      "bookingHistory": null
-    },
-    {
-      "email": "yuzs9515@proton.com",
-      "password": "tcklP72C",
-      "nickname": "Muhammad",
-      "userName": "杜德茹",
-      "phone": "0962980066",
-      "id": 12,
-      "birthday": "1983-07-15",
-      "address": "新北市汐止區大同路二段181號",
-      "gender": "male",
-      "userPhoto": "https://i.imgur.com/rUTLxZC.jpg",
-      "catId": 9,
-      "lastLoginTime": null,
-      "bookingHistory": null
-    },
-    {
-      "email": "ieq507@aolmail.com",
-      "password": "PLZEGbhmM",
-      "nickname": "Isabella",
-      "userName": "陳雅慧",
-      "phone": "0900268379",
-      "id": 13,
-      "birthday": "1980-05-20",
-      "address": "台北市大同區民權西路58號",
-      "gender": "male",
-      "userPhoto": "https://i.imgur.com/rUTLxZC.jpg",
-      "catId": null,
-      "lastLoginTime": null,
-      "bookingHistory": null
-    },
-    {
-      "email": "ycbb7706@zoho.com",
-      "password": "WBQ9ZocmvS",
-      "nickname": "Lucas",
-      "userName": "張美季",
-      "phone": "0915078312",
-      "id": 14,
-      "birthday": "2001-03-26",
-      "address": "新北市樹林區保安街101號",
-      "gender": "female",
-      "userPhoto": "https://i.imgur.com/rUTLxZC.jpg",
-      "catId": null,
-      "lastLoginTime": null,
-      "bookingHistory": null
-    },
-    {
-      "email": "wtuo8184@zoho.com",
-      "password": "840jg2yxKU0",
-      "nickname": "Mia",
-      "userName": "黃明珠",
-      "phone": "0961796669",
-      "id": 15,
-      "birthday": "1999-04-09",
-      "address": "台北市文山區興隆路三段188號",
-      "gender": "male",
-      "userPhoto": "https://i.imgur.com/rUTLxZC.jpg",
-      "catId": [10, 11],
-      "lastLoginTime": null,
-      "bookingHistory": null
-    },
-    {
-      "email": "lfo891@gmxmail.com",
-      "password": "WhCoCLFCLDq",
-      "nickname": "Oliver",
-      "userName": "傅佩君",
-      "phone": "0902574097",
-      "id": 16,
-      "birthday": "1982-01-05",
-      "address": "新北市淡水區中正路一段54號",
-      "gender": "female",
-      "userPhoto": "https://i.imgur.com/rUTLxZC.jpg",
-      "catId": null,
-      "lastLoginTime": null,
-      "bookingHistory": null
-    },
-    {
-      "email": "wcwf8579@hotmail.com",
-      "password": "EyQ0zEy4Szv5",
-      "nickname": "Harper",
-      "userName": "劉凱琳",
-      "phone": "0999784423",
-      "id": 17,
-      "birthday": "1988-12-06",
-      "address": "台北市南港區研究院路二段128號",
-      "gender": "male",
-      "userPhoto": "https://i.imgur.com/rUTLxZC.jpg",
-      "catId": null,
-      "lastLoginTime": null,
-      "bookingHistory": null
-    },
-    {
-      "email": "wqb501@gmail.com",
-      "password": "mQvSB4KIa",
-      "nickname": "Leo",
-      "userName": "駱延宣",
-      "phone": "0945440671",
-      "id": 18,
-      "birthday": "1985-07-30",
-      "address": "新北市八里區中山路二段195號",
-      "gender": "male",
-      "userPhoto": "https://i.imgur.com/rUTLxZC.jpg",
-      "catId": [12],
-      "lastLoginTime": null,
-      "bookingHistory": null
-    },
-    {
-      "email": "pfvtr19960@hotmail.com",
-      "password": "fOc2RiRM",
-      "nickname": "Amelia",
-      "userName": "阮琳伯",
-      "phone": "0976058062",
-      "id": 19,
-      "birthday": "2002-08-01",
-      "address": "台北市內湖區石潭路99號",
-      "gender": "female",
-      "userPhoto": "https://i.imgur.com/rUTLxZC.jpg",
-      "catId": null,
-      "lastLoginTime": null,
-      "bookingHistory": null
-    },
-    {
-      "email": "onh615@proton.com",
-      "password": "3bgxCcPs4X",
-      "nickname": "Noah",
-      "userName": "吳鈺瑄",
-      "phone": "0931660432",
-      "id": 20,
-      "birthday": "1997-02-19",
-      "address": "新北市三芝區中正路一段105號",
-      "gender": "male",
-      "userPhoto": "https://i.imgur.com/rUTLxZC.jpg",
-      "catId": [13],
-      "lastLoginTime": null,
-      "bookingHistory": null
-    },
-    {
-      "email": "nom037@zoho.com",
-      "password": "BiMEWW5y",
-      "nickname": "Evelyn",
-      "userName": "魏宛臻",
-      "phone": "0960245116",
-      "id": 21,
-      "birthday": "2004-10-02",
-      "address": "台北市士林區中山北路五段55號",
-      "gender": "female",
-      "userPhoto": "https://i.imgur.com/rUTLxZC.jpg",
-      "catId": 14,
-      "lastLoginTime": null,
-      "bookingHistory": null
-    },
-    {
-      "email": "zha637@proton.com",
-      "password": "yNqcEPhrIKS",
-      "nickname": "Muhammad",
-      "userName": "林惠雯",
-      "phone": "0951849067",
-      "id": 22,
-      "birthday": "1986-03-14",
-      "address": "新北市金山區中山路三段100號",
-      "gender": "male",
-      "userPhoto": "https://i.imgur.com/rUTLxZC.jpg",
-      "catId": null,
-      "lastLoginTime": null,
-      "bookingHistory": null
-    },
-    {
-      "email": "ahc361@gmxmail.com",
-      "password": "7zBi7iUbhTK",
-      "nickname": "Abigail",
-      "userName": "黃麗富",
-      "phone": "0971353881",
-      "id": 23,
-      "birthday": "1992-06-18",
-      "address": "台北市北投區中央南路二段32號",
-      "gender": "female",
-      "userPhoto": "https://i.imgur.com/rUTLxZC.jpg",
-      "catId": null,
-      "lastLoginTime": null,
-      "bookingHistory": null
-    },
-    {
-      "email": "vnjj2322@icloudmail.com",
-      "password": "OaWnyNbn4",
-      "nickname": "Henry",
-      "userName": "汪冠志",
-      "phone": "0909221510",
-      "id": 24,
-      "birthday": "2003-11-13",
-      "address": "新北市石門區中山路一段90號",
-      "gender": "female",
-      "userPhoto": "https://i.imgur.com/rUTLxZC.jpg",
-      "catId": null,
-      "lastLoginTime": null,
-      "bookingHistory": null
-    },
-    {
-      "email": "igwde83967@icloudmail.com",
-      "password": "dXCKuouiYi9",
-      "nickname": "Emily",
-      "userName": "吳孟雪",
-      "phone": "0952281469",
-      "id": 25,
-      "birthday": "1989-04-07",
-      "address": "台北市萬里區中山路二段168號",
-      "gender": "male",
-      "userPhoto": "https://i.imgur.com/rUTLxZC.jpg",
-      "catId": 15,
-      "lastLoginTime": null,
-      "bookingHistory": null
-    },
-    {
-      "email": "tuq292@yahoo.com",
-      "password": "Q54DkbdqvT",
-      "nickname": "Owen",
-      "userName": "張淑貞",
-      "phone": "0920491324",
-      "id": 26,
-      "birthday": "1996-08-16",
-      "address": "新北市雙溪區中山路一段38號",
-      "gender": "male",
-      "userPhoto": "https://i.imgur.com/rUTLxZC.jpg",
-      "catId": null,
-      "lastLoginTime": null,
-      "bookingHistory": null
-    },
-    {
-      "email": "aihd3010@proton.com",
-      "password": "k0WQsmkACWrJ",
-      "nickname": "Sofia",
-      "userName": "林有貴",
-      "phone": "0977643421",
-      "id": 27,
-      "birthday": "2005-06-25",
-      "address": "台北市瑞芳區中正路168號",
-      "gender": "male",
-      "userPhoto": "https://i.imgur.com/rUTLxZC.jpg",
-      "catId": [16],
-      "lastLoginTime": null,
-      "bookingHistory": null
-    },
-    {
-      "email": "siusf37245@yahoo.com",
-      "password": "9Xg76RvGbZc",
-      "nickname": "Emma",
-      "userName": "郭仁添",
-      "phone": "0982701277",
-      "id": 28,
-      "birthday": "1999-12-31",
-      "address": "新北市貢寮區中正路一段185號",
-      "gender": "female",
-      "userPhoto": "https://i.imgur.com/rUTLxZC.jpg",
-      "catId": null,
-      "lastLoginTime": null,
-      "bookingHistory": null
-    },
-    {
-      "email": "xhb230@hotmail.com",
-      "password": "U78JCBXeQ2V",
-      "nickname": "Avery",
-      "userName": "黃淑婷",
-      "phone": "0965302988",
-      "id": 29,
-      "birthday": "1987-09-10",
-      "address": "台北市平溪區石底里1號",
-      "gender": "female",
-      "userPhoto": "https://i.imgur.com/rUTLxZC.jpg",
-      "catId": [17],
-      "lastLoginTime": null,
-      "bookingHistory": null
-    },
-    {
-      "email": "xcjrv27433@gmxmail.com",
-      "password": "GcTK4ynd2KT",
-      "nickname": "Sebastian",
-      "userName": "謝佩妃",
-      "phone": "0988420390",
-      "id": 30,
-      "birthday": "2004-04-14",
-      "address": "新北市石碇區中山路三段50號",
-      "gender": "female",
-      "userPhoto": "https://i.imgur.com/rUTLxZC.jpg",
-      "catId": null,
-      "lastLoginTime": null,
-      "bookingHistory": null
-    },
-    {
-      "email": "yey650@aolmail.com",
-      "password": "45TjLSwf",
-      "nickname": "Elizabeth",
-      "userName": "林俊宏",
-      "phone": "0935818715",
-      "id": 31,
-      "birthday": "2001-01-16",
-      "address": "台北市神岡區福興里8號",
-      "gender": "male",
-      "userPhoto": "https://i.imgur.com/rUTLxZC.jpg",
-      "catId": null,
-      "lastLoginTime": null,
-      "bookingHistory": null
-    },
-    {
-      "email": "ccg465@hotmail.com",
-      "password": "arIEKlOxcN7",
-      "nickname": "Benjamin",
-      "userName": "盧琦沛",
-      "phone": "0945417472",
-      "id": 32,
-      "birthday": "1998-05-07",
-      "address": "新北市坪林區中山路二段68號",
-      "gender": "male",
-      "userPhoto": "https://i.imgur.com/rUTLxZC.jpg",
-      "catId": [18],
-      "lastLoginTime": null,
-      "bookingHistory": null
-    },
-    {
-      "email": "fpexq56949@zoho.com",
-      "password": "TDbjC8Uenm6y",
-      "nickname": "Sofia",
-      "userName": "吳雅仁",
-      "phone": "0908084690",
-      "id": 33,
-      "birthday": "1991-03-24",
-      "address": "台北市龍潭區仁愛里88號",
-      "gender": "female",
-      "userPhoto": "https://i.imgur.com/rUTLxZC.jpg",
-      "catId": [19, 20],
-      "lastLoginTime": null,
-      "bookingHistory": null
-    },
-    {
-      "email": "lzkdp40915@hotmail.com",
-      "password": "TIcrqKQ2X",
-      "nickname": "Ethan",
-      "userName": "黃玉依",
-      "phone": "0951860982",
-      "id": 34,
-      "birthday": "1983-08-29",
-      "address": "新北市烏來區中山路一段155號",
-      "gender": "male",
-      "userPhoto": "https://i.imgur.com/rUTLxZC.jpg",
-      "catId": null,
-      "lastLoginTime": null,
-      "bookingHistory": null
-    },
-    {
-      "email": "qopsd72061@yahoo.com",
-      "password": "UWLl3VjahDFy",
-      "nickname": "Avery",
-      "userName": "岑林惟",
-      "phone": "0913810949",
-      "id": 35,
-      "birthday": "1990-10-23",
-      "address": "台北市丹鳳區文化里8號",
-      "gender": "male",
-      "userPhoto": "https://i.imgur.com/rUTLxZC.jpg",
-      "catId": null,
-      "lastLoginTime": null,
-      "bookingHistory": null
-    },
-    {
-      "email": "jyof2602@icloudmail.com",
-      "password": "W8RNsW4wH",
-      "nickname": "Harper",
-      "userName": "陳秋月",
-      "phone": "0998102641",
-      "id": 36,
-      "birthday": "1994-09-06",
-      "address": "新北市泰山區中山路二段3號",
-      "gender": "female",
-      "userPhoto": "https://i.imgur.com/rUTLxZC.jpg",
-      "catId": [21],
-      "lastLoginTime": null,
-      "bookingHistory": null
-    },
-    {
-      "email": "ehwn3387@zoho.com",
-      "password": "DdW4kzhre41",
-      "nickname": "Grace",
-      "userName": "吳憶航",
-      "phone": "0938899955",
-      "id": 37,
-      "birthday": "2000-02-27",
-      "address": "台北市大園區中正東路38號",
-      "gender": "male",
-      "userPhoto": "https://i.imgur.com/rUTLxZC.jpg",
-      "catId": null,
-      "lastLoginTime": null,
-      "bookingHistory": null
-    },
-    {
-      "email": "mft569@proton.com",
-      "password": "KneRejIvG",
-      "nickname": "Liam",
-      "userName": "施岳紹",
-      "phone": "0916662556",
-      "id": 38,
-      "birthday": "2003-02-02",
-      "address": "新北市林口區中山路五段288號",
-      "gender": "male",
-      "userPhoto": "https://i.imgur.com/rUTLxZC.jpg",
-      "catId": null,
-      "lastLoginTime": null,
-      "bookingHistory": null
-    },
-    {
-      "email": "nmun7509@aolmail.com",
-      "password": "rS2q7TSYUyg",
-      "nickname": "Lily",
-      "userName": "林彥齊",
-      "phone": "0900160129",
-      "id": 39,
-      "birthday": "1997-07-26",
-      "address": "台北市蘆竹區中山路二段6號",
-      "gender": "female",
-      "userPhoto": "https://i.imgur.com/rUTLxZC.jpg",
-      "catId": [22],
-      "lastLoginTime": null,
-      "bookingHistory": null
-    },
-    {
-      "email": "rdvb0211@hotmail.com",
-      "password": "i0OqVvPUo",
-      "nickname": "Alexander",
-      "userName": "鄧淑慧",
-      "phone": "0995270961",
-      "id": 40,
-      "birthday": "1984-11-12",
-      "address": "新北市八德區中山路一段56號",
-      "gender": "male",
-      "userPhoto": "https://i.imgur.com/rUTLxZC.jpg",
-      "catId": [23],
-      "lastLoginTime": null,
-      "bookingHistory": null
-    },
-    {
-      "email": "vcp392@zoho.com",
-      "password": "pzjJKuO7XXdA",
-      "nickname": "Scarlett",
-      "userName": "王禎哲",
-      "phone": "0994117820",
-      "id": 41,
-      "birthday": "1981-12-26",
-      "address": "台北市大溪區中山北路二段168號",
-      "gender": "male",
-      "userPhoto": "https://i.imgur.com/rUTLxZC.jpg",
-      "catId": null,
-      "lastLoginTime": null,
-      "bookingHistory": null
-    },
-    {
-      "email": "rfxey69454@icloudmail.com",
-      "password": "1o3z48fPbE",
-      "nickname": "James",
-      "userName": "楊耀伯",
-      "phone": "0984855525",
-      "id": 42,
-      "birthday": "2002-06-08",
-      "address": "新北市龍岡區仁德路11號",
-      "gender": "male",
-      "userPhoto": "https://i.imgur.com/rUTLxZC.jpg",
-      "catId": [24],
-      "lastLoginTime": null,
-      "bookingHistory": null
-    },
-    {
-      "email": "gis885@zoho.com",
-      "password": "UzV78WdUb",
-      "nickname": "Aria",
-      "userName": "劉曉萍",
-      "phone": "0978711424",
-      "id": 43,
-      "birthday": "1982-04-18",
-      "address": "台北市楊梅區中山路三段55號",
-      "gender": "female",
-      "userPhoto": "https://i.imgur.com/rUTLxZC.jpg",
-      "catId": null,
-      "lastLoginTime": null,
-      "bookingHistory": null
-    },
-    {
-      "email": "psf044@yahoo.com",
-      "password": "XSPOAhvlYK7",
-      "nickname": "Caleb",
-      "userName": "黃筱珍",
-      "phone": "0976823086",
-      "id": 44,
-      "birthday": "2005-01-10",
-      "address": "新北市芎林區中山路三段58號",
-      "gender": "female",
-      "userPhoto": "https://i.imgur.com/rUTLxZC.jpg",
-      "catId": null,
-      "lastLoginTime": null,
-      "bookingHistory": null
-    },
-    {
-      "email": "xxg586@zoho.com",
-      "password": "UN8Gm5h8",
-      "nickname": "Ella",
-      "userName": "林佩君",
-      "phone": "0962569595",
-      "id": 45,
-      "birthday": "1995-08-13",
-      "address": "台北市新屋區中山路二段75號",
-      "gender": "female",
-      "userPhoto": "https://i.imgur.com/rUTLxZC.jpg",
-      "catId": [25, 26],
-      "lastLoginTime": null,
-      "bookingHistory": null
-    },
-    {
-      "email": "eqpdq47168@yahoo.com",
-      "password": "zcOztzNJs",
-      "nickname": "Luke",
-      "userName": "施泓仲",
-      "phone": "0956471093",
-      "id": 46,
-      "birthday": "1992-02-03",
-      "address": "新北市橫山區中山路三段1號",
-      "gender": "male",
-      "userPhoto": "https://i.imgur.com/rUTLxZC.jpg",
-      "catId": [27],
-      "lastLoginTime": null,
-      "bookingHistory": null
-    },
-    {
-      "email": "hwa202@aolmail.com",
-      "password": "j5OMC7RWZgv",
-      "nickname": "Chloe",
-      "userName": "林有東",
-      "phone": "0980204485",
-      "id": 47,
-      "birthday": "1993-06-30",
-      "address": "台北市石碇區中山路一段50號",
-      "gender": "male",
-      "userPhoto": "https://i.imgur.com/rUTLxZC.jpg",
-      "catId": [28],
-      "lastLoginTime": null,
-      "bookingHistory": null
-    },
-    {
-      "email": "sew870@gmxmail.com",
-      "password": "YdUYM0qkFPRA",
-      "nickname": "Daniel",
-      "userName": "吳宗其",
-      "phone": "0977715564",
-      "id": 48,
-      "birthday": "1988-10-31",
-      "address": "新北市平溪區中山路三段48號",
-      "gender": "male",
-      "userPhoto": "https://i.imgur.com/rUTLxZC.jpg",
-      "catId": null,
-      "lastLoginTime": null,
-      "bookingHistory": null
-    },
-    {
-      "email": "ypz241@yahoo.com",
-      "password": "eTtC3WB1aHsb",
-      "nickname": "Zoey",
-      "userName": "吳怡如",
-      "phone": "0930615742",
-      "id": 49,
-      "birthday": "2004-12-15",
-      "gender": "male",
-      "userPhoto": "https://i.imgur.com/rUTLxZC.jpg",
-      "catId": [29],
-      "lastLoginTime": null,
-      "bookingHistory": null
-    },
-    {
-      "email": "curl8250@zoho.com",
-      "password": "thDKcL5Ww",
-      "nickname": "Michael",
-      "userName": "盛婷婷",
-      "phone": "0927133332",
-      "id": 50,
-      "birthday": "1986-09-21",
-      "gender": "female",
-      "userPhoto": "https://i.imgur.com/rUTLxZC.jpg",
-      "catId": [30],
-      "lastLoginTime": null,
-      "bookingHistory": null
-    },
-    {
-      "email": "nhivb81904@yahoo.com",
-      "password": "UlN92zIk9",
-      "nickname": "Riley",
-      "userName": "陳婉婷",
-      "phone": "0907904080",
-      "id": 51,
-      "birthday": "2000-07-05",
-      "gender": "female",
-      "userPhoto": "https://i.imgur.com/rUTLxZC.jpg",
-      "catId": null,
-      "lastLoginTime": null,
-      "bookingHistory": null
-    }
+      {
+          "email": "fortest@gmail.com",
+          "password": "$2a$10$33jFKbgrdn7BQ0IBNiPzT.W.zjPqfFgBxlfgCXEmhXoANql.DsoFO",
+          "nickname": "測試帳號",
+          "userName": "測試帳號",
+          "phone": "0960964130",
+          "id": 1,
+          "gender": "male",
+          "userPhoto": "https://i.imgur.com/rUTLxZC.jpg",
+          "catId": [
+              1
+          ],
+          "lastLoginTime": "2023-10-09T11:34"
+      },
+      {
+          "email": "tjyln64404@proton.com",
+          "password": "txGt2QFYy6lx",
+          "nickname": "Liam",
+          "userName": "張文義",
+          "phone": "0982141092",
+          "id": 2,
+          "birthday": "2005-09-12",
+          "address": "新北市板橋區翠華街4號",
+          "gender": "male",
+          "userPhoto": "https://i.imgur.com/rUTLxZC.jpg",
+          "catId": null,
+          "lastLoginTime": null
+      },
+      {
+          "email": "nlfio72957@yahoo.com",
+          "password": "sMbEZYEf2Xd",
+          "nickname": "Olivia",
+          "userName": "顏玉恩",
+          "phone": "0903789154",
+          "id": 3,
+          "birthday": "1993-10-21",
+          "address": "台北市大安區信義路四段505號",
+          "gender": "female",
+          "userPhoto": "https://i.imgur.com/rUTLxZC.jpg",
+          "catId": [
+              2
+          ],
+          "lastLoginTime": null
+      },
+      {
+          "email": "mwg172@yahoo.com",
+          "password": "fq7DIZkm",
+          "nickname": "Noah",
+          "userName": "蕭穎辛",
+          "phone": "0903368714",
+          "id": 4,
+          "birthday": "1995-05-29",
+          "address": "新北市三峽區大學路151號",
+          "gender": "male",
+          "userPhoto": "https://i.imgur.com/rUTLxZC.jpg",
+          "catId": null,
+          "lastLoginTime": null
+      },
+      {
+          "email": "xthz5266@hotmail.com",
+          "password": "zaThobeFCJN",
+          "nickname": "Emma",
+          "userName": "宗協民",
+          "phone": "0985938759",
+          "id": 5,
+          "birthday": "1984-02-22",
+          "address": "台北市中山區南京東路三段65號",
+          "gender": "male",
+          "userPhoto": "https://i.imgur.com/rUTLxZC.jpg",
+          "catId": null,
+          "lastLoginTime": null
+      },
+      {
+          "email": "emre5340@gmail.com",
+          "password": "p68e3AMT",
+          "nickname": "Oliver",
+          "userName": "吳政凌",
+          "phone": "0974559639",
+          "id": 6,
+          "birthday": "1981-06-03",
+          "address": "新北市永和區永和路35號",
+          "gender": "female",
+          "userPhoto": "https://i.imgur.com/rUTLxZC.jpg",
+          "catId": [
+              3,
+              4
+          ],
+          "lastLoginTime": null
+      },
+      {
+          "email": "pwvj9716@aolmail.com",
+          "password": "eugjWjw9n",
+          "nickname": "Ava",
+          "userName": "王仲緯",
+          "phone": "0922518197",
+          "id": 7,
+          "birthday": "1998-08-17",
+          "address": "台北市萬華區漢中街205號",
+          "gender": "male",
+          "userPhoto": "https://i.imgur.com/rUTLxZC.jpg",
+          "catId": [
+              5
+          ],
+          "lastLoginTime": null
+      },
+      {
+          "email": "pfzqj83586@hotmail.com",
+          "password": "cx30PFYTsi",
+          "nickname": "Ethan",
+          "userName": "蔡珮齊",
+          "phone": "0912627378",
+          "id": 8,
+          "birthday": "1990-12-11",
+          "address": "新北市新店區中興路101號",
+          "gender": "male",
+          "userPhoto": "https://i.imgur.com/rUTLxZC.jpg",
+          "catId": [
+              6
+          ],
+          "lastLoginTime": null
+      },
+      {
+          "email": "mxkoo23137@aolmail.com",
+          "password": "mGu6zYdGkQlv",
+          "nickname": "Charlotte",
+          "userName": "林雅婷",
+          "phone": "0955705518",
+          "id": 9,
+          "birthday": "1991-11-08",
+          "address": "台北市松山區敦化南路一段103號",
+          "gender": "female",
+          "userPhoto": "https://i.imgur.com/rUTLxZC.jpg",
+          "catId": [
+              7
+          ],
+          "lastLoginTime": null
+      },
+      {
+          "email": "evnk6550@zoho.com",
+          "password": "azEPaFlag",
+          "nickname": "Aiden",
+          "userName": "林宗堅",
+          "phone": "0937930540",
+          "id": 10,
+          "birthday": "1996-09-28",
+          "address": "新北市中和區員山路110號",
+          "gender": "female",
+          "userPhoto": "https://i.imgur.com/rUTLxZC.jpg",
+          "catId": null,
+          "lastLoginTime": null
+      },
+      {
+          "email": "zyume72430@zoho.com",
+          "password": "F0YLREpMoqa",
+          "nickname": "Sophia",
+          "userName": "汪豪輝",
+          "phone": "0943548311",
+          "id": 11,
+          "birthday": "1994-04-25",
+          "address": "台北市信義區忠孝東路五段508號",
+          "gender": "male",
+          "userPhoto": "https://i.imgur.com/rUTLxZC.jpg",
+          "catId": [
+              8
+          ],
+          "lastLoginTime": null
+      },
+      {
+          "email": "yuzs9515@proton.com",
+          "password": "tcklP72C",
+          "nickname": "Muhammad",
+          "userName": "杜德茹",
+          "phone": "0962980066",
+          "id": 12,
+          "birthday": "1983-07-15",
+          "address": "新北市汐止區大同路二段181號",
+          "gender": "male",
+          "userPhoto": "https://i.imgur.com/rUTLxZC.jpg",
+          "catId": 9,
+          "lastLoginTime": null
+      },
+      {
+          "email": "ieq507@aolmail.com",
+          "password": "PLZEGbhmM",
+          "nickname": "Isabella",
+          "userName": "陳雅慧",
+          "phone": "0900268379",
+          "id": 13,
+          "birthday": "1980-05-20",
+          "address": "台北市大同區民權西路58號",
+          "gender": "male",
+          "userPhoto": "https://i.imgur.com/rUTLxZC.jpg",
+          "catId": null,
+          "lastLoginTime": null
+      },
+      {
+          "email": "ycbb7706@zoho.com",
+          "password": "WBQ9ZocmvS",
+          "nickname": "Lucas",
+          "userName": "張美季",
+          "phone": "0915078312",
+          "id": 14,
+          "birthday": "2001-03-26",
+          "address": "新北市樹林區保安街101號",
+          "gender": "female",
+          "userPhoto": "https://i.imgur.com/rUTLxZC.jpg",
+          "catId": null,
+          "lastLoginTime": null
+      },
+      {
+          "email": "wtuo8184@zoho.com",
+          "password": "840jg2yxKU0",
+          "nickname": "Mia",
+          "userName": "黃明珠",
+          "phone": "0961796669",
+          "id": 15,
+          "birthday": "1999-04-09",
+          "address": "台北市文山區興隆路三段188號",
+          "gender": "male",
+          "userPhoto": "https://i.imgur.com/rUTLxZC.jpg",
+          "catId": [
+              10,
+              11
+          ],
+          "lastLoginTime": null
+      },
+      {
+          "email": "lfo891@gmxmail.com",
+          "password": "WhCoCLFCLDq",
+          "nickname": "Oliver",
+          "userName": "傅佩君",
+          "phone": "0902574097",
+          "id": 16,
+          "birthday": "1982-01-05",
+          "address": "新北市淡水區中正路一段54號",
+          "gender": "female",
+          "userPhoto": "https://i.imgur.com/rUTLxZC.jpg",
+          "catId": null,
+          "lastLoginTime": null
+      },
+      {
+          "email": "wcwf8579@hotmail.com",
+          "password": "EyQ0zEy4Szv5",
+          "nickname": "Harper",
+          "userName": "劉凱琳",
+          "phone": "0999784423",
+          "id": 17,
+          "birthday": "1988-12-06",
+          "address": "台北市南港區研究院路二段128號",
+          "gender": "male",
+          "userPhoto": "https://i.imgur.com/rUTLxZC.jpg",
+          "catId": null,
+          "lastLoginTime": null
+      },
+      {
+          "email": "wqb501@gmail.com",
+          "password": "mQvSB4KIa",
+          "nickname": "Leo",
+          "userName": "駱延宣",
+          "phone": "0945440671",
+          "id": 18,
+          "birthday": "1985-07-30",
+          "address": "新北市八里區中山路二段195號",
+          "gender": "male",
+          "userPhoto": "https://i.imgur.com/rUTLxZC.jpg",
+          "catId": [
+              12
+          ],
+          "lastLoginTime": null
+      },
+      {
+          "email": "pfvtr19960@hotmail.com",
+          "password": "fOc2RiRM",
+          "nickname": "Amelia",
+          "userName": "阮琳伯",
+          "phone": "0976058062",
+          "id": 19,
+          "birthday": "2002-08-01",
+          "address": "台北市內湖區石潭路99號",
+          "gender": "female",
+          "userPhoto": "https://i.imgur.com/rUTLxZC.jpg",
+          "catId": null,
+          "lastLoginTime": null
+      },
+      {
+          "email": "onh615@proton.com",
+          "password": "3bgxCcPs4X",
+          "nickname": "Noah",
+          "userName": "吳鈺瑄",
+          "phone": "0931660432",
+          "id": 20,
+          "birthday": "1997-02-19",
+          "address": "新北市三芝區中正路一段105號",
+          "gender": "male",
+          "userPhoto": "https://i.imgur.com/rUTLxZC.jpg",
+          "catId": [
+              13
+          ],
+          "lastLoginTime": null
+      },
+      {
+          "email": "nom037@zoho.com",
+          "password": "BiMEWW5y",
+          "nickname": "Evelyn",
+          "userName": "魏宛臻",
+          "phone": "0960245116",
+          "id": 21,
+          "birthday": "2004-10-02",
+          "address": "台北市士林區中山北路五段55號",
+          "gender": "female",
+          "userPhoto": "https://i.imgur.com/rUTLxZC.jpg",
+          "catId": 14,
+          "lastLoginTime": null
+      },
+      {
+          "email": "zha637@proton.com",
+          "password": "yNqcEPhrIKS",
+          "nickname": "Muhammad",
+          "userName": "林惠雯",
+          "phone": "0951849067",
+          "id": 22,
+          "birthday": "1986-03-14",
+          "address": "新北市金山區中山路三段100號",
+          "gender": "male",
+          "userPhoto": "https://i.imgur.com/rUTLxZC.jpg",
+          "catId": null,
+          "lastLoginTime": null
+      },
+      {
+          "email": "ahc361@gmxmail.com",
+          "password": "7zBi7iUbhTK",
+          "nickname": "Abigail",
+          "userName": "黃麗富",
+          "phone": "0971353881",
+          "id": 23,
+          "birthday": "1992-06-18",
+          "address": "台北市北投區中央南路二段32號",
+          "gender": "female",
+          "userPhoto": "https://i.imgur.com/rUTLxZC.jpg",
+          "catId": null,
+          "lastLoginTime": null
+      },
+      {
+          "email": "vnjj2322@icloudmail.com",
+          "password": "OaWnyNbn4",
+          "nickname": "Henry",
+          "userName": "汪冠志",
+          "phone": "0909221510",
+          "id": 24,
+          "birthday": "2003-11-13",
+          "address": "新北市石門區中山路一段90號",
+          "gender": "female",
+          "userPhoto": "https://i.imgur.com/rUTLxZC.jpg",
+          "catId": null,
+          "lastLoginTime": null
+      },
+      {
+          "email": "igwde83967@icloudmail.com",
+          "password": "dXCKuouiYi9",
+          "nickname": "Emily",
+          "userName": "吳孟雪",
+          "phone": "0952281469",
+          "id": 25,
+          "birthday": "1989-04-07",
+          "address": "台北市萬里區中山路二段168號",
+          "gender": "male",
+          "userPhoto": "https://i.imgur.com/rUTLxZC.jpg",
+          "catId": 15,
+          "lastLoginTime": null
+      },
+      {
+          "email": "tuq292@yahoo.com",
+          "password": "Q54DkbdqvT",
+          "nickname": "Owen",
+          "userName": "張淑貞",
+          "phone": "0920491324",
+          "id": 26,
+          "birthday": "1996-08-16",
+          "address": "新北市雙溪區中山路一段38號",
+          "gender": "male",
+          "userPhoto": "https://i.imgur.com/rUTLxZC.jpg",
+          "catId": null,
+          "lastLoginTime": null
+      },
+      {
+          "email": "aihd3010@proton.com",
+          "password": "k0WQsmkACWrJ",
+          "nickname": "Sofia",
+          "userName": "林有貴",
+          "phone": "0977643421",
+          "id": 27,
+          "birthday": "2005-06-25",
+          "address": "台北市瑞芳區中正路168號",
+          "gender": "male",
+          "userPhoto": "https://i.imgur.com/rUTLxZC.jpg",
+          "catId": [
+              16
+          ],
+          "lastLoginTime": null
+      },
+      {
+          "email": "siusf37245@yahoo.com",
+          "password": "9Xg76RvGbZc",
+          "nickname": "Emma",
+          "userName": "郭仁添",
+          "phone": "0982701277",
+          "id": 28,
+          "birthday": "1999-12-31",
+          "address": "新北市貢寮區中正路一段185號",
+          "gender": "female",
+          "userPhoto": "https://i.imgur.com/rUTLxZC.jpg",
+          "catId": null,
+          "lastLoginTime": null
+      },
+      {
+          "email": "xhb230@hotmail.com",
+          "password": "U78JCBXeQ2V",
+          "nickname": "Avery",
+          "userName": "黃淑婷",
+          "phone": "0965302988",
+          "id": 29,
+          "birthday": "1987-09-10",
+          "address": "台北市平溪區石底里1號",
+          "gender": "female",
+          "userPhoto": "https://i.imgur.com/rUTLxZC.jpg",
+          "catId": [
+              17
+          ],
+          "lastLoginTime": null
+      },
+      {
+          "email": "xcjrv27433@gmxmail.com",
+          "password": "GcTK4ynd2KT",
+          "nickname": "Sebastian",
+          "userName": "謝佩妃",
+          "phone": "0988420390",
+          "id": 30,
+          "birthday": "2004-04-14",
+          "address": "新北市石碇區中山路三段50號",
+          "gender": "female",
+          "userPhoto": "https://i.imgur.com/rUTLxZC.jpg",
+          "catId": null,
+          "lastLoginTime": null
+      },
+      {
+          "email": "yey650@aolmail.com",
+          "password": "45TjLSwf",
+          "nickname": "Elizabeth",
+          "userName": "林俊宏",
+          "phone": "0935818715",
+          "id": 31,
+          "birthday": "2001-01-16",
+          "address": "台北市神岡區福興里8號",
+          "gender": "male",
+          "userPhoto": "https://i.imgur.com/rUTLxZC.jpg",
+          "catId": null,
+          "lastLoginTime": null
+      },
+      {
+          "email": "ccg465@hotmail.com",
+          "password": "arIEKlOxcN7",
+          "nickname": "Benjamin",
+          "userName": "盧琦沛",
+          "phone": "0945417472",
+          "id": 32,
+          "birthday": "1998-05-07",
+          "address": "新北市坪林區中山路二段68號",
+          "gender": "male",
+          "userPhoto": "https://i.imgur.com/rUTLxZC.jpg",
+          "catId": [
+              18
+          ],
+          "lastLoginTime": null
+      },
+      {
+          "email": "fpexq56949@zoho.com",
+          "password": "TDbjC8Uenm6y",
+          "nickname": "Sofia",
+          "userName": "吳雅仁",
+          "phone": "0908084690",
+          "id": 33,
+          "birthday": "1991-03-24",
+          "address": "台北市龍潭區仁愛里88號",
+          "gender": "female",
+          "userPhoto": "https://i.imgur.com/rUTLxZC.jpg",
+          "catId": [
+              19,
+              20
+          ],
+          "lastLoginTime": null
+      },
+      {
+          "email": "lzkdp40915@hotmail.com",
+          "password": "TIcrqKQ2X",
+          "nickname": "Ethan",
+          "userName": "黃玉依",
+          "phone": "0951860982",
+          "id": 34,
+          "birthday": "1983-08-29",
+          "address": "新北市烏來區中山路一段155號",
+          "gender": "male",
+          "userPhoto": "https://i.imgur.com/rUTLxZC.jpg",
+          "catId": null,
+          "lastLoginTime": null
+      },
+      {
+          "email": "qopsd72061@yahoo.com",
+          "password": "UWLl3VjahDFy",
+          "nickname": "Avery",
+          "userName": "岑林惟",
+          "phone": "0913810949",
+          "id": 35,
+          "birthday": "1990-10-23",
+          "address": "台北市丹鳳區文化里8號",
+          "gender": "male",
+          "userPhoto": "https://i.imgur.com/rUTLxZC.jpg",
+          "catId": null,
+          "lastLoginTime": null
+      },
+      {
+          "email": "jyof2602@icloudmail.com",
+          "password": "W8RNsW4wH",
+          "nickname": "Harper",
+          "userName": "陳秋月",
+          "phone": "0998102641",
+          "id": 36,
+          "birthday": "1994-09-06",
+          "address": "新北市泰山區中山路二段3號",
+          "gender": "female",
+          "userPhoto": "https://i.imgur.com/rUTLxZC.jpg",
+          "catId": [
+              21
+          ],
+          "lastLoginTime": null
+      },
+      {
+          "email": "ehwn3387@zoho.com",
+          "password": "DdW4kzhre41",
+          "nickname": "Grace",
+          "userName": "吳憶航",
+          "phone": "0938899955",
+          "id": 37,
+          "birthday": "2000-02-27",
+          "address": "台北市大園區中正東路38號",
+          "gender": "male",
+          "userPhoto": "https://i.imgur.com/rUTLxZC.jpg",
+          "catId": null,
+          "lastLoginTime": null
+      },
+      {
+          "email": "mft569@proton.com",
+          "password": "KneRejIvG",
+          "nickname": "Liam",
+          "userName": "施岳紹",
+          "phone": "0916662556",
+          "id": 38,
+          "birthday": "2003-02-02",
+          "address": "新北市林口區中山路五段288號",
+          "gender": "male",
+          "userPhoto": "https://i.imgur.com/rUTLxZC.jpg",
+          "catId": null,
+          "lastLoginTime": null
+      },
+      {
+          "email": "nmun7509@aolmail.com",
+          "password": "rS2q7TSYUyg",
+          "nickname": "Lily",
+          "userName": "林彥齊",
+          "phone": "0900160129",
+          "id": 39,
+          "birthday": "1997-07-26",
+          "address": "台北市蘆竹區中山路二段6號",
+          "gender": "female",
+          "userPhoto": "https://i.imgur.com/rUTLxZC.jpg",
+          "catId": [
+              22
+          ],
+          "lastLoginTime": null
+      },
+      {
+          "email": "rdvb0211@hotmail.com",
+          "password": "i0OqVvPUo",
+          "nickname": "Alexander",
+          "userName": "鄧淑慧",
+          "phone": "0995270961",
+          "id": 40,
+          "birthday": "1984-11-12",
+          "address": "新北市八德區中山路一段56號",
+          "gender": "male",
+          "userPhoto": "https://i.imgur.com/rUTLxZC.jpg",
+          "catId": [
+              23
+          ],
+          "lastLoginTime": null
+      },
+      {
+          "email": "vcp392@zoho.com",
+          "password": "pzjJKuO7XXdA",
+          "nickname": "Scarlett",
+          "userName": "王禎哲",
+          "phone": "0994117820",
+          "id": 41,
+          "birthday": "1981-12-26",
+          "address": "台北市大溪區中山北路二段168號",
+          "gender": "male",
+          "userPhoto": "https://i.imgur.com/rUTLxZC.jpg",
+          "catId": null,
+          "lastLoginTime": null
+      },
+      {
+          "email": "rfxey69454@icloudmail.com",
+          "password": "1o3z48fPbE",
+          "nickname": "James",
+          "userName": "楊耀伯",
+          "phone": "0984855525",
+          "id": 42,
+          "birthday": "2002-06-08",
+          "address": "新北市龍岡區仁德路11號",
+          "gender": "male",
+          "userPhoto": "https://i.imgur.com/rUTLxZC.jpg",
+          "catId": [
+              24
+          ],
+          "lastLoginTime": null
+      },
+      {
+          "email": "gis885@zoho.com",
+          "password": "UzV78WdUb",
+          "nickname": "Aria",
+          "userName": "劉曉萍",
+          "phone": "0978711424",
+          "id": 43,
+          "birthday": "1982-04-18",
+          "address": "台北市楊梅區中山路三段55號",
+          "gender": "female",
+          "userPhoto": "https://i.imgur.com/rUTLxZC.jpg",
+          "catId": null,
+          "lastLoginTime": null
+      },
+      {
+          "email": "psf044@yahoo.com",
+          "password": "XSPOAhvlYK7",
+          "nickname": "Caleb",
+          "userName": "黃筱珍",
+          "phone": "0976823086",
+          "id": 44,
+          "birthday": "2005-01-10",
+          "address": "新北市芎林區中山路三段58號",
+          "gender": "female",
+          "userPhoto": "https://i.imgur.com/rUTLxZC.jpg",
+          "catId": null,
+          "lastLoginTime": null
+      },
+      {
+          "email": "xxg586@zoho.com",
+          "password": "UN8Gm5h8",
+          "nickname": "Ella",
+          "userName": "林佩君",
+          "phone": "0962569595",
+          "id": 45,
+          "birthday": "1995-08-13",
+          "address": "台北市新屋區中山路二段75號",
+          "gender": "female",
+          "userPhoto": "https://i.imgur.com/rUTLxZC.jpg",
+          "catId": [
+              25,
+              26
+          ],
+          "lastLoginTime": null
+      },
+      {
+          "email": "eqpdq47168@yahoo.com",
+          "password": "zcOztzNJs",
+          "nickname": "Luke",
+          "userName": "施泓仲",
+          "phone": "0956471093",
+          "id": 46,
+          "birthday": "1992-02-03",
+          "address": "新北市橫山區中山路三段1號",
+          "gender": "male",
+          "userPhoto": "https://i.imgur.com/rUTLxZC.jpg",
+          "catId": [
+              27
+          ],
+          "lastLoginTime": null
+      },
+      {
+          "email": "hwa202@aolmail.com",
+          "password": "j5OMC7RWZgv",
+          "nickname": "Chloe",
+          "userName": "林有東",
+          "phone": "0980204485",
+          "id": 47,
+          "birthday": "1993-06-30",
+          "address": "台北市石碇區中山路一段50號",
+          "gender": "male",
+          "userPhoto": "https://i.imgur.com/rUTLxZC.jpg",
+          "catId": [
+              28
+          ],
+          "lastLoginTime": null
+      },
+      {
+          "email": "sew870@gmxmail.com",
+          "password": "YdUYM0qkFPRA",
+          "nickname": "Daniel",
+          "userName": "吳宗其",
+          "phone": "0977715564",
+          "id": 48,
+          "birthday": "1988-10-31",
+          "address": "新北市平溪區中山路三段48號",
+          "gender": "male",
+          "userPhoto": "https://i.imgur.com/rUTLxZC.jpg",
+          "catId": null,
+          "lastLoginTime": null
+      },
+      {
+          "email": "ypz241@yahoo.com",
+          "password": "eTtC3WB1aHsb",
+          "nickname": "Zoey",
+          "userName": "吳怡如",
+          "phone": "0930615742",
+          "id": 49,
+          "birthday": "2004-12-15",
+          "gender": "male",
+          "userPhoto": "https://i.imgur.com/rUTLxZC.jpg",
+          "catId": [
+              29
+          ],
+          "lastLoginTime": null
+      },
+      {
+          "email": "curl8250@zoho.com",
+          "password": "thDKcL5Ww",
+          "nickname": "Michael",
+          "userName": "盛婷婷",
+          "phone": "0927133332",
+          "id": 50,
+          "birthday": "1986-09-21",
+          "gender": "female",
+          "userPhoto": "https://i.imgur.com/rUTLxZC.jpg",
+          "catId": [
+              30
+          ],
+          "lastLoginTime": null
+      },
+      {
+          "email": "nhivb81904@yahoo.com",
+          "password": "UlN92zIk9",
+          "nickname": "Riley",
+          "userName": "陳婉婷",
+          "phone": "0907904080",
+          "id": 51,
+          "birthday": "2000-07-05",
+          "gender": "female",
+          "userPhoto": "https://i.imgur.com/rUTLxZC.jpg",
+          "catId": null,
+          "lastLoginTime": null
+      }
   ],
   "cats": [
-    {
-      "catName": "Coco",
-      "id": 1,
-      "catBreeds": "孟加拉貓",
-      "colors": "黑狸花",
-      "birthday": "2022-03-15",
-      "weight": 4.9,
-      "gender": "female",
-      "catPhoto": "https://i.imgur.com/slCGtuf.png",
-      "userId": 1
-    },
-    {
-      "catName": "Binx",
-      "id": 2,
-      "catBreeds": "孟加拉貓",
-      "colors": "三花",
-      "birthday": "2018-05-22",
-      "weight": 3.5,
-      "gender": "female",
-      "catPhoto": "https://i.imgur.com/slCGtuf.png",
-      "userId": 3
-    },
-    {
-      "catName": "Charlie",
-      "id": 3,
-      "catBreeds": "俄羅斯藍貓",
-      "colors": "黑狸花",
-      "birthday": "2022-02-10",
-      "weight": 4.8,
-      "gender": "female",
-      "catPhoto": "https://i.imgur.com/slCGtuf.png",
-      "userId": 6
-    },
-    {
-      "catName": "Lucky",
-      "id": 4,
-      "catBreeds": "金吉拉",
-      "colors": "無花",
-      "birthday": "2020-12-01",
-      "weight": 3.1,
-      "gender": "female",
-      "catPhoto": "https://i.imgur.com/slCGtuf.png",
-      "userId": 6
-    },
-    {
-      "catName": "Coco",
-      "id": 5,
-      "catBreeds": "美國短毛貓",
-      "colors": "白貂",
-      "birthday": "2019-09-28",
-      "weight": 4.1,
-      "gender": "male",
-      "catPhoto": "https://i.imgur.com/slCGtuf.png",
-      "userId": 7
-    },
-    {
-      "catName": "Luna",
-      "id": 6,
-      "catBreeds": "鄉貓",
-      "colors": "貴賓",
-      "birthday": "2018-10-03",
-      "weight": 4.3,
-      "gender": "male",
-      "catPhoto": "https://i.imgur.com/slCGtuf.png",
-      "userId": 8
-    },
-    {
-      "catName": "小白",
-      "id": 7,
-      "catBreeds": "孟加拉貓",
-      "colors": "灰虎斑",
-      "birthday": "2020-02-19",
-      "weight": 4.8,
-      "gender": "female",
-      "catPhoto": "https://i.imgur.com/slCGtuf.png",
-      "userId": 9
-    },
-    {
-      "catName": "Sasha",
-      "id": 8,
-      "catBreeds": "布偶",
-      "colors": "無花",
-      "birthday": "2021-11-05",
-      "weight": 3.9,
-      "gender": "male",
-      "catPhoto": "https://i.imgur.com/slCGtuf.png",
-      "userId": 11
-    },
-    {
-      "catName": "Bella",
-      "id": 9,
-      "catBreeds": "金吉拉",
-      "colors": "貴賓",
-      "birthday": "2023-03-07",
-      "weight": 4.8,
-      "gender": "male",
-      "catPhoto": "https://i.imgur.com/slCGtuf.png",
-      "userId": 12
-    },
-    {
-      "catName": "Pumpkin",
-      "id": 10,
-      "catBreeds": "鄉貓",
-      "colors": "三花",
-      "birthday": "2019-07-11",
-      "weight": 3.6,
-      "gender": "male",
-      "catPhoto": "https://i.imgur.com/slCGtuf.png",
-      "userId": 15
-    },
-    {
-      "catName": "Milo",
-      "id": 11,
-      "catBreeds": "豹貓",
-      "colors": "三花",
-      "birthday": "2018-09-30",
-      "weight": 5,
-      "gender": "female",
-      "catPhoto": "https://i.imgur.com/slCGtuf.png",
-      "userId": 15
-    },
-    {
-      "catName": "Bubbles",
-      "id": 12,
-      "catBreeds": "金吉拉",
-      "colors": "藍虎斑",
-      "birthday": "2023-05-18",
-      "weight": 4.7,
-      "gender": "female",
-      "catPhoto": "https://i.imgur.com/slCGtuf.png",
-      "userId": 18
-    },
-    {
-      "catName": "Blue",
-      "id": 13,
-      "catBreeds": "鄉貓",
-      "colors": "黑狸花",
-      "birthday": "2020-07-09",
-      "weight": 3.7,
-      "gender": "male",
-      "catPhoto": "https://i.imgur.com/slCGtuf.png",
-      "userId": 20
-    },
-    {
-      "catName": "Oreo",
-      "id": 14,
-      "catBreeds": "金吉拉",
-      "colors": "黑貂",
-      "birthday": "2022-01-26",
-      "weight": 4.8,
-      "gender": "female",
-      "catPhoto": "https://i.imgur.com/slCGtuf.png",
-      "userId": 21
-    },
-    {
-      "catName": "Max",
-      "id": 15,
-      "catBreeds": "英短",
-      "colors": "三花",
-      "birthday": "2022-11-14",
-      "weight": 3.2,
-      "gender": "female",
-      "catPhoto": "https://i.imgur.com/slCGtuf.png",
-      "userId": 25
-    },
-    {
-      "catName": "小花",
-      "id": 16,
-      "catBreeds": "英短",
-      "colors": "藍虎斑",
-      "birthday": "2021-01-02",
-      "weight": 5,
-      "gender": "female",
-      "catPhoto": "https://i.imgur.com/slCGtuf.png",
-      "userId": 27
-    },
-    {
-      "catName": "Daisy",
-      "id": 17,
-      "catBreeds": "布偶",
-      "colors": "無花",
-      "birthday": "2019-12-20",
-      "weight": 4.3,
-      "gender": "female",
-      "catPhoto": "https://i.imgur.com/slCGtuf.png",
-      "userId": 29
-    },
-    {
-      "catName": "Tiger",
-      "id": 18,
-      "catBreeds": "俄羅斯藍貓",
-      "colors": "無花",
-      "birthday": "2019-04-17",
-      "weight": 4.8,
-      "gender": "female",
-      "catPhoto": "https://i.imgur.com/slCGtuf.png",
-      "userId": 32
-    },
-    {
-      "catName": "Lucy",
-      "id": 19,
-      "catBreeds": "豹貓",
-      "colors": "虎斑",
-      "birthday": "2018-03-04",
-      "weight": 4.1,
-      "gender": "male",
-      "catPhoto": "https://i.imgur.com/slCGtuf.png",
-      "userId": 33
-    },
-    {
-      "catName": "Mittens",
-      "id": 20,
-      "catBreeds": "鄉貓",
-      "colors": "灰狸花",
-      "birthday": "2023-06-23",
-      "weight": 3.4,
-      "gender": "male",
-      "catPhoto": "https://i.imgur.com/slCGtuf.png",
-      "userId": 33
-    },
-    {
-      "catName": "Pumpkin",
-      "id": 21,
-      "catBreeds": "布偶",
-      "colors": "黑狸花",
-      "birthday": "2022-09-09",
-      "weight": 3.5,
-      "gender": "female",
-      "catPhoto": "https://i.imgur.com/slCGtuf.png",
-      "userId": 36
-    },
-    {
-      "catName": "Angel",
-      "id": 22,
-      "catBreeds": "美國短毛貓",
-      "colors": "白貂",
-      "birthday": "2020-06-12",
-      "weight": 4.8,
-      "gender": "female",
-      "catPhoto": "https://i.imgur.com/slCGtuf.png",
-      "userId": 39
-    },
-    {
-      "catName": "Leo",
-      "id": 23,
-      "catBreeds": "俄羅斯藍貓",
-      "colors": "白貂",
-      "birthday": "2018-08-06",
-      "weight": 3.5,
-      "gender": "male",
-      "catPhoto": "https://i.imgur.com/slCGtuf.png",
-      "userId": 40
-    },
-    {
-      "catName": "Whiskey",
-      "id": 24,
-      "catBreeds": "英短",
-      "colors": "貴賓",
-      "birthday": "2019-11-25",
-      "weight": 3.4,
-      "gender": "male",
-      "catPhoto": "https://i.imgur.com/slCGtuf.png",
-      "userId": 42
-    },
-    {
-      "catName": "Oliver",
-      "id": 25,
-      "catBreeds": "布偶",
-      "colors": "灰虎斑",
-      "birthday": "2021-06-03",
-      "weight": 3.3,
-      "gender": "male",
-      "catPhoto": "https://i.imgur.com/slCGtuf.png",
-      "userId": 45
-    },
-    {
-      "catName": "小白",
-      "id": 26,
-      "catBreeds": "暹羅",
-      "colors": "灰狸花",
-      "birthday": "2020-03-30",
-      "weight": 4.4,
-      "gender": "male",
-      "catPhoto": "https://i.imgur.com/slCGtuf.png",
-      "userId": 45
-    },
-    {
-      "catName": "Whiskers",
-      "id": 27,
-      "catBreeds": "暹羅",
-      "colors": "三花",
-      "birthday": "2023-02-22",
-      "weight": 3.3,
-      "gender": "female",
-      "catPhoto": "https://i.imgur.com/slCGtuf.png",
-      "userId": 46
-    },
-    {
-      "catName": "Lily",
-      "id": 28,
-      "catBreeds": "豹貓",
-      "colors": "灰虎斑",
-      "birthday": "2021-08-13",
-      "weight": 3.4,
-      "gender": "male",
-      "catPhoto": "https://i.imgur.com/slCGtuf.png",
-      "userId": 47
-    },
-    {
-      "catName": "Spike",
-      "id": 29,
-      "catBreeds": "孟加拉貓",
-      "colors": "虎斑",
-      "birthday": "2022-05-05",
-      "weight": 3.8,
-      "gender": "male",
-      "catPhoto": "https://i.imgur.com/slCGtuf.png",
-      "userId": 49
-    },
-    {
-      "catName": "阿福",
-      "id": 30,
-      "catBreeds": "鄉貓",
-      "colors": "虎斑",
-      "birthday": "2018-04-26",
-      "weight": 4,
-      "gender": "male",
-      "catPhoto": "https://i.imgur.com/slCGtuf.png",
-      "userId": 50
-    }
+      {
+          "catName": "Coco",
+          "id": 1,
+          "catBreeds": "孟加拉貓",
+          "colors": "黑狸花",
+          "birthday": "2022-03-15",
+          "weight": 4.9,
+          "gender": "female",
+          "catPhoto": "https://i.imgur.com/slCGtuf.png",
+          "userId": 1
+      },
+      {
+          "catName": "Binx",
+          "id": 2,
+          "catBreeds": "孟加拉貓",
+          "colors": "三花",
+          "birthday": "2018-05-22",
+          "weight": 3.5,
+          "gender": "female",
+          "catPhoto": "https://i.imgur.com/slCGtuf.png",
+          "userId": 3
+      },
+      {
+          "catName": "Charlie",
+          "id": 3,
+          "catBreeds": "俄羅斯藍貓",
+          "colors": "黑狸花",
+          "birthday": "2022-02-10",
+          "weight": 4.8,
+          "gender": "female",
+          "catPhoto": "https://i.imgur.com/slCGtuf.png",
+          "userId": 6
+      },
+      {
+          "catName": "Lucky",
+          "id": 4,
+          "catBreeds": "金吉拉",
+          "colors": "無花",
+          "birthday": "2020-12-01",
+          "weight": 3.1,
+          "gender": "female",
+          "catPhoto": "https://i.imgur.com/slCGtuf.png",
+          "userId": 6
+      },
+      {
+          "catName": "Coco",
+          "id": 5,
+          "catBreeds": "美國短毛貓",
+          "colors": "白貂",
+          "birthday": "2019-09-28",
+          "weight": 4.1,
+          "gender": "male",
+          "catPhoto": "https://i.imgur.com/slCGtuf.png",
+          "userId": 7
+      },
+      {
+          "catName": "Luna",
+          "id": 6,
+          "catBreeds": "鄉貓",
+          "colors": "貴賓",
+          "birthday": "2018-10-03",
+          "weight": 4.3,
+          "gender": "male",
+          "catPhoto": "https://i.imgur.com/slCGtuf.png",
+          "userId": 8
+      },
+      {
+          "catName": "小白",
+          "id": 7,
+          "catBreeds": "孟加拉貓",
+          "colors": "灰虎斑",
+          "birthday": "2020-02-19",
+          "weight": 4.8,
+          "gender": "female",
+          "catPhoto": "https://i.imgur.com/slCGtuf.png",
+          "userId": 9
+      },
+      {
+          "catName": "Sasha",
+          "id": 8,
+          "catBreeds": "布偶",
+          "colors": "無花",
+          "birthday": "2021-11-05",
+          "weight": 3.9,
+          "gender": "male",
+          "catPhoto": "https://i.imgur.com/slCGtuf.png",
+          "userId": 11
+      },
+      {
+          "catName": "Bella",
+          "id": 9,
+          "catBreeds": "金吉拉",
+          "colors": "貴賓",
+          "birthday": "2023-03-07",
+          "weight": 4.8,
+          "gender": "male",
+          "catPhoto": "https://i.imgur.com/slCGtuf.png",
+          "userId": 12
+      },
+      {
+          "catName": "Pumpkin",
+          "id": 10,
+          "catBreeds": "鄉貓",
+          "colors": "三花",
+          "birthday": "2019-07-11",
+          "weight": 3.6,
+          "gender": "male",
+          "catPhoto": "https://i.imgur.com/slCGtuf.png",
+          "userId": 15
+      },
+      {
+          "catName": "Milo",
+          "id": 11,
+          "catBreeds": "豹貓",
+          "colors": "三花",
+          "birthday": "2018-09-30",
+          "weight": 5,
+          "gender": "female",
+          "catPhoto": "https://i.imgur.com/slCGtuf.png",
+          "userId": 15
+      },
+      {
+          "catName": "Bubbles",
+          "id": 12,
+          "catBreeds": "金吉拉",
+          "colors": "藍虎斑",
+          "birthday": "2023-05-18",
+          "weight": 4.7,
+          "gender": "female",
+          "catPhoto": "https://i.imgur.com/slCGtuf.png",
+          "userId": 18
+      },
+      {
+          "catName": "Blue",
+          "id": 13,
+          "catBreeds": "鄉貓",
+          "colors": "黑狸花",
+          "birthday": "2020-07-09",
+          "weight": 3.7,
+          "gender": "male",
+          "catPhoto": "https://i.imgur.com/slCGtuf.png",
+          "userId": 20
+      },
+      {
+          "catName": "Oreo",
+          "id": 14,
+          "catBreeds": "金吉拉",
+          "colors": "黑貂",
+          "birthday": "2022-01-26",
+          "weight": 4.8,
+          "gender": "female",
+          "catPhoto": "https://i.imgur.com/slCGtuf.png",
+          "userId": 21
+      },
+      {
+          "catName": "Max",
+          "id": 15,
+          "catBreeds": "英短",
+          "colors": "三花",
+          "birthday": "2022-11-14",
+          "weight": 3.2,
+          "gender": "female",
+          "catPhoto": "https://i.imgur.com/slCGtuf.png",
+          "userId": 25
+      },
+      {
+          "catName": "小花",
+          "id": 16,
+          "catBreeds": "英短",
+          "colors": "藍虎斑",
+          "birthday": "2021-01-02",
+          "weight": 5,
+          "gender": "female",
+          "catPhoto": "https://i.imgur.com/slCGtuf.png",
+          "userId": 27
+      },
+      {
+          "catName": "Daisy",
+          "id": 17,
+          "catBreeds": "布偶",
+          "colors": "無花",
+          "birthday": "2019-12-20",
+          "weight": 4.3,
+          "gender": "female",
+          "catPhoto": "https://i.imgur.com/slCGtuf.png",
+          "userId": 29
+      },
+      {
+          "catName": "Tiger",
+          "id": 18,
+          "catBreeds": "俄羅斯藍貓",
+          "colors": "無花",
+          "birthday": "2019-04-17",
+          "weight": 4.8,
+          "gender": "female",
+          "catPhoto": "https://i.imgur.com/slCGtuf.png",
+          "userId": 32
+      },
+      {
+          "catName": "Lucy",
+          "id": 19,
+          "catBreeds": "豹貓",
+          "colors": "虎斑",
+          "birthday": "2018-03-04",
+          "weight": 4.1,
+          "gender": "male",
+          "catPhoto": "https://i.imgur.com/slCGtuf.png",
+          "userId": 33
+      },
+      {
+          "catName": "Mittens",
+          "id": 20,
+          "catBreeds": "鄉貓",
+          "colors": "灰狸花",
+          "birthday": "2023-06-23",
+          "weight": 3.4,
+          "gender": "male",
+          "catPhoto": "https://i.imgur.com/slCGtuf.png",
+          "userId": 33
+      },
+      {
+          "catName": "Pumpkin",
+          "id": 21,
+          "catBreeds": "布偶",
+          "colors": "黑狸花",
+          "birthday": "2022-09-09",
+          "weight": 3.5,
+          "gender": "female",
+          "catPhoto": "https://i.imgur.com/slCGtuf.png",
+          "userId": 36
+      },
+      {
+          "catName": "Angel",
+          "id": 22,
+          "catBreeds": "美國短毛貓",
+          "colors": "白貂",
+          "birthday": "2020-06-12",
+          "weight": 4.8,
+          "gender": "female",
+          "catPhoto": "https://i.imgur.com/slCGtuf.png",
+          "userId": 39
+      },
+      {
+          "catName": "Leo",
+          "id": 23,
+          "catBreeds": "俄羅斯藍貓",
+          "colors": "白貂",
+          "birthday": "2018-08-06",
+          "weight": 3.5,
+          "gender": "male",
+          "catPhoto": "https://i.imgur.com/slCGtuf.png",
+          "userId": 40
+      },
+      {
+          "catName": "Whiskey",
+          "id": 24,
+          "catBreeds": "英短",
+          "colors": "貴賓",
+          "birthday": "2019-11-25",
+          "weight": 3.4,
+          "gender": "male",
+          "catPhoto": "https://i.imgur.com/slCGtuf.png",
+          "userId": 42
+      },
+      {
+          "catName": "Oliver",
+          "id": 25,
+          "catBreeds": "布偶",
+          "colors": "灰虎斑",
+          "birthday": "2021-06-03",
+          "weight": 3.3,
+          "gender": "male",
+          "catPhoto": "https://i.imgur.com/slCGtuf.png",
+          "userId": 45
+      },
+      {
+          "catName": "小白",
+          "id": 26,
+          "catBreeds": "暹羅",
+          "colors": "灰狸花",
+          "birthday": "2020-03-30",
+          "weight": 4.4,
+          "gender": "male",
+          "catPhoto": "https://i.imgur.com/slCGtuf.png",
+          "userId": 45
+      },
+      {
+          "catName": "Whiskers",
+          "id": 27,
+          "catBreeds": "暹羅",
+          "colors": "三花",
+          "birthday": "2023-02-22",
+          "weight": 3.3,
+          "gender": "female",
+          "catPhoto": "https://i.imgur.com/slCGtuf.png",
+          "userId": 46
+      },
+      {
+          "catName": "Lily",
+          "id": 28,
+          "catBreeds": "豹貓",
+          "colors": "灰虎斑",
+          "birthday": "2021-08-13",
+          "weight": 3.4,
+          "gender": "male",
+          "catPhoto": "https://i.imgur.com/slCGtuf.png",
+          "userId": 47
+      },
+      {
+          "catName": "Spike",
+          "id": 29,
+          "catBreeds": "孟加拉貓",
+          "colors": "虎斑",
+          "birthday": "2022-05-05",
+          "weight": 3.8,
+          "gender": "male",
+          "catPhoto": "https://i.imgur.com/slCGtuf.png",
+          "userId": 49
+      },
+      {
+          "catName": "阿福",
+          "id": 30,
+          "catBreeds": "鄉貓",
+          "colors": "虎斑",
+          "birthday": "2018-04-26",
+          "weight": 4,
+          "gender": "male",
+          "catPhoto": "https://i.imgur.com/slCGtuf.png",
+          "userId": 50
+      }
   ],
   "rooms": [
-    {
-      "name": "經典房",
-      "quantity": 3,
-      "price": 800,
-      "facility": [
-        "床舖",
-        "小型爬架",
-        "個人窩",
-        "對外窗",
-        "循環飲水機",
-        "平面貓砂盆",
-        "優質貓砂"
-      ],
-      "size": [105, 145, 300],
-      "id": 1
-    },
-    {
-      "name": "精緻房",
-      "quantity": 3,
-      "price": 1000,
-      "facility": [
-        "床舖",
-        "小型爬架",
-        "個人窩",
-        "專屬玩具",
-        "對外窗",
-        "循環飲水機",
-        "平面貓砂盆",
-        "優質貓砂"
-      ],
-      "size": [155, 145, 300],
-      "id": 2
-    },
-
-    {
-      "name": "豪華房",
-      "quantity": 3,
-      "price": 1500,
-      "facility": [
-        "豪華床舖",
-        "大型爬架",
-        "專屬吊床",
-        "個人窩",
-        "專屬玩具",
-        "循環飲水機",
-        "平面貓砂盆",
-        "優質貓砂",
-        "高級貓抓板"
-      ],
-      "size": [210, 145, 300],
-      "id": 3
-    }
+      {
+          "name": "經典房",
+          "quantity": 3,
+          "price": 800,
+          "facility": [
+              "床舖",
+              "小型爬架",
+              "個人窩",
+              "對外窗",
+              "循環飲水機",
+              "平面貓砂盆",
+              "優質貓砂"
+          ],
+          "size": [
+              105,
+              145,
+              300
+          ],
+          "id": 1
+      },
+      {
+          "name": "精緻房",
+          "quantity": 3,
+          "price": 1000,
+          "facility": [
+              "床舖",
+              "小型爬架",
+              "個人窩",
+              "專屬玩具",
+              "對外窗",
+              "循環飲水機",
+              "平面貓砂盆",
+              "優質貓砂"
+          ],
+          "size": [
+              155,
+              145,
+              300
+          ],
+          "id": 2
+      },
+      {
+          "name": "豪華房",
+          "quantity": 3,
+          "price": 1500,
+          "facility": [
+              "豪華床舖",
+              "大型爬架",
+              "專屬吊床",
+              "個人窩",
+              "專屬玩具",
+              "循環飲水機",
+              "平面貓砂盆",
+              "優質貓砂",
+              "高級貓抓板"
+          ],
+          "size": [
+              210,
+              145,
+              300
+          ],
+          "id": 3
+      }
   ],
   "roomStates": [
-    {
-      "date": "2023-09-17",
-      "status": {
-        "classic_A": true,
-        "classic_B": false,
-        "classic_C": false,
-        "delicate_A": true,
-        "delicate_B": false,
-        "delicate_C": true,
-        "luxury_A": false,
-        "luxury_B": true,
-        "luxury_C": false
+      {
+          "date": "2023-12-11",
+          "availableCount": {
+              "classic": 0,
+              "delicate": 0,
+              "luxury": 2
+          },
+          "status": {
+              "classic_A_canUse": false,
+              "classic_B_canUse": false,
+              "classic_C_canUse": false,
+              "delicate_A_canUse": false,
+              "delicate_B_canUse": false,
+              "delicate_C_canUse": false,
+              "luxury_A_canUse": true,
+              "luxury_B_canUse": false,
+              "luxury_C_canUse": true
+          },
+          "id": 1
       },
-      "id": 1
-    },
-    {
-      "date": "2023-09-18",
-      "status": {
-        "classic_A": true,
-        "classic_B": false,
-        "classic_C": true,
-        "delicate_A": false,
-        "delicate_B": true,
-        "delicate_C": true,
-        "luxury_A": true,
-        "luxury_B": true,
-        "luxury_C": false
+      {
+          "date": "2023-12-12",
+          "availableCount": {
+              "classic": 0,
+              "delicate": 0,
+              "luxury": 1
+          },
+          "status": {
+              "classic_A_canUse": false,
+              "classic_B_canUse": false,
+              "classic_C_canUse": false,
+              "delicate_A_canUse": false,
+              "delicate_B_canUse": false,
+              "delicate_C_canUse": false,
+              "luxury_A_canUse": true,
+              "luxury_B_canUse": false,
+              "luxury_C_canUse": false
+          },
+          "id": 2
       },
-      "id": 2
-    }
+      {
+          "date": "2023-12-13",
+          "availableCount": {
+              "classic": 0,
+              "delicate": 0,
+              "luxury": 0
+          },
+          "status": {
+              "classic_A_canUse": false,
+              "classic_B_canUse": false,
+              "classic_C_canUse": false,
+              "delicate_A_canUse": false,
+              "delicate_B_canUse": false,
+              "delicate_C_canUse": false,
+              "luxury_A_canUse": false,
+              "luxury_B_canUse": false,
+              "luxury_C_canUse": false
+          },
+          "id": 3
+      },
+      {
+          "date": "2023-12-14",
+          "availableCount": {
+              "classic": 1,
+              "delicate": 1,
+              "luxury": 1
+          },
+          "status": {
+              "classic_A_canUse": false,
+              "classic_B_canUse": true,
+              "classic_C_canUse": false,
+              "delicate_A_canUse": false,
+              "delicate_B_canUse": false,
+              "delicate_C_canUse": true,
+              "luxury_A_canUse": false,
+              "luxury_B_canUse": true,
+              "luxury_C_canUse": false
+          },
+          "id": 4
+      },
+      {
+          "date": "2023-12-15",
+          "availableCount": {
+              "classic": 0,
+              "delicate": 2,
+              "luxury": 1
+          },
+          "status": {
+              "classic_A_canUse": false,
+              "classic_B_canUse": false,
+              "classic_C_canUse": false,
+              "delicate_A_canUse": true,
+              "delicate_B_canUse": false,
+              "delicate_C_canUse": true,
+              "luxury_A_canUse": false,
+              "luxury_B_canUse": true,
+              "luxury_C_canUse": false
+          },
+          "id": 5
+      },
+      {
+          "date": "2023-12-16",
+          "availableCount": {
+              "classic": 0,
+              "delicate": 2,
+              "luxury": 2
+          },
+          "status": {
+              "classic_A_canUse": false,
+              "classic_B_canUse": false,
+              "classic_C_canUse": false,
+              "delicate_A_canUse": true,
+              "delicate_B_canUse": false,
+              "delicate_C_canUse": true,
+              "luxury_A_canUse": false,
+              "luxury_B_canUse": true,
+              "luxury_C_canUse": true
+          },
+          "id": 6
+      },
+      {
+          "date": "2023-12-17",
+          "availableCount": {
+              "classic": 1,
+              "delicate": 1,
+              "luxury": 2
+          },
+          "status": {
+              "classic_A_canUse": true,
+              "classic_B_canUse": false,
+              "classic_C_canUse": false,
+              "delicate_A_canUse": false,
+              "delicate_B_canUse": true,
+              "delicate_C_canUse": false,
+              "luxury_A_canUse": false,
+              "luxury_B_canUse": true,
+              "luxury_C_canUse": true
+          },
+          "id": 7
+      },
+      {
+          "date": "2023-12-18",
+          "availableCount": {
+              "classic": 1,
+              "delicate": 0,
+              "luxury": 2
+          },
+          "status": {
+              "classic_A_canUse": false,
+              "classic_B_canUse": false,
+              "classic_C_canUse": true,
+              "delicate_A_canUse": false,
+              "delicate_B_canUse": false,
+              "delicate_C_canUse": false,
+              "luxury_A_canUse": true,
+              "luxury_B_canUse": true,
+              "luxury_C_canUse": false
+          },
+          "id": 8
+      },
+      {
+          "date": "2023-12-19",
+          "availableCount": {
+              "classic": 0,
+              "delicate": 0,
+              "luxury": 1
+          },
+          "status": {
+              "classic_A_canUse": false,
+              "classic_B_canUse": false,
+              "classic_C_canUse": false,
+              "delicate_A_canUse": false,
+              "delicate_B_canUse": false,
+              "delicate_C_canUse": false,
+              "luxury_A_canUse": true,
+              "luxury_B_canUse": false,
+              "luxury_C_canUse": false
+          },
+          "id": 9
+      },
+      {
+          "date": "2023-12-20",
+          "availableCount": {
+              "classic": 0,
+              "delicate": 1,
+              "luxury": 1
+          },
+          "status": {
+              "classic_A_canUse": false,
+              "classic_B_canUse": false,
+              "classic_C_canUse": false,
+              "delicate_A_canUse": false,
+              "delicate_B_canUse": false,
+              "delicate_C_canUse": true,
+              "luxury_A_canUse": true,
+              "luxury_B_canUse": false,
+              "luxury_C_canUse": false
+          },
+          "id": 10
+      },
+      {
+          "date": "2023-12-21",
+          "availableCount": {
+              "classic": 1,
+              "delicate": 0,
+              "luxury": 1
+          },
+          "status": {
+              "classic_A_canUse": true,
+              "classic_B_canUse": false,
+              "classic_C_canUse": false,
+              "delicate_A_canUse": false,
+              "delicate_B_canUse": false,
+              "delicate_C_canUse": false,
+              "luxury_A_canUse": true,
+              "luxury_B_canUse": false,
+              "luxury_C_canUse": false
+          },
+          "id": 11
+      },
+      {
+          "date": "2023-12-22",
+          "availableCount": {
+              "classic": 2,
+              "delicate": 1,
+              "luxury": 1
+          },
+          "status": {
+              "classic_A_canUse": true,
+              "classic_B_canUse": false,
+              "classic_C_canUse": true,
+              "delicate_A_canUse": false,
+              "delicate_B_canUse": true,
+              "delicate_C_canUse": false,
+              "luxury_A_canUse": true,
+              "luxury_B_canUse": false,
+              "luxury_C_canUse": false
+          },
+          "id": 12
+      },
+      {
+          "date": "2023-12-23",
+          "availableCount": {
+              "classic": 1,
+              "delicate": 2,
+              "luxury": 1
+          },
+          "status": {
+              "classic_A_canUse": true,
+              "classic_B_canUse": false,
+              "classic_C_canUse": false,
+              "delicate_A_canUse": true,
+              "delicate_B_canUse": true,
+              "delicate_C_canUse": false,
+              "luxury_A_canUse": false,
+              "luxury_B_canUse": false,
+              "luxury_C_canUse": true
+          },
+          "id": 13
+      },
+      {
+          "date": "2023-12-24",
+          "availableCount": {
+              "classic": 1,
+              "delicate": 1,
+              "luxury": 0
+          },
+          "status": {
+              "classic_A_canUse": true,
+              "classic_B_canUse": false,
+              "classic_C_canUse": false,
+              "delicate_A_canUse": false,
+              "delicate_B_canUse": false,
+              "delicate_C_canUse": true,
+              "luxury_A_canUse": false,
+              "luxury_B_canUse": false,
+              "luxury_C_canUse": false
+          },
+          "id": 14
+      },
+      {
+          "date": "2023-12-25",
+          "availableCount": {
+              "classic": 2,
+              "delicate": 1,
+              "luxury": 1
+          },
+          "status": {
+              "classic_A_canUse": true,
+              "classic_B_canUse": true,
+              "classic_C_canUse": false,
+              "delicate_A_canUse": false,
+              "delicate_B_canUse": false,
+              "delicate_C_canUse": true,
+              "luxury_A_canUse": false,
+              "luxury_B_canUse": true,
+              "luxury_C_canUse": false
+          },
+          "id": 15
+      },
+      {
+          "date": "2023-12-26",
+          "availableCount": {
+              "classic": 1,
+              "delicate": 0,
+              "luxury": 2
+          },
+          "status": {
+              "classic_A_canUse": false,
+              "classic_B_canUse": true,
+              "classic_C_canUse": false,
+              "delicate_A_canUse": false,
+              "delicate_B_canUse": false,
+              "delicate_C_canUse": false,
+              "luxury_A_canUse": true,
+              "luxury_B_canUse": true,
+              "luxury_C_canUse": false
+          },
+          "id": 16
+      },
+      {
+          "date": "2023-12-27",
+          "availableCount": {
+              "classic": 0,
+              "delicate": 0,
+              "luxury": 1
+          },
+          "status": {
+              "classic_A_canUse": false,
+              "classic_B_canUse": false,
+              "classic_C_canUse": false,
+              "delicate_A_canUse": false,
+              "delicate_B_canUse": false,
+              "delicate_C_canUse": false,
+              "luxury_A_canUse": true,
+              "luxury_B_canUse": false,
+              "luxury_C_canUse": false
+          },
+          "id": 17
+      },
+      {
+          "date": "2023-12-28",
+          "availableCount": {
+              "classic": 0,
+              "delicate": 1,
+              "luxury": 1
+          },
+          "status": {
+              "classic_A_canUse": false,
+              "classic_B_canUse": false,
+              "classic_C_canUse": false,
+              "delicate_A_canUse": false,
+              "delicate_B_canUse": true,
+              "delicate_C_canUse": false,
+              "luxury_A_canUse": true,
+              "luxury_B_canUse": false,
+              "luxury_C_canUse": false
+          },
+          "id": 18
+      },
+      {
+          "date": "2023-12-29",
+          "availableCount": {
+              "classic": 1,
+              "delicate": 1,
+              "luxury": 1
+          },
+          "status": {
+              "classic_A_canUse": false,
+              "classic_B_canUse": false,
+              "classic_C_canUse": true,
+              "delicate_A_canUse": false,
+              "delicate_B_canUse": true,
+              "delicate_C_canUse": false,
+              "luxury_A_canUse": true,
+              "luxury_B_canUse": false,
+              "luxury_C_canUse": false
+          },
+          "id": 19
+      },
+      {
+          "date": "2023-12-30",
+          "availableCount": {
+              "classic": 2,
+              "delicate": 1,
+              "luxury": 2
+          },
+          "status": {
+              "classic_A_canUse": false,
+              "classic_B_canUse": true,
+              "classic_C_canUse": true,
+              "delicate_A_canUse": false,
+              "delicate_B_canUse": true,
+              "delicate_C_canUse": false,
+              "luxury_A_canUse": true,
+              "luxury_B_canUse": true,
+              "luxury_C_canUse": false
+          },
+          "id": 20
+      },
+      {
+          "date": "2023-12-31",
+          "availableCount": {
+              "classic": 2,
+              "delicate": 2,
+              "luxury": 2
+          },
+          "status": {
+              "classic_A_canUse": false,
+              "classic_B_canUse": true,
+              "classic_C_canUse": true,
+              "delicate_A_canUse": true,
+              "delicate_B_canUse": true,
+              "delicate_C_canUse": false,
+              "luxury_A_canUse": true,
+              "luxury_B_canUse": true,
+              "luxury_C_canUse": false
+          },
+          "id": 21
+      }
   ],
   "bookings": [
-    {
-      "userId": 1,
-      "checkIn": "2023-09-17",
-      "checkOut": "2023-09-19",
-      "roomId": 1,
-      "state": "已退房",
-      "quantity": 1,
-      "price": 1600,
-      "feedback": "服務棒，氣氛好",
-      "id": 1
-    },
-    {
-      "userId": 2,
-      "checkIn": "2023-09-21",
-      "checkOut": "2023-09-24",
-      "roomId": 2,
-      "state": "已退房",
-      "quantity": 3,
-      "price": 3000,
-      "feedback": "很喜歡你們，下次會再來住",
-      "id": 2
-    }
+      {
+          "userId": 1,
+          "checkIn": "2023-09-17",
+          "checkOut": "2023-09-19",
+          "roomId": 1,
+          "state": "已退房",
+          "quantity": 1,
+          "price": 1600,
+          "feedback": "服務棒，氣氛好",
+          "id": 1
+      },
+      {
+          "userId": 2,
+          "checkIn": "2023-09-21",
+          "checkOut": "2023-09-24",
+          "roomId": 2,
+          "state": "已退房",
+          "quantity": 3,
+          "price": 3000,
+          "feedback": "很喜歡你們，下次會再來住",
+          "id": 2
+      }
   ],
   "managers": [
-    {
-      "email": "Hij123@gmail.com",
-      "password": "Hij123456",
-      "name": "陳奕辰",
-      "gender": "male",
-      "birthday": "1989-01-08",
-      "phone": "0933333333",
-      "address": "高雄市橋頭區竹林街32號",
-      "photo": "url",
-      "id": 1
-    },
-    {
-      "email": "Lmn456@gmail.com",
-      "password": "Lmn56789",
-      "name": "周怡君",
-      "gender": "female",
-      "birthday": "1991-01-08",
-      "phone": "0944444444",
-      "address": "屏東縣佳冬鄉佳和路15號",
-      "photo": "url",
-      "id": 2
-    }
+      {
+          "email": "Hij123@gmail.com",
+          "password": "Hij123456",
+          "name": "陳奕辰",
+          "gender": "male",
+          "birthday": "1989-01-08",
+          "phone": "0933333333",
+          "address": "高雄市橋頭區竹林街32號",
+          "photo": "url",
+          "id": 1
+      },
+      {
+          "email": "Lmn456@gmail.com",
+          "password": "Lmn56789",
+          "name": "周怡君",
+          "gender": "female",
+          "birthday": "1991-01-08",
+          "phone": "0944444444",
+          "address": "屏東縣佳冬鄉佳和路15號",
+          "photo": "url",
+          "id": 2
+      }
   ],
   "article": [
-    {
-      "title": "貓咪的魅力：生活中的小幸福",
-      "content": "貓咪，是我們生活中的小幸福。他們的溫柔、好奇和陪伴，總是讓我們心情愉快。每當我們疲憊或壓力山大，貓咪的蓬蓬尾巴和咕嚕聲，都能瞬間讓我們忘卻煩惱。\n\n他們教會了我們珍惜當下，因為貓咪總是全情投入於每個時刻。無論是一個陽光灑落的窗台，還是一個紙箱子，對貓咪而言，都是一個冒險的開始。\n\n讓我們一起感恩身邊的毛絨絨小夥伴，因為他們教會了我們愛、耐心和樂觀。無論生活如何變化，貓咪總是在那裡，提醒著我們：快樂，就在身邊。",
-      "id": 1
-    },
-    {
-      "title": "貓咪的奇幻世界：一場無聲的探險",
-      "content": "每當貓咪閉上眼睛，它們便進入了一個全新的世界。在這個奇幻的地方，每一根草叢、每一片陽光都是一次無聲的探險。貓咪在瞬息萬變的幻想中捕獲著不可見的獵物，追趕著夢中的目標。\n\n這個神秘的世界是我們無法進入的，但我們可以欣賞它們的奇妙冒險。當我們看著貓咪睡覺時，我們也能分享它們的夢想。\n\n讓我們珍惜這些小生命，因為他們教會了我們即使在無聲中也能經歷壯麗的冒險。快來分享你的貓咪奇幻世界的瞬間吧！",
-      "id": 2
-    }
+      {
+          "title": "貓咪的魅力：生活中的小幸福",
+          "content": "貓咪，是我們生活中的小幸福。他們的溫柔、好奇和陪伴，總是讓我們心情愉快。每當我們疲憊或壓力山大，貓咪的蓬蓬尾巴和咕嚕聲，都能瞬間讓我們忘卻煩惱。\n\n他們教會了我們珍惜當下，因為貓咪總是全情投入於每個時刻。無論是一個陽光灑落的窗台，還是一個紙箱子，對貓咪而言，都是一個冒險的開始。\n\n讓我們一起感恩身邊的毛絨絨小夥伴，因為他們教會了我們愛、耐心和樂觀。無論生活如何變化，貓咪總是在那裡，提醒著我們：快樂，就在身邊。",
+          "id": 1
+      },
+      {
+          "title": "貓咪的奇幻世界：一場無聲的探險",
+          "content": "每當貓咪閉上眼睛，它們便進入了一個全新的世界。在這個奇幻的地方，每一根草叢、每一片陽光都是一次無聲的探險。貓咪在瞬息萬變的幻想中捕獲著不可見的獵物，追趕著夢中的目標。\n\n這個神秘的世界是我們無法進入的，但我們可以欣賞它們的奇妙冒險。當我們看著貓咪睡覺時，我們也能分享它們的夢想。\n\n讓我們珍惜這些小生命，因為他們教會了我們即使在無聲中也能經歷壯麗的冒險。快來分享你的貓咪奇幻世界的瞬間吧！",
+          "id": 2
+      }
   ],
   "faqs": [
-    {
-      "title": "我送貓入住時應該攜帶什麼東西？",
-      "content": "請攜帶您的貓的食物，以確保飲食的一致性。您也可以攜帶家中的一些喜愛玩具、床上用品或安慰物品。其餘的事情就交給我們吧。",
-      "id": 1
-    },
-    {
-      "title": "您提供食物，還是我應該攜帶貓的餐食？",
-      "content": "我們提供高質量的貓糧，但如果您的貓有特定的飲食要求或偏好，歡迎攜帶他們的食物。",
-      "id": 2
-    },
-    {
-      "title": "如何預訂貓的住宿？",
-      "content": "您可以通過[提供的預訂方式]預訂您貓的住宿。請聯繫我們以確認可用性和安排預訂。",
-      "id": 3
-    },
-    {
-      "title": "貓需要接種哪些疫苗才能寄宿？",
-      "content": "為了所有貓的安全，我們要求寄宿貓已接種必要的疫苗。請提供當前疫苗接種的證明。",
-      "id": 4
-    },
-    {
-      "title": "您提供寄宿貓的醫療照顧嗎？",
-      "content": "是的，我們會提供基本的醫療照顧，但如果您的貓需要特別的醫療照顧，請提供相關信息，以便我們能夠照顧到您的貓。",
-      "id": 5
-    }
+      {
+          "title": "我送貓入住時應該攜帶什麼東西？",
+          "content": "請攜帶您的貓的食物，以確保飲食的一致性。您也可以攜帶家中的一些喜愛玩具、床上用品或安慰物品。其餘的事情就交給我們吧。",
+          "id": 1
+      },
+      {
+          "title": "您提供食物，還是我應該攜帶貓的餐食？",
+          "content": "我們提供高質量的貓糧，但如果您的貓有特定的飲食要求或偏好，歡迎攜帶他們的食物。",
+          "id": 2
+      },
+      {
+          "title": "如何預訂貓的住宿？",
+          "content": "您可以通過[提供的預訂方式]預訂您貓的住宿。請聯繫我們以確認可用性和安排預訂。",
+          "id": 3
+      },
+      {
+          "title": "貓需要接種哪些疫苗才能寄宿？",
+          "content": "為了所有貓的安全，我們要求寄宿貓已接種必要的疫苗。請提供當前疫苗接種的證明。",
+          "id": 4
+      },
+      {
+          "title": "您提供寄宿貓的醫療照顧嗎？",
+          "content": "是的，我們會提供基本的醫療照顧，但如果您的貓需要特別的醫療照顧，請提供相關信息，以便我們能夠照顧到您的貓。",
+          "id": 5
+      }
   ]
 }

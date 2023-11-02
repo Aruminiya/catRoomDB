@@ -25,7 +25,7 @@
       "address": "新北市板橋區翠華街4號",
       "gender": "male",
       "userPhoto": "https://i.imgur.com/rUTLxZC.jpg",
-      "catId": null,
+      "catId": [],
       "lastLoginTime": null
     },
     {
@@ -55,7 +55,7 @@
       "address": "新北市三峽區大學路151號",
       "gender": "male",
       "userPhoto": "https://i.imgur.com/rUTLxZC.jpg",
-      "catId": null,
+      "catId": [],
       "lastLoginTime": null
     },
     {
@@ -69,7 +69,7 @@
       "address": "台北市中山區南京東路三段65號",
       "gender": "male",
       "userPhoto": "https://i.imgur.com/rUTLxZC.jpg",
-      "catId": null,
+      "catId": [],
       "lastLoginTime": null
     },
     {
@@ -148,7 +148,7 @@
       "address": "新北市中和區員山路110號",
       "gender": "female",
       "userPhoto": "https://i.imgur.com/rUTLxZC.jpg",
-      "catId": null,
+      "catId": [],
       "lastLoginTime": null
     },
     {
@@ -194,7 +194,7 @@
       "address": "台北市大同區民權西路58號",
       "gender": "male",
       "userPhoto": "https://i.imgur.com/rUTLxZC.jpg",
-      "catId": null,
+      "catId": [],
       "lastLoginTime": null
     },
     {
@@ -208,7 +208,7 @@
       "address": "新北市樹林區保安街101號",
       "gender": "female",
       "userPhoto": "https://i.imgur.com/rUTLxZC.jpg",
-      "catId": null,
+      "catId": [],
       "lastLoginTime": null
     },
     {
@@ -239,7 +239,7 @@
       "address": "新北市淡水區中正路一段54號",
       "gender": "female",
       "userPhoto": "https://i.imgur.com/rUTLxZC.jpg",
-      "catId": null,
+      "catId": [],
       "lastLoginTime": null
     },
     {
@@ -253,7 +253,7 @@
       "address": "台北市南港區研究院路二段128號",
       "gender": "male",
       "userPhoto": "https://i.imgur.com/rUTLxZC.jpg",
-      "catId": null,
+      "catId": [],
       "lastLoginTime": null
     },
     {
@@ -283,7 +283,7 @@
       "address": "台北市內湖區石潭路99號",
       "gender": "female",
       "userPhoto": "https://i.imgur.com/rUTLxZC.jpg",
-      "catId": null,
+      "catId": [],
       "lastLoginTime": null
     },
     {
@@ -329,7 +329,7 @@
       "address": "新北市金山區中山路三段100號",
       "gender": "male",
       "userPhoto": "https://i.imgur.com/rUTLxZC.jpg",
-      "catId": null,
+      "catId": [],
       "lastLoginTime": null
     },
     {
@@ -343,7 +343,7 @@
       "address": "台北市北投區中央南路二段32號",
       "gender": "female",
       "userPhoto": "https://i.imgur.com/rUTLxZC.jpg",
-      "catId": null,
+      "catId": [],
       "lastLoginTime": null
     },
     {
@@ -357,7 +357,7 @@
       "address": "新北市石門區中山路一段90號",
       "gender": "female",
       "userPhoto": "https://i.imgur.com/rUTLxZC.jpg",
-      "catId": null,
+      "catId": [],
       "lastLoginTime": null
     },
     {
@@ -387,7 +387,7 @@
       "address": "新北市雙溪區中山路一段38號",
       "gender": "male",
       "userPhoto": "https://i.imgur.com/rUTLxZC.jpg",
-      "catId": null,
+      "catId": [],
       "lastLoginTime": null
     },
     {
@@ -417,7 +417,7 @@
       "address": "新北市貢寮區中正路一段185號",
       "gender": "female",
       "userPhoto": "https://i.imgur.com/rUTLxZC.jpg",
-      "catId": null,
+      "catId": [],
       "lastLoginTime": null
     },
     {
@@ -447,7 +447,7 @@
       "address": "新北市石碇區中山路三段50號",
       "gender": "female",
       "userPhoto": "https://i.imgur.com/rUTLxZC.jpg",
-      "catId": null,
+      "catId": [],
       "lastLoginTime": null
     },
     {
@@ -461,7 +461,7 @@
       "address": "台北市神岡區福興里8號",
       "gender": "male",
       "userPhoto": "https://i.imgur.com/rUTLxZC.jpg",
-      "catId": null,
+      "catId": [],
       "lastLoginTime": null
     },
     {
@@ -508,7 +508,7 @@
       "address": "新北市烏來區中山路一段155號",
       "gender": "male",
       "userPhoto": "https://i.imgur.com/rUTLxZC.jpg",
-      "catId": null,
+      "catId": [],
       "lastLoginTime": null
     },
     {
@@ -522,7 +522,7 @@
       "address": "台北市丹鳳區文化里8號",
       "gender": "male",
       "userPhoto": "https://i.imgur.com/rUTLxZC.jpg",
-      "catId": null,
+      "catId": [],
       "lastLoginTime": null
     },
     {
@@ -552,7 +552,7 @@
       "address": "台北市大園區中正東路38號",
       "gender": "male",
       "userPhoto": "https://i.imgur.com/rUTLxZC.jpg",
-      "catId": null,
+      "catId": [],
       "lastLoginTime": null
     },
     {
@@ -566,7 +566,7 @@
       "address": "新北市林口區中山路五段288號",
       "gender": "male",
       "userPhoto": "https://i.imgur.com/rUTLxZC.jpg",
-      "catId": null,
+      "catId": [],
       "lastLoginTime": null
     },
     {
@@ -612,7 +612,7 @@
       "address": "台北市大溪區中山北路二段168號",
       "gender": "male",
       "userPhoto": "https://i.imgur.com/rUTLxZC.jpg",
-      "catId": null,
+      "catId": [],
       "lastLoginTime": null
     },
     {
@@ -642,7 +642,7 @@
       "address": "台北市楊梅區中山路三段55號",
       "gender": "female",
       "userPhoto": "https://i.imgur.com/rUTLxZC.jpg",
-      "catId": null,
+      "catId": [],
       "lastLoginTime": null
     },
     {
@@ -656,7 +656,7 @@
       "address": "新北市芎林區中山路三段58號",
       "gender": "female",
       "userPhoto": "https://i.imgur.com/rUTLxZC.jpg",
-      "catId": null,
+      "catId": [],
       "lastLoginTime": null
     },
     {
@@ -719,7 +719,7 @@
       "address": "新北市平溪區中山路三段48號",
       "gender": "male",
       "userPhoto": "https://i.imgur.com/rUTLxZC.jpg",
-      "catId": null,
+      "catId": [],
       "lastLoginTime": null
     },
     {
@@ -762,62 +762,66 @@
       "birthday": "2000-07-05",
       "gender": "female",
       "userPhoto": "https://i.imgur.com/rUTLxZC.jpg",
-      "catId": null,
+      "catId": [],
       "lastLoginTime": null
     },
     {
       "email": "adminTest@gmail.com",
       "password": "$2a$10$OWozSlSqNphXHXC1cqr8buXiObWoMTQJTOsM7E9uuTD6FwKANQp6O",
-      "name": "陳奕辰",
+      "userName": "陳奕辰",
+      "nickname": "貓奴俱樂部編號001",
       "gender": "male",
       "birthday": "1989-01-08",
       "phone": "0933333333",
       "address": "高雄市橋頭區竹林街32號",
       "id": 101,
       "userPhoto": "https://i.imgur.com/rUTLxZC.jpg",
-      "catId": null,
+      "catId": [],
       "lastLoginTime": null,
       "role": "admin"
     },
     {
       "email": "admin04@yahoo.com",
       "password": "$2a$10$6YwRa4.HWm8nJjCRA948Y..ol/1nYTkiXLKGu6jL8oibmPGClXcnG",
-      "name": "周怡君",
+      "userName": "周怡君",
+      "nickname": "新北愛貓代表",
       "gender": "female",
       "birthday": "1991-01-08",
       "phone": "0944444444",
       "address": "屏東縣佳冬鄉佳和路15號",
       "id": 104,
       "userPhoto": "https://i.imgur.com/rUTLxZC.jpg",
-      "catId": null,
+      "catId": [],
       "lastLoginTime": null,
       "role": "admin"
     },
     {
       "email": "admin03@icloudmail.com",
       "password": "$2a$10$xcBq9Y8vFlorHx5Nr.3Vje6ENcgUc4B8o8OZnAkSEGhI8IPgfrAmS",
-      "name": "易佳悅",
+      "userName": "易佳悅",
+      "nickname": "後台員工3號",
       "gender": "female",
       "birthday": "1988-03-17",
       "phone": "0914238751",
       "address": "台北市中山區南京東路三段27號",
       "id": 103,
       "userPhoto": "https://i.imgur.com/rUTLxZC.jpg",
-      "catId": null,
+      "catId": [],
       "lastLoginTime": null,
       "role": "admin"
     },
     {
       "email": "admin02@gmail.com",
       "password": "$2a$10$VVxPM6E3hzPIyAvrK/7iuOeNSOEDtHL.4k/3EC9fim1qv3XIhfjUC",
-      "name": "殷榮方",
+      "userName": "殷榮方",
+      "nickname": "後台員工4號",
       "gender": "male",
       "birthday": "1992-12-21",
       "phone": "0945641428",
       "address": "新北市三峡區中正路123號",
       "id": 102,
       "userPhoto": "https://i.imgur.com/rUTLxZC.jpg",
-      "catId": null,
+      "catId": [],
       "lastLoginTime": null,
       "role": "admin"
     }
@@ -1672,7 +1676,7 @@
       "quantity": 2,
       "price": 1600,
       "feedback": "服務棒，氣氛好",
-      "managerId": 1,
+      "managerId": 101,
       "id": 1
     },
     {
@@ -1685,7 +1689,7 @@
       "quantity": 3,
       "price": 2400,
       "feedback": "很喜歡你們，下次會再來住",
-      "managerId": 1,
+      "managerId": 101,
       "id": 2
     },
     {
@@ -1698,7 +1702,7 @@
       "quantity": 2,
       "price": 2000,
       "feedback": "寵物友善，環境乾淨明亮",
-      "managerId": 4,
+      "managerId": 104,
       "id": 3
     },
     {
@@ -1711,7 +1715,7 @@
       "quantity": 2,
       "price": 2000,
       "feedback": "員工態度親切，照顧細心",
-      "managerId": 4,
+      "managerId": 104,
       "id": 4
     },
     {
@@ -1724,7 +1728,7 @@
       "quantity": 6,
       "price": 9000,
       "feedback": "設施完善，有專屬活動區",
-      "managerId": 3,
+      "managerId": 103,
       "id": 5
     },
     {
@@ -1737,7 +1741,7 @@
       "quantity": 2,
       "price": 1600,
       "feedback": "服務周到，安心放心",
-      "managerId": 2,
+      "managerId": 102,
       "id": 6
     },
     {
@@ -1750,7 +1754,7 @@
       "quantity": 3,
       "price": 3000,
       "feedback": "提供美味餐點，貓咪愛吃",
-      "managerId": 2,
+      "managerId": 102,
       "id": 7
     },
     {
@@ -1763,7 +1767,7 @@
       "quantity": 7,
       "price": 5600,
       "feedback": "空間寬敞，寵物自在活動",
-      "managerId": 1,
+      "managerId": 101,
       "id": 8
     },
     {
@@ -1776,7 +1780,7 @@
       "quantity": 4,
       "price": 6000,
       "feedback": "環境安靜，寵物容易入睡",
-      "managerId": 4,
+      "managerId": 104,
       "id": 9
     },
     {
@@ -1789,7 +1793,7 @@
       "quantity": 3,
       "price": 2400,
       "feedback": "提供寵物用具，貼心便利",
-      "managerId": 3,
+      "managerId": 103,
       "id": 10
     },
     {
@@ -1802,7 +1806,7 @@
       "quantity": 3,
       "price": 3000,
       "feedback": "安全措施完備，放心放假",
-      "managerId": 1,
+      "managerId": 101,
       "id": 11
     },
     {
@@ -1815,7 +1819,7 @@
       "quantity": 6,
       "price": 6000,
       "feedback": "交通便利，方便接送寵物",
-      "managerId": 1,
+      "managerId": 101,
       "id": 12
     },
     {
@@ -1828,7 +1832,7 @@
       "quantity": 6,
       "price": 6000,
       "feedback": "客房清潔，無異味",
-      "managerId": 1,
+      "managerId": 101,
       "id": 13
     },
     {
@@ -1841,7 +1845,7 @@
       "quantity": 5,
       "price": 7500,
       "feedback": "環境清幽，寵物放鬆",
-      "managerId": 2,
+      "managerId": 102,
       "id": 14
     },
     {
@@ -1854,7 +1858,7 @@
       "quantity": 3,
       "price": 3000,
       "feedback": "有專業看護，安心外出",
-      "managerId": 4,
+      "managerId": 104,
       "id": 15
     },
     {
@@ -1867,7 +1871,7 @@
       "quantity": 3,
       "price": 4500,
       "feedback": "貓咪有自己區域，不受打擾",
-      "managerId": 3,
+      "managerId": 103,
       "id": 16
     },
     {
@@ -1880,7 +1884,7 @@
       "quantity": 3,
       "price": 4500,
       "feedback": "提供玩具，寵物玩得開心",
-      "managerId": 1,
+      "managerId": 101,
       "id": 17
     },
     {
@@ -1893,7 +1897,7 @@
       "quantity": 3,
       "price": 4500,
       "feedback": "提供定期清潔，保持衛生",
-      "managerId": 2,
+      "managerId": 102,
       "id": 18
     },
     {
@@ -1906,7 +1910,7 @@
       "quantity": 5,
       "price": 7500,
       "feedback": "客房溫馨，貓咪安心",
-      "managerId": 1,
+      "managerId": 101,
       "id": 19
     },
     {
@@ -1919,7 +1923,7 @@
       "quantity": 3,
       "price": 2400,
       "feedback": "提供舒適床位，讓寵物好眠",
-      "managerId": 2,
+      "managerId": 102,
       "id": 20
     },
     {
@@ -1932,7 +1936,7 @@
       "quantity": 4,
       "price": 3200,
       "feedback": "環境安全，寵物無虞",
-      "managerId": 4,
+      "managerId": 104,
       "id": 21
     },
     {
@@ -1945,7 +1949,7 @@
       "quantity": 6,
       "price": 4800,
       "feedback": "提供寵物美容，乾淨整潔",
-      "managerId": 3,
+      "managerId": 103,
       "id": 22
     },
     {
@@ -1958,7 +1962,7 @@
       "quantity": 6,
       "price": 4800,
       "feedback": "員工親切，寵物喜歡",
-      "managerId": 2,
+      "managerId": 102,
       "id": 23
     },
     {
@@ -1971,7 +1975,7 @@
       "quantity": 3,
       "price": 2400,
       "feedback": "空調設備完善，溫度適宜",
-      "managerId": 1,
+      "managerId": 101,
       "id": 24
     },
     {
@@ -1984,7 +1988,7 @@
       "quantity": 3,
       "price": 3000,
       "feedback": "設施現代，舒適愜意",
-      "managerId": 4,
+      "managerId": 104,
       "id": 25
     },
     {
@@ -1997,8 +2001,14 @@
       "quantity": 3,
       "price": 2400,
       "feedback": "給寵物家的感覺，舒適愜意",
-      "managerId": 2,
+      "managerId": 102,
       "id": 26
+    }
+  ],
+  "bookingHistorys": [
+    {
+      "id":1,
+      "bookingId":1
     }
   ],
   "managers": [

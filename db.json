@@ -3,13 +3,14 @@
     {
       "email": "userTest001@gmail.com",
       "password": "$2a$10$HmpCcOyaT1UbcOZWFaZyPeaFmCVMRCn.VGZuUxVfNO1iPcYKb9Ud2",
-      "name": "測試帳號",
+      "name": "張學如",
       "gender": "male",
       "phone": "0960964130",
       "userPhoto": "https://i.imgur.com/rUTLxZC.jpg",
-      "catId": [1],
       "lastLoginTime": "2023-10-09T11:34",
       "role": "non-admin",
+      "birthday": "1993-12-17",
+      "address": "彰化縣芳苑鄉復興路2號",
       "id": 1
     },
     {
@@ -21,7 +22,6 @@
       "phone": "0982141092",
       "address": "新北市板橋區翠華街4號",
       "userPhoto": "https://i.imgur.com/rUTLxZC.jpg",
-      "catId": [],
       "lastLoginTime": "",
       "role": "non-admin",
       "id": 2
@@ -35,7 +35,6 @@
       "phone": "0903789154",
       "address": "台北市大安區信義路四段505號",
       "userPhoto": "https://i.imgur.com/rUTLxZC.jpg",
-      "catId": [2],
       "lastLoginTime": "",
       "role": "non-admin",
       "id": 3
@@ -49,7 +48,6 @@
       "phone": "0903368714",
       "address": "新北市三峽區大學路151號",
       "userPhoto": "https://i.imgur.com/rUTLxZC.jpg",
-      "catId": [],
       "lastLoginTime": "",
       "role": "non-admin",
       "id": 4
@@ -63,7 +61,6 @@
       "phone": "0985938759",
       "address": "台北市中山區南京東路三段65號",
       "userPhoto": "https://i.imgur.com/rUTLxZC.jpg",
-      "catId": [],
       "lastLoginTime": "",
       "role": "non-admin",
       "id": 5
@@ -77,7 +74,6 @@
       "phone": "0974559639",
       "address": "新北市永和區永和路35號",
       "userPhoto": "https://i.imgur.com/rUTLxZC.jpg",
-      "catId": [3, 4],
       "lastLoginTime": "",
       "role": "non-admin",
       "id": 6
@@ -91,7 +87,6 @@
       "phone": "0922518197",
       "address": "台北市萬華區漢中街205號",
       "userPhoto": "https://i.imgur.com/rUTLxZC.jpg",
-      "catId": [5],
       "lastLoginTime": "",
       "role": "non-admin",
       "id": 7
@@ -105,7 +100,6 @@
       "phone": "0912627378",
       "address": "新北市新店區中興路101號",
       "userPhoto": "https://i.imgur.com/rUTLxZC.jpg",
-      "catId": [6],
       "lastLoginTime": "",
       "role": "non-admin",
       "id": 8
@@ -119,7 +113,6 @@
       "phone": "0955705518",
       "address": "台北市松山區敦化南路一段103號",
       "userPhoto": "https://i.imgur.com/rUTLxZC.jpg",
-      "catId": [7],
       "lastLoginTime": "",
       "role": "non-admin",
       "id": 9
@@ -133,7 +126,6 @@
       "phone": "0937930540",
       "address": "新北市中和區員山路110號",
       "userPhoto": "https://i.imgur.com/rUTLxZC.jpg",
-      "catId": [],
       "lastLoginTime": "",
       "role": "non-admin",
       "id": 10
@@ -147,7 +139,6 @@
       "phone": "0943548311",
       "address": "台北市信義區忠孝東路五段508號",
       "userPhoto": "https://i.imgur.com/rUTLxZC.jpg",
-      "catId": [8],
       "lastLoginTime": "",
       "role": "non-admin",
       "id": 11
@@ -161,7 +152,6 @@
       "phone": "0962980066",
       "address": "新北市汐止區大同路二段181號",
       "userPhoto": "https://i.imgur.com/rUTLxZC.jpg",
-      "catId": [9],
       "lastLoginTime": "",
       "role": "non-admin",
       "id": 12
@@ -175,7 +165,6 @@
       "phone": "0900268379",
       "address": "台北市大同區民權西路58號",
       "userPhoto": "https://i.imgur.com/rUTLxZC.jpg",
-      "catId": [],
       "lastLoginTime": "",
       "role": "non-admin",
       "id": 13
@@ -189,7 +178,6 @@
       "phone": "0915078312",
       "address": "新北市樹林區保安街101號",
       "userPhoto": "https://i.imgur.com/rUTLxZC.jpg",
-      "catId": [],
       "lastLoginTime": "",
       "role": "non-admin",
       "id": 14
@@ -203,7 +191,6 @@
       "phone": "0961796669",
       "address": "台北市文山區興隆路三段188號",
       "userPhoto": "https://i.imgur.com/rUTLxZC.jpg",
-      "catId": [10, 11],
       "lastLoginTime": "",
       "role": "non-admin",
       "id": 15
@@ -217,7 +204,6 @@
       "phone": "0902574097",
       "address": "新北市淡水區中正路一段54號",
       "userPhoto": "https://i.imgur.com/rUTLxZC.jpg",
-      "catId": [],
       "lastLoginTime": "",
       "role": "non-admin",
       "id": 16
@@ -231,7 +217,6 @@
       "phone": "0999784423",
       "address": "台北市南港區研究院路二段128號",
       "userPhoto": "https://i.imgur.com/rUTLxZC.jpg",
-      "catId": [],
       "lastLoginTime": "",
       "role": "non-admin",
       "id": 17
@@ -245,7 +230,6 @@
       "phone": "0945440671",
       "address": "新北市八里區中山路二段195號",
       "userPhoto": "https://i.imgur.com/rUTLxZC.jpg",
-      "catId": [12],
       "lastLoginTime": "",
       "role": "non-admin",
       "id": 18
@@ -259,7 +243,6 @@
       "phone": "0976058062",
       "address": "台北市內湖區石潭路99號",
       "userPhoto": "https://i.imgur.com/rUTLxZC.jpg",
-      "catId": [],
       "lastLoginTime": "",
       "role": "non-admin",
       "id": 19
@@ -273,7 +256,6 @@
       "phone": "0931660432",
       "address": "新北市三芝區中正路一段105號",
       "userPhoto": "https://i.imgur.com/rUTLxZC.jpg",
-      "catId": [13],
       "lastLoginTime": "",
       "role": "non-admin",
       "id": 20
@@ -287,7 +269,6 @@
       "phone": "0960245116",
       "address": "台北市士林區中山北路五段55號",
       "userPhoto": "https://i.imgur.com/rUTLxZC.jpg",
-      "catId": [14],
       "lastLoginTime": "",
       "role": "non-admin",
       "id": 21
@@ -301,7 +282,6 @@
       "phone": "0951849067",
       "address": "新北市金山區中山路三段100號",
       "userPhoto": "https://i.imgur.com/rUTLxZC.jpg",
-      "catId": [],
       "lastLoginTime": "",
       "role": "non-admin",
       "id": 22
@@ -315,7 +295,6 @@
       "phone": "0971353881",
       "address": "台北市北投區中央南路二段32號",
       "userPhoto": "https://i.imgur.com/rUTLxZC.jpg",
-      "catId": [],
       "lastLoginTime": "",
       "role": "non-admin",
       "id": 23
@@ -329,7 +308,6 @@
       "phone": "0909221510",
       "address": "新北市石門區中山路一段90號",
       "userPhoto": "https://i.imgur.com/rUTLxZC.jpg",
-      "catId": [],
       "lastLoginTime": "",
       "role": "non-admin",
       "id": 24
@@ -343,7 +321,6 @@
       "phone": "0952281469",
       "address": "台北市萬里區中山路二段168號",
       "userPhoto": "https://i.imgur.com/rUTLxZC.jpg",
-      "catId": [15],
       "lastLoginTime": "",
       "role": "non-admin",
       "id": 25
@@ -357,7 +334,6 @@
       "phone": "0920491324",
       "address": "新北市雙溪區中山路一段38號",
       "userPhoto": "https://i.imgur.com/rUTLxZC.jpg",
-      "catId": [],
       "lastLoginTime": "",
       "role": "non-admin",
       "id": 26
@@ -371,7 +347,6 @@
       "phone": "0977643421",
       "address": "台北市瑞芳區中正路168號",
       "userPhoto": "https://i.imgur.com/rUTLxZC.jpg",
-      "catId": [16],
       "lastLoginTime": "",
       "role": "non-admin",
       "id": 27
@@ -385,7 +360,6 @@
       "phone": "0982701277",
       "address": "新北市貢寮區中正路一段185號",
       "userPhoto": "https://i.imgur.com/rUTLxZC.jpg",
-      "catId": [],
       "lastLoginTime": "",
       "role": "non-admin",
       "id": 28
@@ -399,7 +373,6 @@
       "phone": "0965302988",
       "address": "台北市平溪區石底里1號",
       "userPhoto": "https://i.imgur.com/rUTLxZC.jpg",
-      "catId": [17],
       "lastLoginTime": "",
       "role": "non-admin",
       "id": 29
@@ -413,7 +386,6 @@
       "phone": "0988420390",
       "address": "新北市石碇區中山路三段50號",
       "userPhoto": "https://i.imgur.com/rUTLxZC.jpg",
-      "catId": [],
       "lastLoginTime": "",
       "role": "non-admin",
       "id": 30
@@ -427,7 +399,6 @@
       "phone": "0935818715",
       "address": "台北市神岡區福興里8號",
       "userPhoto": "https://i.imgur.com/rUTLxZC.jpg",
-      "catId": [],
       "lastLoginTime": "",
       "role": "non-admin",
       "id": 31
@@ -441,7 +412,6 @@
       "phone": "0945417472",
       "address": "新北市坪林區中山路二段68號",
       "userPhoto": "https://i.imgur.com/rUTLxZC.jpg",
-      "catId": [18],
       "lastLoginTime": "",
       "role": "non-admin",
       "id": 32
@@ -455,7 +425,6 @@
       "phone": "0908084690",
       "address": "台北市龍潭區仁愛里88號",
       "userPhoto": "https://i.imgur.com/rUTLxZC.jpg",
-      "catId": [19, 20],
       "lastLoginTime": "",
       "role": "non-admin",
       "id": 33
@@ -469,7 +438,6 @@
       "phone": "0951860982",
       "address": "新北市烏來區中山路一段155號",
       "userPhoto": "https://i.imgur.com/rUTLxZC.jpg",
-      "catId": [],
       "lastLoginTime": "",
       "role": "non-admin",
       "id": 34
@@ -483,7 +451,6 @@
       "phone": "0913810949",
       "address": "台北市丹鳳區文化里8號",
       "userPhoto": "https://i.imgur.com/rUTLxZC.jpg",
-      "catId": [],
       "lastLoginTime": "",
       "role": "non-admin",
       "id": 35
@@ -497,7 +464,6 @@
       "phone": "0998102641",
       "address": "新北市泰山區中山路二段3號",
       "userPhoto": "https://i.imgur.com/rUTLxZC.jpg",
-      "catId": [21],
       "lastLoginTime": "",
       "role": "non-admin",
       "id": 36
@@ -511,7 +477,6 @@
       "phone": "0938899955",
       "address": "台北市大園區中正東路38號",
       "userPhoto": "https://i.imgur.com/rUTLxZC.jpg",
-      "catId": [],
       "lastLoginTime": "",
       "role": "non-admin",
       "id": 37
@@ -525,7 +490,6 @@
       "phone": "0916662556",
       "address": "新北市林口區中山路五段288號",
       "userPhoto": "https://i.imgur.com/rUTLxZC.jpg",
-      "catId": [],
       "lastLoginTime": "",
       "role": "non-admin",
       "id": 38
@@ -539,7 +503,6 @@
       "phone": "0900160129",
       "address": "台北市蘆竹區中山路二段6號",
       "userPhoto": "https://i.imgur.com/rUTLxZC.jpg",
-      "catId": [22],
       "lastLoginTime": "",
       "role": "non-admin",
       "id": 39
@@ -553,7 +516,6 @@
       "phone": "0995270961",
       "address": "新北市八德區中山路一段56號",
       "userPhoto": "https://i.imgur.com/rUTLxZC.jpg",
-      "catId": [23],
       "lastLoginTime": "",
       "role": "non-admin",
       "id": 40
@@ -567,7 +529,6 @@
       "phone": "0994117820",
       "address": "台北市大溪區中山北路二段168號",
       "userPhoto": "https://i.imgur.com/rUTLxZC.jpg",
-      "catId": [],
       "lastLoginTime": "",
       "role": "non-admin",
       "id": 41
@@ -581,7 +542,6 @@
       "phone": "0984855525",
       "address": "新北市龍岡區仁德路11號",
       "userPhoto": "https://i.imgur.com/rUTLxZC.jpg",
-      "catId": [24],
       "lastLoginTime": "",
       "role": "non-admin",
       "id": 42
@@ -595,7 +555,6 @@
       "phone": "0978711424",
       "address": "台北市楊梅區中山路三段55號",
       "userPhoto": "https://i.imgur.com/rUTLxZC.jpg",
-      "catId": [],
       "lastLoginTime": "",
       "role": "non-admin",
       "id": 43
@@ -609,7 +568,6 @@
       "phone": "0976823086",
       "address": "新北市芎林區中山路三段58號",
       "userPhoto": "https://i.imgur.com/rUTLxZC.jpg",
-      "catId": [],
       "lastLoginTime": "",
       "role": "non-admin",
       "id": 44
@@ -623,7 +581,6 @@
       "phone": "0962569595",
       "address": "台北市新屋區中山路二段75號",
       "userPhoto": "https://i.imgur.com/rUTLxZC.jpg",
-      "catId": [25, 26],
       "lastLoginTime": "",
       "role": "non-admin",
       "id": 45
@@ -637,7 +594,6 @@
       "phone": "0956471093",
       "address": "新北市橫山區中山路三段1號",
       "userPhoto": "https://i.imgur.com/rUTLxZC.jpg",
-      "catId": [27],
       "lastLoginTime": "",
       "role": "non-admin",
       "id": 46
@@ -651,7 +607,6 @@
       "phone": "0980204485",
       "address": "台北市石碇區中山路一段50號",
       "userPhoto": "https://i.imgur.com/rUTLxZC.jpg",
-      "catId": [28],
       "lastLoginTime": "",
       "role": "non-admin",
       "id": 47
@@ -665,7 +620,6 @@
       "phone": "0977715564",
       "address": "新北市平溪區中山路三段48號",
       "userPhoto": "https://i.imgur.com/rUTLxZC.jpg",
-      "catId": [],
       "lastLoginTime": "",
       "role": "non-admin",
       "id": 48
@@ -678,7 +632,6 @@
       "birthday": "2004-12-15",
       "phone": "0930615742",
       "userPhoto": "https://i.imgur.com/rUTLxZC.jpg",
-      "catId": [29],
       "lastLoginTime": "",
       "role": "non-admin",
       "id": 49
@@ -691,7 +644,6 @@
       "birthday": "1986-09-21",
       "phone": "0927133332",
       "userPhoto": "https://i.imgur.com/rUTLxZC.jpg",
-      "catId": [30],
       "lastLoginTime": "",
       "role": "non-admin",
       "id": 50
@@ -704,7 +656,6 @@
       "birthday": "2000-07-05",
       "phone": "0907904080",
       "userPhoto": "https://i.imgur.com/rUTLxZC.jpg",
-      "catId": [],
       "lastLoginTime": "",
       "role": "non-admin",
       "id": 51
@@ -718,7 +669,6 @@
       "phone": "0933333333",
       "address": "高雄市橋頭區竹林街32號",
       "userPhoto": "https://i.imgur.com/rUTLxZC.jpg",
-      "catId": [],
       "lastLoginTime": "",
       "role": "admin",
       "id": 52
@@ -732,7 +682,6 @@
       "phone": "0944444444",
       "address": "屏東縣佳冬鄉佳和路15號",
       "userPhoto": "https://i.imgur.com/rUTLxZC.jpg",
-      "catId": [],
       "lastLoginTime": "",
       "role": "admin",
       "id": 53
@@ -746,7 +695,6 @@
       "phone": "0914238751",
       "address": "台北市中山區南京東路三段27號",
       "userPhoto": "https://i.imgur.com/rUTLxZC.jpg",
-      "catId": [],
       "lastLoginTime": "",
       "role": "admin",
       "id": 54
@@ -760,24 +708,12 @@
       "phone": "0945641428",
       "address": "新北市三峡區中正路123號",
       "userPhoto": "https://i.imgur.com/rUTLxZC.jpg",
-      "catId": [],
       "lastLoginTime": "",
       "role": "admin",
       "id": 55
     }
   ],
   "cats": [
-    {
-      "catName": "Coco",
-      "id": 1,
-      "catBreeds": "孟加拉貓",
-      "colors": "黑狸花",
-      "birthday": "2022-03-15",
-      "weight": 4.9,
-      "gender": "female",
-      "catPhoto": "https://i.imgur.com/slCGtuf.png",
-      "userId": 1
-    },
     {
       "catName": "Binx",
       "id": 2,
@@ -1593,346 +1529,7 @@
       "id": 22
     }
   ],
-  "bookings": [
-    {
-      "userId": 1,
-      "bookingDate": "2023-11-15",
-      "checkIn": "2023-12-10",
-      "checkOut": "2023-12-12",
-      "roomId": 1,
-      "state": "已預定",
-      "quantity": 2,
-      "price": 1600,
-      "feedback": "服務棒，氣氛好",
-      "managerId": 101,
-      "id": 1
-    },
-    {
-      "userId": 3,
-      "bookingDate": "2023-10-12",
-      "checkIn": "2023-12-10",
-      "checkOut": "2023-12-13",
-      "roomId": 1,
-      "state": "已預定",
-      "quantity": 3,
-      "price": 2400,
-      "feedback": "很喜歡你們，下次會再來住",
-      "managerId": 101,
-      "id": 2
-    },
-    {
-      "userId": 6,
-      "bookingDate": "2023-09-12",
-      "checkIn": "2023-12-17",
-      "checkOut": "2023-12-19",
-      "roomId": 2,
-      "state": "已預定",
-      "quantity": 2,
-      "price": 2000,
-      "feedback": "寵物友善，環境乾淨明亮",
-      "managerId": 104,
-      "id": 3
-    },
-    {
-      "userId": 7,
-      "bookingDate": "2023-11-17",
-      "checkIn": "2023-12-11",
-      "checkOut": "2023-12-13",
-      "roomId": 2,
-      "state": "已預定",
-      "quantity": 2,
-      "price": 2000,
-      "feedback": "員工態度親切，照顧細心",
-      "managerId": 104,
-      "id": 4
-    },
-    {
-      "userId": 8,
-      "bookingDate": "2023-10-30",
-      "checkIn": "2023-12-19",
-      "checkOut": "2023-12-25",
-      "roomId": 3,
-      "state": "已預定",
-      "quantity": 6,
-      "price": 9000,
-      "feedback": "設施完善，有專屬活動區",
-      "managerId": 103,
-      "id": 5
-    },
-    {
-      "userId": 9,
-      "bookingDate": "2023-09-17",
-      "checkIn": "2023-12-22",
-      "checkOut": "2023-12-24",
-      "roomId": 1,
-      "state": "已預定",
-      "quantity": 2,
-      "price": 1600,
-      "feedback": "服務周到，安心放心",
-      "managerId": 102,
-      "id": 6
-    },
-    {
-      "userId": 11,
-      "bookingDate": "2023-11-28",
-      "checkIn": "2023-12-24",
-      "checkOut": "2023-12-27",
-      "roomId": 2,
-      "state": "已預定",
-      "quantity": 3,
-      "price": 3000,
-      "feedback": "提供美味餐點，貓咪愛吃",
-      "managerId": 102,
-      "id": 7
-    },
-    {
-      "userId": 12,
-      "bookingDate": "2023-12-03",
-      "checkIn": "2023-12-15",
-      "checkOut": "2023-12-22",
-      "roomId": 1,
-      "state": "已預定",
-      "quantity": 7,
-      "price": 5600,
-      "feedback": "空間寬敞，寵物自在活動",
-      "managerId": 101,
-      "id": 8
-    },
-    {
-      "userId": 15,
-      "bookingDate": "2023-12-01",
-      "checkIn": "2023-12-12",
-      "checkOut": "2023-12-16",
-      "roomId": 3,
-      "state": "已預定",
-      "quantity": 4,
-      "price": 6000,
-      "feedback": "環境安靜，寵物容易入睡",
-      "managerId": 104,
-      "id": 9
-    },
-    {
-      "userId": 18,
-      "bookingDate": "2023-11-25",
-      "checkIn": "2023-12-11",
-      "checkOut": "2023-12-14",
-      "roomId": 1,
-      "state": "已預定",
-      "quantity": 3,
-      "price": 2400,
-      "feedback": "提供寵物用具，貼心便利",
-      "managerId": 103,
-      "id": 10
-    },
-    {
-      "userId": 20,
-      "bookingDate": "2023-10-13",
-      "checkIn": "2023-12-20",
-      "checkOut": "2023-12-23",
-      "roomId": 2,
-      "state": "已預定",
-      "quantity": 3,
-      "price": 3000,
-      "feedback": "安全措施完備，放心放假",
-      "managerId": 101,
-      "id": 11
-    },
-    {
-      "userId": 21,
-      "bookingDate": "2023-11-04",
-      "checkIn": "2023-12-11",
-      "checkOut": "2023-12-17",
-      "roomId": 2,
-      "state": "已預定",
-      "quantity": 6,
-      "price": 6000,
-      "feedback": "交通便利，方便接送寵物",
-      "managerId": 101,
-      "id": 12
-    },
-    {
-      "userId": 25,
-      "bookingDate": "2023-11-23",
-      "checkIn": "2023-12-11",
-      "checkOut": "2023-12-17",
-      "roomId": 2,
-      "state": "已預定",
-      "quantity": 6,
-      "price": 6000,
-      "feedback": "客房清潔，無異味",
-      "managerId": 101,
-      "id": 13
-    },
-    {
-      "userId": 27,
-      "bookingDate": "2023-12-02",
-      "checkIn": "2023-12-18",
-      "checkOut": "2023-12-23",
-      "roomId": 3,
-      "state": "已預定",
-      "quantity": 5,
-      "price": 7500,
-      "feedback": "環境清幽，寵物放鬆",
-      "managerId": 102,
-      "id": 14
-    },
-    {
-      "userId": 29,
-      "bookingDate": "2023-12-05",
-      "checkIn": "2023-12-21",
-      "checkOut": "2023-12-25",
-      "roomId": 2,
-      "state": "已預定",
-      "quantity": 3,
-      "price": 3000,
-      "feedback": "有專業看護，安心外出",
-      "managerId": 104,
-      "id": 15
-    },
-    {
-      "userId": 32,
-      "bookingDate": "2023-12-11",
-      "checkIn": "2023-12-23",
-      "checkOut": "2023-12-26",
-      "roomId": 3,
-      "state": "已預定",
-      "quantity": 3,
-      "price": 4500,
-      "feedback": "貓咪有自己區域，不受打擾",
-      "managerId": 103,
-      "id": 16
-    },
-    {
-      "userId": 33,
-      "bookingDate": "2023-12-07",
-      "checkIn": "2023-12-24",
-      "checkOut": "2023-12-27",
-      "roomId": 3,
-      "state": "已預定",
-      "quantity": 3,
-      "price": 4500,
-      "feedback": "提供玩具，寵物玩得開心",
-      "managerId": 101,
-      "id": 17
-    },
-    {
-      "userId": 36,
-      "bookingDate": "2023-11-22",
-      "checkIn": "2023-12-11",
-      "checkOut": "2023-12-14",
-      "roomId": 3,
-      "state": "已預定",
-      "quantity": 3,
-      "price": 4500,
-      "feedback": "提供定期清潔，保持衛生",
-      "managerId": 102,
-      "id": 18
-    },
-    {
-      "userId": 39,
-      "bookingDate": "2023-11-23",
-      "checkIn": "2023-12-13",
-      "checkOut": "2023-12-18",
-      "roomId": 3,
-      "state": "已預定",
-      "quantity": 5,
-      "price": 7500,
-      "feedback": "客房溫馨，貓咪安心",
-      "managerId": 101,
-      "id": 19
-    },
-    {
-      "userId": 40,
-      "bookingDate": "2023-11-29",
-      "checkIn": "2023-12-18",
-      "checkOut": "2023-12-21",
-      "roomId": 1,
-      "state": "已預定",
-      "quantity": 3,
-      "price": 2400,
-      "feedback": "提供舒適床位，讓寵物好眠",
-      "managerId": 102,
-      "id": 20
-    },
-    {
-      "userId": 42,
-      "bookingDate": "2023-11-18",
-      "checkIn": "2023-12-13",
-      "checkOut": "2023-12-17",
-      "roomId": 1,
-      "state": "已預定",
-      "quantity": 4,
-      "price": 3200,
-      "feedback": "環境安全，寵物無虞",
-      "managerId": 104,
-      "id": 21
-    },
-    {
-      "userId": 45,
-      "bookingDate": "2023-10-30",
-      "checkIn": "2023-12-12",
-      "checkOut": "2023-12-18",
-      "roomId": 1,
-      "state": "已預定",
-      "quantity": 6,
-      "price": 4800,
-      "feedback": "提供寵物美容，乾淨整潔",
-      "managerId": 103,
-      "id": 22
-    },
-    {
-      "userId": 46,
-      "bookingDate": "2023-11-19",
-      "checkIn": "2023-12-23",
-      "checkOut": "2023-12-29",
-      "roomId": 1,
-      "state": "已預定",
-      "quantity": 6,
-      "price": 4800,
-      "feedback": "員工親切，寵物喜歡",
-      "managerId": 102,
-      "id": 23
-    },
-    {
-      "userId": 47,
-      "bookingDate": "2023-11-21",
-      "checkIn": "2023-12-19",
-      "checkOut": "2023-12-22",
-      "roomId": 1,
-      "state": "已預定",
-      "quantity": 3,
-      "price": 2400,
-      "feedback": "空調設備完善，溫度適宜",
-      "managerId": 101,
-      "id": 24
-    },
-    {
-      "userId": 49,
-      "bookingDate": "2023-11-24",
-      "checkIn": "2023-12-17",
-      "checkOut": "2023-12-20",
-      "roomId": 2,
-      "state": "已預定",
-      "quantity": 3,
-      "price": 3000,
-      "feedback": "設施現代，舒適愜意",
-      "managerId": 104,
-      "id": 25
-    },
-    {
-      "userId": 50,
-      "bookingDate": "2023-12-05",
-      "checkIn": "2023-12-27",
-      "checkOut": "2023-12-30",
-      "roomId": 1,
-      "state": "已預定",
-      "quantity": 3,
-      "price": 2400,
-      "feedback": "給寵物家的感覺，舒適愜意",
-      "managerId": 102,
-      "id": 26
-    }
-  ],
+  "bookings": [],
   "bookingHistorys": [
     {
       "id": 1,

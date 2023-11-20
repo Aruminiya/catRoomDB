@@ -631,6 +631,7 @@
       "gender": "male",
       "birthday": "2004-12-15",
       "phone": "0930615742",
+      "address": "台北市中山區復興北路123號",
       "userPhoto": "https://i.imgur.com/rUTLxZC.jpg",
       "lastLoginTime": "",
       "role": "non-admin",
@@ -643,6 +644,7 @@
       "gender": "female",
       "birthday": "1986-09-21",
       "phone": "0927133332",
+      "address": "新北市板橋區民生路456巷78號",
       "userPhoto": "https://i.imgur.com/rUTLxZC.jpg",
       "lastLoginTime": "",
       "role": "non-admin",
@@ -655,6 +657,7 @@
       "gender": "female",
       "birthday": "2000-07-05",
       "phone": "0907904080",
+      "address": "台北市大安區信義路四段200號",
       "userPhoto": "https://i.imgur.com/rUTLxZC.jpg",
       "lastLoginTime": "",
       "role": "non-admin",
@@ -711,6 +714,500 @@
       "lastLoginTime": "",
       "role": "admin",
       "id": 1055
+    },
+    {
+      "email": "userTest056@gmail.com",
+      "password": "$2a$10$z.Vcs/d6S9IxLZG/3kSWUeqRkE3l/FYkb99tyMdmsnCvOY9IDi5HW",
+      "name": "陳小明",
+      "gender": "male",
+      "birthday": "1985-03-12",
+      "phone": "0922123456",
+      "address": "台北市中山區民生東路三段120號",
+      "userPhoto": "https://i.imgur.com/rUTLxZC.jpg",
+      "lastLoginTime": "",
+      "role": "non-admin",
+      "id": 1056
+    },
+    {
+      "email": "userTest064@gmail.com",
+      "password": "$2a$10$iVjmynZmnjC6jv2R5uQ47.BcaBZVVIHSDpkg4AcTUpYwJf1m6qvYa",
+      "name": "李明偉",
+      "gender": "male",
+      "birthday": "1975-08-05",
+      "phone": "0945678901",
+      "address": "台北市士林區文昌路70號",
+      "userPhoto": "https://i.imgur.com/rUTLxZC.jpg",
+      "lastLoginTime": "",
+      "role": "non-admin",
+      "id": 1057
+    },
+    {
+      "email": "userTest057@gmail.com",
+      "password": "$2a$10$C7ofLAWWKPA4PidlaWrzX.TgGSpE37dO/G58Z2O.YrM2xVKhQCwQG",
+      "name": "林美玲",
+      "gender": "female",
+      "birthday": "1999-08-25",
+      "phone": "0919345678",
+      "address": "新北市板橋區中山路50號",
+      "userPhoto": "https://i.imgur.com/rUTLxZC.jpg",
+      "lastLoginTime": "",
+      "role": "non-admin",
+      "id": 1058
+    },
+    {
+      "email": "userTest065@gmail.com",
+      "password": "$2a$10$cIp9txV13AeJDioFH7l4K.FcyfxfFIxZ/D0FWAQ6vZVwY2jj3z0e.",
+      "name": "張慧玲",
+      "gender": "female",
+      "birthday": "1990-12-10",
+      "phone": "0967890123",
+      "address": "新北市三重區重新路5號",
+      "userPhoto": "https://i.imgur.com/rUTLxZC.jpg",
+      "lastLoginTime": "",
+      "role": "non-admin",
+      "id": 1059
+    },
+    {
+      "email": "userTest066@gmail.com",
+      "password": "$2a$10$X0LN4uKQBEIoo2TxyYTEA.VL/8UYStdNae63mmAPbE1T379hgKtKi",
+      "name": "王大同",
+      "gender": "male",
+      "birthday": "1983-10-22",
+      "phone": "0987123456",
+      "address": "台北市大同區民生西路230號",
+      "userPhoto": "https://i.imgur.com/rUTLxZC.jpg",
+      "lastLoginTime": "",
+      "role": "non-admin",
+      "id": 1060
+    },
+    {
+      "email": "userTest067@gmail.com",
+      "password": "$2a$10$nbAzzEQ1Lo/CkYnAai0qTuU8geHxoT.Qnl/F9opq6cOvw37J7osDi",
+      "name": "劉美華",
+      "gender": "female",
+      "birthday": "1997-03-18",
+      "phone": "0932123456",
+      "address": "新北市中和區中山路100號",
+      "userPhoto": "https://i.imgur.com/rUTLxZC.jpg",
+      "lastLoginTime": "",
+      "role": "non-admin",
+      "id": 1061
+    },
+    {
+      "email": "userTest068@gmail.com",
+      "password": "$2a$10$FRE5M7irlgT2OZ8Eb0zJ1eTJ2vZqFoFjt/y0qe53SVDd5ufPfBPxa",
+      "name": "黃文雄",
+      "gender": "male",
+      "birthday": "1972-07-29",
+      "phone": "0956123456",
+      "address": "台北市松山區復興北路420號",
+      "userPhoto": "https://i.imgur.com/rUTLxZC.jpg",
+      "lastLoginTime": "",
+      "role": "non-admin",
+      "id": 1062
+    },
+    {
+      "email": "userTest069@gmail.com",
+      "password": "$2a$10$ISZCojbUfiJJHMRMuayK7OD253DAFKbXI91bvToB9ix48GAn..ehS",
+      "name": "林婷婷",
+      "gender": "female",
+      "birthday": "1986-01-14",
+      "phone": "0918123456",
+      "address": "新北市淡水區中正路80號",
+      "userPhoto": "https://i.imgur.com/rUTLxZC.jpg",
+      "lastLoginTime": "",
+      "role": "non-admin",
+      "id": 1063
+    },
+    {
+      "email": "userTest058@gmail.com",
+      "password": "$2a$10$wCs3E04GeHp0GT2worftKedY2LE8puEAGRo/7RWKcu8AgQnhcpbIK",
+      "name": "張銘偉",
+      "gender": "male",
+      "birthday": "1978-12-04",
+      "phone": "0987456123",
+      "address": "台北市大安區信義路四段200號",
+      "userPhoto": "https://i.imgur.com/rUTLxZC.jpg",
+      "lastLoginTime": "",
+      "role": "non-admin",
+      "id": 1064
+    },
+    {
+      "email": "userTest070@gmail.com",
+      "password": "$2a$10$/esk3omgSV9tLWK02z8KN.iEGVxicZijyOjZYFa9zBlDHd5nRFWz6",
+      "name": "陳大同",
+      "gender": "male",
+      "birthday": "1979-05-02",
+      "phone": "0921123456",
+      "address": "台北市中正區羅斯福路四段160號",
+      "userPhoto": "https://i.imgur.com/rUTLxZC.jpg",
+      "lastLoginTime": "",
+      "role": "non-admin",
+      "id": 1065
+    },
+    {
+      "email": "userTest071@gmail.com",
+      "password": "$2a$10$nIjYkRIom8aB452.01tC6uqQlFPsSXlEZLBCwYGmkiNRxHR.ZCmwu",
+      "name": "王雅婷",
+      "gender": "female",
+      "birthday": "1994-09-28",
+      "phone": "0976123456",
+      "address": "新北市汐止區汐萬路50號",
+      "userPhoto": "https://i.imgur.com/rUTLxZC.jpg",
+      "lastLoginTime": "",
+      "role": "non-admin",
+      "id": 1066
+    },
+    {
+      "email": "userTest059@gmail.com",
+      "password": "$2a$10$sIaieRJmjSMw/zlGgxS91.2p1Huq9160y5IDHDg25HUUdPG6R20Fm",
+      "name": "王怡君",
+      "gender": "female",
+      "birthday": "1992-05-18",
+      "phone": "0934789652",
+      "address": "新北市新店區中正路45號",
+      "userPhoto": "https://i.imgur.com/rUTLxZC.jpg",
+      "lastLoginTime": "",
+      "role": "non-admin",
+      "id": 1067
+    },
+    {
+      "email": "userTest060@gmail.com",
+      "password": "$2a$10$cGaJjtyu3LuM7OuvdZ8i6OSLZsTidLZFK9wAPhqkEWZlKnlJqgoKi",
+      "name": "劉強",
+      "gender": "male",
+      "birthday": "1987-11-30",
+      "phone": "0912456897",
+      "address": "台北市萬華區和平西路三段85號",
+      "userPhoto": "https://i.imgur.com/rUTLxZC.jpg",
+      "lastLoginTime": "",
+      "role": "non-admin",
+      "id": 1068
+    },
+    {
+      "email": "userTest072@gmail.com",
+      "password": "$2a$10$z3PHyxjPrX5AJAXw2R7Ple72hfwcNcDLwP2Bjcjz69tZFNEmKdosi",
+      "name": "黃明芬",
+      "gender": "female",
+      "birthday": "1998-11-05",
+      "phone": "0945123456",
+      "address": "台北市信義區基隆路一段180號",
+      "userPhoto": "https://i.imgur.com/rUTLxZC.jpg",
+      "lastLoginTime": "",
+      "role": "non-admin",
+      "id": 1069
+    },
+    {
+      "email": "userTest073@gmail.com",
+      "password": "$2a$10$iPENf7m28zGm.Ib0Ykpj5uhfOxh5jdt2F6MFjaYl4Hjz12fX0CfCi",
+      "name": "林小明",
+      "gender": "male",
+      "birthday": "1981-04-16",
+      "phone": "0936123456",
+      "address": "新北市五股區成泰路10號",
+      "userPhoto": "https://i.imgur.com/rUTLxZC.jpg",
+      "lastLoginTime": "",
+      "role": "non-admin",
+      "id": 1070
+    },
+    {
+      "email": "userTest061@gmail.com",
+      "password": "$2a$10$N48t69XTyHAxgYbmdsLnsO40dTeQWOGD80lOM.ezOYQlCp8haMgoG",
+      "name": "吳思婷",
+      "gender": "female",
+      "birthday": "1980-09-15",
+      "phone": "0978123456",
+      "address": "新北市永和區永和路100號",
+      "userPhoto": "https://i.imgur.com/rUTLxZC.jpg",
+      "lastLoginTime": "",
+      "role": "non-admin",
+      "id": 1071
+    },
+    {
+      "email": "userTest062@gmail.com",
+      "password": "$2a$10$nN/vQS.W1UhwR1WPexofge1eV6PjooYCZJo3wb5u9RzpkhyGZ.gju",
+      "name": "黃政勳",
+      "gender": "male",
+      "birthday": "1995-06-20",
+      "phone": "0923333333",
+      "address": "台北市中正區八德路二段180號",
+      "userPhoto": "https://i.imgur.com/rUTLxZC.jpg",
+      "lastLoginTime": "",
+      "role": "non-admin",
+      "id": 1072
+    },
+    {
+      "email": "userTest074@gmail.com",
+      "password": "$2a$10$tdT762d1uC/Iqt0BgfvjieJwueEFNJ8/S2tX5Y6tAMJhiCNk1fFWC",
+      "name": "蔡怡君",
+      "gender": "female",
+      "birthday": "1996-02-21",
+      "phone": "0922123456",
+      "address": "台北市南港區園區街3號",
+      "userPhoto": "https://i.imgur.com/rUTLxZC.jpg",
+      "lastLoginTime": "",
+      "role": "non-admin",
+      "id": 1073
+    },
+    {
+      "email": "userTest075@gmail.com",
+      "password": "$2a$10$Big6YY0H1jQ7AOHP1fqHy.mzsjoQ1hf4Byeu1QI7WEDbOikWbLDCG",
+      "name": "吳小華",
+      "gender": "male",
+      "birthday": "1988-08-11",
+      "phone": "0987123456",
+      "address": "新北市三峽區大學路20號",
+      "userPhoto": "https://i.imgur.com/rUTLxZC.jpg",
+      "lastLoginTime": "",
+      "role": "non-admin",
+      "id": 1074
+    },
+    {
+      "email": "userTest063@gmail.com",
+      "password": "$2a$10$9cLv423yAuzqHFzHxKk.KuDnTY7s8JcEnc3eOCGMwvNCptcp1bjbG",
+      "name": "許雅文",
+      "gender": "female",
+      "birthday": "1989-04-28",
+      "phone": "0956123456",
+      "address": "新北市土城區青雲路30號",
+      "userPhoto": "https://i.imgur.com/rUTLxZC.jpg",
+      "lastLoginTime": "",
+      "role": "non-admin",
+      "id": 1075
+    },
+    {
+      "email": "userTest076@gmail.com",
+      "password": "$2a$10$5ST3uMKeB13Xfa/N/mTWE.P3yGSvf4jludv.RFV2bRzmj8LvYGR2a",
+      "name": "陳怡婷",
+      "gender": "female",
+      "birthday": "1993-12-08",
+      "phone": "0912123456",
+      "address": "台北市中山區長安東路二段50號",
+      "userPhoto": "https://i.imgur.com/rUTLxZC.jpg",
+      "lastLoginTime": "",
+      "role": "non-admin",
+      "id": 1076
+    },
+    {
+      "email": "userTest077@gmail.com",
+      "password": "$2a$10$RM8iv7Y7iwio8YoL.2IfmeQroR6pDe8XRiqQrDsDps1k2rIndgPvC",
+      "name": "黃小明",
+      "gender": "male",
+      "birthday": "1984-06-23",
+      "phone": "0976123456",
+      "address": "新北市鶯歌區鳳鳴路8號",
+      "userPhoto": "https://i.imgur.com/rUTLxZC.jpg",
+      "lastLoginTime": "",
+      "role": "non-admin",
+      "id": 1077
+    },
+    {
+      "email": "userTest078@gmail.com",
+      "password": "$2a$10$1GFTyycYUFVIHQR.HyXNw.SG0kcOcshZ2c1.H/bCz6MaozY3WlSbO",
+      "name": "蔡美玲",
+      "gender": "female",
+      "birthday": "1987-09-30",
+      "phone": "0932123456",
+      "address": "台北市內湖區石潭路30號",
+      "userPhoto": "https://i.imgur.com/rUTLxZC.jpg",
+      "lastLoginTime": "",
+      "role": "non-admin",
+      "id": 1078
+    },
+    {
+      "email": "userTest079@gmail.com",
+      "password": "$2a$10$cl5f.aZcoXXXkJi544Juru5YEy.COPWdVk9NmcJhrKMc/Z2AGoayu",
+      "name": "劉政宏",
+      "gender": "male",
+      "birthday": "1976-03-25",
+      "phone": "0967123456",
+      "address": "新北市三芝區民族街40號",
+      "userPhoto": "https://i.imgur.com/rUTLxZC.jpg",
+      "lastLoginTime": "",
+      "role": "non-admin",
+      "id": 1079
+    },
+    {
+      "email": "userTest080@gmail.com",
+      "password": "$2a$10$jOZY3oivqntyj4vz.HM5q.sgGkrQuSRXdkQSTXUbN.n1uD4sJGTg.",
+      "name": "王怡如",
+      "gender": "female",
+      "birthday": "1991-01-17",
+      "phone": "0981123456",
+      "address": "台北市萬華區西寧南路70號",
+      "userPhoto": "https://i.imgur.com/rUTLxZC.jpg",
+      "lastLoginTime": "",
+      "role": "non-admin",
+      "id": 1080
+    },
+    {
+      "email": "userTest081@gmail.com",
+      "password": "$2a$10$msDtaB0q/v8EvtWyOFf9t.curCQSCUekxZg7gxZh3U86pUxLYBX/q",
+      "name": "林政宏",
+      "gender": "male",
+      "birthday": "1977-07-07",
+      "phone": "0946123456",
+      "address": "新北市瑞芳區深澳路10號",
+      "userPhoto": "https://i.imgur.com/rUTLxZC.jpg",
+      "lastLoginTime": "",
+      "role": "non-admin",
+      "id": 1081
+    },
+    {
+      "email": "userTest082@gmail.com",
+      "password": "$2a$10$.8514A0.KJhrEK.yGad6EOR3e5yUJKbKvSqh5er/OP/xYC6yjQuXW",
+      "name": "張雅芬",
+      "gender": "female",
+      "birthday": "1982-10-13",
+      "phone": "0911123456",
+      "address": "台北市士林區文林路120號",
+      "userPhoto": "https://i.imgur.com/rUTLxZC.jpg",
+      "lastLoginTime": "",
+      "role": "non-admin",
+      "id": 1082
+    },
+    {
+      "email": "userTest083@gmail.com",
+      "password": "$2a$10$Jl6WHctlH4ZNDgngHzR4y.ycon9fOJwOBSxli1owoj/woOqF4kV72",
+      "name": "黃大同",
+      "gender": "male",
+      "birthday": "1980-04-09",
+      "phone": "0984123456",
+      "address": "新北市三重區重新路100號",
+      "userPhoto": "https://i.imgur.com/rUTLxZC.jpg",
+      "lastLoginTime": "",
+      "role": "non-admin",
+      "id": 1083
+    },
+    {
+      "email": "userTest084@gmail.com",
+      "password": "$2a$10$9CXR3HSdzopphUbFOt86ieWs4jEs.0xUiHEpaA7HEFBngcQghmO2W",
+      "name": "蔡雅文",
+      "gender": "female",
+      "birthday": "1995-11-14",
+      "phone": "0968123456",
+      "address": "台北市中正區羅斯福路一段70號",
+      "userPhoto": "https://i.imgur.com/rUTLxZC.jpg",
+      "lastLoginTime": "",
+      "role": "non-admin",
+      "id": 1084
+    },
+    {
+      "email": "userTest085@gmail.com",
+      "password": "$2a$10$ESYnIvcNLAvnHL6AZ5/iqeTg22kqGZ15TuMrU9xlM2SxNzOXrsjwO",
+      "name": "林志偉",
+      "gender": "male",
+      "birthday": "1989-12-22",
+      "phone": "0915123456",
+      "address": "新北市林口區中正路150號",
+      "userPhoto": "https://i.imgur.com/rUTLxZC.jpg",
+      "lastLoginTime": "",
+      "role": "non-admin",
+      "id": 1085
+    },
+    {
+      "email": "userTest086@gmail.com",
+      "password": "$2a$10$CjO0pUVMlv9ooXPo9wpX9O1NbSBhq./m1Oz6zqd8LJM5yK4Nluleu",
+      "name": "陳美玲",
+      "gender": "female",
+      "birthday": "1994-05-31",
+      "phone": "0942123456",
+      "address": "台北市大同區重慶北路三段80號",
+      "userPhoto": "https://i.imgur.com/rUTLxZC.jpg",
+      "lastLoginTime": "",
+      "role": "non-admin",
+      "id": 1086
+    },
+    {
+      "email": "userTest087@gmail.com",
+      "password": "$2a$10$3fovC4EJGLOr3MGwenp4Auo2C1KkWfaVrhU2owAe1Iv7wV6.ra0Lu",
+      "name": "劉政霖",
+      "gender": "male",
+      "birthday": "1983-02-26",
+      "phone": "0978123456",
+      "address": "新北市土城區學府路50號",
+      "userPhoto": "https://i.imgur.com/rUTLxZC.jpg",
+      "lastLoginTime": "",
+      "role": "non-admin",
+      "id": 1087
+    },
+    {
+      "email": "userTest088@gmail.com",
+      "password": "$2a$10$Y1gpDynrIzKpVjj6y2GIT..rGK7GT84NUePtfzCHjPOb/pH1q4kJ2",
+      "name": "吳怡如",
+      "gender": "female",
+      "birthday": "1997-06-20",
+      "phone": "0962123456",
+      "address": "台北市南港區園區街5號",
+      "userPhoto": "https://i.imgur.com/rUTLxZC.jpg",
+      "lastLoginTime": "",
+      "role": "non-admin",
+      "id": 1088
+    },
+    {
+      "email": "userTest089@gmail.com",
+      "password": "$2a$10$RjhW7j8VrugHjKez8/WGKuWMiTmu0TqqSdbbhyCaDzVT8HOplm3EW",
+      "name": "王政宏",
+      "gender": "male",
+      "birthday": "1986-09-05",
+      "phone": "0949123456",
+      "address": "新北市淡水區中正路100號",
+      "userPhoto": "https://i.imgur.com/rUTLxZC.jpg",
+      "lastLoginTime": "",
+      "role": "non-admin",
+      "id": 1089
+    },
+    {
+      "email": "userTest090@gmail.com",
+      "password": "$2a$10$Ei2Nwr1yMBIXmbzT4M1G2ujmbbXsUK2PNpsIx4X1Kh94xEN2L/hFG",
+      "name": "黃美玲",
+      "gender": "female",
+      "birthday": "1992-08-18",
+      "phone": "0961123456",
+      "address": "台北市內湖區成功路三段70號",
+      "userPhoto": "https://i.imgur.com/rUTLxZC.jpg",
+      "lastLoginTime": "",
+      "role": "non-admin",
+      "id": 1090
+    },
+    {
+      "email": "userTest091@gmail.com",
+      "password": "$2a$10$ZBE/7FtxctHEwVxAEG6dceuMQpWPZQMMmmXPMix1wAal64IBLvu.W",
+      "name": "李政宏",
+      "gender": "male",
+      "birthday": "1987-04-14",
+      "phone": "0929123456",
+      "address": "新北市汐止區康寧街90號",
+      "userPhoto": "https://i.imgur.com/rUTLxZC.jpg",
+      "lastLoginTime": "",
+      "role": "non-admin",
+      "id": 1091
+    },
+    {
+      "email": "userTest092@gmail.com",
+      "password": "$2a$10$dYDT1AZe51ujFbzdzzbZ/OWkt76Pg9xDLjBPSS/X.Osd4UMEXHZr2",
+      "name": "陳小美",
+      "gender": "female",
+      "birthday": "1993-03-10",
+      "phone": "0972123456",
+      "address": "台北市大安區復興南路二段80號",
+      "userPhoto": "https://i.imgur.com/rUTLxZC.jpg",
+      "lastLoginTime": "",
+      "role": "non-admin",
+      "id": 1092
+    },
+    {
+      "email": "userTest093@gmail.com",
+      "password": "$2a$10$SW8yZpmz047J5LX.TlkjCe55UvOT8pG..tboIxBzJMGphETIVAWAu",
+      "name": "林政宏",
+      "gender": "male",
+      "birthday": "1979-01-01",
+      "phone": "0931123456",
+      "address": "新北市三峽區學府路50號",
+      "userPhoto": "https://i.imgur.com/rUTLxZC.jpg",
+      "lastLoginTime": "",
+      "role": "non-admin",
+      "id": 1093
     }
   ],
   "cats": [
@@ -1043,6 +1540,776 @@
       "gender": "male",
       "catPhoto": "https://i.imgur.com/slCGtuf.png",
       "userId": 1050
+    },
+    {
+      "catName": "Luna",
+      "id": 231,
+      "catBreeds": "布偶貓",
+      "colors": "灰白",
+      "birthday": "2017-10-15",
+      "weight": 4.1,
+      "gender": "female",
+      "catPhoto": "https://i.imgur.com/slCGtuf.png",
+      "userId": 1002
+    },
+    {
+      "catName": "Tiger",
+      "id": 232,
+      "catBreeds": "暹羅貓",
+      "colors": "橘色",
+      "birthday": "2018-06-22",
+      "weight": 3.9,
+      "gender": "male",
+      "catPhoto": "https://i.imgur.com/slCGtuf.png",
+      "userId": 1003
+    },
+    {
+      "catName": "Bella",
+      "id": 233,
+      "catBreeds": "英國短毛貓",
+      "colors": "虎斑",
+      "birthday": "2016-12-09",
+      "weight": 4.5,
+      "gender": "female",
+      "catPhoto": "https://i.imgur.com/slCGtuf.png",
+      "userId": 1004
+    },
+    {
+      "catName": "Max",
+      "id": 234,
+      "catBreeds": "俄羅斯藍貓",
+      "colors": "灰色",
+      "birthday": "2019-04-18",
+      "weight": 4.2,
+      "gender": "male",
+      "catPhoto": "https://i.imgur.com/slCGtuf.png",
+      "userId": 1005
+    },
+    {
+      "catName": "小白",
+      "id": 235,
+      "catBreeds": "波斯貓",
+      "colors": "白色",
+      "birthday": "2017-07-30",
+      "weight": 3.8,
+      "gender": "female",
+      "catPhoto": "https://i.imgur.com/slCGtuf.png",
+      "userId": 1005
+    },
+    {
+      "catName": "Oscar",
+      "id": 236,
+      "catBreeds": "緬因貓",
+      "colors": "三花",
+      "birthday": "2018-11-12",
+      "weight": 4,
+      "gender": "male",
+      "catPhoto": "https://i.imgur.com/slCGtuf.png",
+      "userId": 1007
+    },
+    {
+      "catName": "Cleo",
+      "id": 237,
+      "catBreeds": "挪威森林貓",
+      "colors": "黑色",
+      "birthday": "2016-03-25",
+      "weight": 4.4,
+      "gender": "female",
+      "catPhoto": "https://i.imgur.com/slCGtuf.png",
+      "userId": 1008
+    },
+    {
+      "catName": "Simba",
+      "id": 238,
+      "catBreeds": "美國短毛貓",
+      "colors": "虎斑",
+      "birthday": "2020-01-08",
+      "weight": 4.7,
+      "gender": "male",
+      "catPhoto": "https://i.imgur.com/slCGtuf.png",
+      "userId": 1010
+    },
+    {
+      "catName": "Charlie",
+      "id": 239,
+      "catBreeds": "暹羅貓",
+      "colors": "橘色",
+      "birthday": "2019-09-03",
+      "weight": 3.6,
+      "gender": "male",
+      "catPhoto": "https://i.imgur.com/slCGtuf.png",
+      "userId": 1010
+    },
+    {
+      "catName": "Molly",
+      "id": 240,
+      "catBreeds": "英國短毛貓",
+      "colors": "灰色",
+      "birthday": "2017-02-14",
+      "weight": 4.3,
+      "gender": "female",
+      "catPhoto": "https://i.imgur.com/slCGtuf.png",
+      "userId": 1012
+    },
+    {
+      "catName": "Rocky",
+      "id": 241,
+      "catBreeds": "波斯貓",
+      "colors": "白色",
+      "birthday": "2016-08-20",
+      "weight": 4.6,
+      "gender": "male",
+      "catPhoto": "https://i.imgur.com/slCGtuf.png",
+      "userId": 1013
+    },
+    {
+      "catName": "Sophie",
+      "id": 242,
+      "catBreeds": "緬因貓",
+      "colors": "三花",
+      "birthday": "2018-12-30",
+      "weight": 3.9,
+      "gender": "female",
+      "catPhoto": "https://i.imgur.com/slCGtuf.png",
+      "userId": 1014
+    },
+    {
+      "catName": "Milo",
+      "id": 243,
+      "catBreeds": "挪威森林貓",
+      "colors": "黑色",
+      "birthday": "2019-05-17",
+      "weight": 4.8,
+      "gender": "male",
+      "catPhoto": "https://i.imgur.com/slCGtuf.png",
+      "userId": 1015
+    },
+    {
+      "catName": "Lily",
+      "id": 244,
+      "catBreeds": "俄羅斯藍貓",
+      "colors": "灰色",
+      "birthday": "2017-11-22",
+      "weight": 3.7,
+      "gender": "female",
+      "catPhoto": "https://i.imgur.com/slCGtuf.png",
+      "userId": 1016
+    },
+    {
+      "catName": "Jack",
+      "id": 245,
+      "catBreeds": "美國短毛貓",
+      "colors": "虎斑",
+      "birthday": "2016-06-10",
+      "weight": 4.1,
+      "gender": "male",
+      "catPhoto": "https://i.imgur.com/slCGtuf.png",
+      "userId": 1016
+    },
+    {
+      "catName": "Lucy",
+      "id": 246,
+      "catBreeds": "暹羅貓",
+      "colors": "橘色",
+      "birthday": "2018-10-08",
+      "weight": 3.8,
+      "gender": "female",
+      "catPhoto": "https://i.imgur.com/slCGtuf.png",
+      "userId": 1017
+    },
+    {
+      "catName": "Shadow",
+      "id": 247,
+      "catBreeds": "英國短毛貓",
+      "colors": "灰色",
+      "birthday": "2016-03-14",
+      "weight": 4.4,
+      "gender": "male",
+      "catPhoto": "https://i.imgur.com/slCGtuf.png",
+      "userId": 1019
+    },
+    {
+      "catName": "Coco",
+      "id": 248,
+      "catBreeds": "波斯貓",
+      "colors": "白色",
+      "birthday": "2019-08-25",
+      "weight": 4,
+      "gender": "female",
+      "catPhoto": "https://i.imgur.com/slCGtuf.png",
+      "userId": 1021
+    },
+    {
+      "catName": "Tigger",
+      "id": 249,
+      "catBreeds": "緬因貓",
+      "colors": "三花",
+      "birthday": "2017-12-28",
+      "weight": 4.5,
+      "gender": "male",
+      "catPhoto": "https://i.imgur.com/slCGtuf.png",
+      "userId": 1021
+    },
+    {
+      "catName": "Ginger",
+      "id": 250,
+      "catBreeds": "挪威森林貓",
+      "colors": "橘色",
+      "birthday": "2018-07-19",
+      "weight": 3.6,
+      "gender": "female",
+      "catPhoto": "https://i.imgur.com/slCGtuf.png",
+      "userId": 1022
+    },
+    {
+      "catName": "Buddy",
+      "id": 251,
+      "catBreeds": "俄羅斯藍貓",
+      "colors": "灰色",
+      "birthday": "2016-04-23",
+      "weight": 4.7,
+      "gender": "male",
+      "catPhoto": "https://i.imgur.com/slCGtuf.png",
+      "userId": 1022
+    },
+    {
+      "catName": "Daisy",
+      "id": 252,
+      "catBreeds": "美國短毛貓",
+      "colors": "虎斑",
+      "birthday": "2019-01-11",
+      "weight": 3.9,
+      "gender": "female",
+      "catPhoto": "https://i.imgur.com/slCGtuf.png",
+      "userId": 1023
+    },
+    {
+      "catName": "Felix",
+      "id": 253,
+      "catBreeds": "暹羅貓",
+      "colors": "橘色",
+      "birthday": "2018-05-06",
+      "weight": 4.6,
+      "gender": "male",
+      "catPhoto": "https://i.imgur.com/slCGtuf.png",
+      "userId": 1024
+    },
+    {
+      "catName": "Mia",
+      "id": 254,
+      "catBreeds": "英國短毛貓",
+      "colors": "灰色",
+      "birthday": "2017-09-09",
+      "weight": 3.7,
+      "gender": "female",
+      "catPhoto": "https://i.imgur.com/slCGtuf.png",
+      "userId": 1026
+    },
+    {
+      "catName": "Rocky",
+      "id": 255,
+      "catBreeds": "波斯貓",
+      "colors": "白色",
+      "birthday": "2016-08-12",
+      "weight": 4.4,
+      "gender": "male",
+      "catPhoto": "https://i.imgur.com/slCGtuf.png",
+      "userId": 1026
+    },
+    {
+      "catName": "Misty",
+      "id": 256,
+      "catBreeds": "緬因貓",
+      "colors": "三花",
+      "birthday": "2019-02-27",
+      "weight": 4.1,
+      "gender": "female",
+      "catPhoto": "https://i.imgur.com/slCGtuf.png",
+      "userId": 1027
+    },
+    {
+      "catName": "Sammy",
+      "id": 257,
+      "catBreeds": "挪威森林貓",
+      "colors": "橘色",
+      "birthday": "2018-12-04",
+      "weight": 3.8,
+      "gender": "male",
+      "catPhoto": "https://i.imgur.com/slCGtuf.png",
+      "userId": 1027
+    },
+    {
+      "catName": "Nala",
+      "id": 258,
+      "catBreeds": "俄羅斯藍貓",
+      "colors": "灰色",
+      "birthday": "2016-11-19",
+      "weight": 4.5,
+      "gender": "female",
+      "catPhoto": "https://i.imgur.com/slCGtuf.png",
+      "userId": 1028
+    },
+    {
+      "catName": "Romeo",
+      "id": 259,
+      "catBreeds": "美國短毛貓",
+      "colors": "虎斑",
+      "birthday": "2017-07-15",
+      "weight": 4.2,
+      "gender": "male",
+      "catPhoto": "https://i.imgur.com/slCGtuf.png",
+      "userId": 1030
+    },
+    {
+      "catName": "Lola",
+      "id": 260,
+      "catBreeds": "暹羅貓",
+      "colors": "橘色",
+      "birthday": "2019-04-02",
+      "weight": 3.9,
+      "gender": "female",
+      "catPhoto": "https://i.imgur.com/slCGtuf.png",
+      "userId": 1031
+    },
+    {
+      "catName": "Cleo",
+      "id": 261,
+      "catBreeds": "英國短毛貓",
+      "colors": "虎斑",
+      "birthday": "2018-10-03",
+      "weight": 4,
+      "gender": "female",
+      "catPhoto": "https://i.imgur.com/slCGtuf.png",
+      "userId": 1032
+    },
+    {
+      "catName": "Leo",
+      "id": 262,
+      "catBreeds": "暹羅貓",
+      "colors": "橘色",
+      "birthday": "2019-06-14",
+      "weight": 4.3,
+      "gender": "male",
+      "catPhoto": "https://i.imgur.com/slCGtuf.png",
+      "userId": 1034
+    },
+    {
+      "catName": "Bella",
+      "id": 263,
+      "catBreeds": "波斯貓",
+      "colors": "白色",
+      "birthday": "2017-12-28",
+      "weight": 3.8,
+      "gender": "female",
+      "catPhoto": "https://i.imgur.com/slCGtuf.png",
+      "userId": 1035
+    },
+    {
+      "catName": "Max",
+      "id": 264,
+      "catBreeds": "俄羅斯藍貓",
+      "colors": "灰色",
+      "birthday": "2016-09-15",
+      "weight": 4.6,
+      "gender": "male",
+      "catPhoto": "https://i.imgur.com/slCGtuf.png",
+      "userId": 1035
+    },
+    {
+      "catName": "Mittens",
+      "id": 265,
+      "catBreeds": "緬因貓",
+      "colors": "三花",
+      "birthday": "2018-04-02",
+      "weight": 3.9,
+      "gender": "female",
+      "catPhoto": "https://i.imgur.com/slCGtuf.png",
+      "userId": 1036
+    },
+    {
+      "catName": "Oliver",
+      "id": 266,
+      "catBreeds": "挪威森林貓",
+      "colors": "黑色",
+      "birthday": "2019-11-19",
+      "weight": 4.4,
+      "gender": "male",
+      "catPhoto": "https://i.imgur.com/slCGtuf.png",
+      "userId": 1037
+    },
+    {
+      "catName": "Mia",
+      "id": 267,
+      "catBreeds": "美國短毛貓",
+      "colors": "虎斑",
+      "birthday": "2017-07-08",
+      "weight": 4.1,
+      "gender": "female",
+      "catPhoto": "https://i.imgur.com/slCGtuf.png",
+      "userId": 1038
+    },
+    {
+      "catName": "Simba",
+      "id": 268,
+      "catBreeds": "暹羅貓",
+      "colors": "橘色",
+      "birthday": "2018-12-24",
+      "weight": 3.7,
+      "gender": "male",
+      "catPhoto": "https://i.imgur.com/slCGtuf.png",
+      "userId": 1040
+    },
+    {
+      "catName": "Luna",
+      "id": 269,
+      "catBreeds": "英國短毛貓",
+      "colors": "灰白",
+      "birthday": "2016-03-30",
+      "weight": 4.5,
+      "gender": "female",
+      "catPhoto": "https://i.imgur.com/slCGtuf.png",
+      "userId": 1041
+    },
+    {
+      "catName": "Tiger",
+      "id": 270,
+      "catBreeds": "俄羅斯藍貓",
+      "colors": "灰色",
+      "birthday": "2019-02-14",
+      "weight": 4.2,
+      "gender": "male",
+      "catPhoto": "https://i.imgur.com/slCGtuf.png",
+      "userId": 1042
+    },
+    {
+      "catName": "Buddy",
+      "id": 271,
+      "catBreeds": "暹羅貓",
+      "colors": "橘色",
+      "birthday": "2018-09-21",
+      "weight": 3.6,
+      "gender": "male",
+      "catPhoto": "https://i.imgur.com/slCGtuf.png",
+      "userId": 1042
+    },
+    {
+      "catName": "Lily",
+      "id": 272,
+      "catBreeds": "波斯貓",
+      "colors": "白色",
+      "birthday": "2017-01-18",
+      "weight": 4.3,
+      "gender": "female",
+      "catPhoto": "https://i.imgur.com/slCGtuf.png",
+      "userId": 1043
+    },
+    {
+      "catName": "Rocky",
+      "id": 273,
+      "catBreeds": "緬因貓",
+      "colors": "三花",
+      "birthday": "2016-06-07",
+      "weight": 4.7,
+      "gender": "male",
+      "catPhoto": "https://i.imgur.com/slCGtuf.png",
+      "userId": 1044
+    },
+    {
+      "catName": "Sophie",
+      "id": 274,
+      "catBreeds": "美國短毛貓",
+      "colors": "虎斑",
+      "birthday": "2019-03-25",
+      "weight": 3.8,
+      "gender": "female",
+      "catPhoto": "https://i.imgur.com/slCGtuf.png",
+      "userId": 1044
+    },
+    {
+      "catName": "Charlie",
+      "id": 275,
+      "catBreeds": "英國短毛貓",
+      "colors": "灰色",
+      "birthday": "2018-08-12",
+      "weight": 4.4,
+      "gender": "male",
+      "catPhoto": "https://i.imgur.com/slCGtuf.png",
+      "userId": 1048
+    },
+    {
+      "catName": "Daisy",
+      "id": 276,
+      "catBreeds": "挪威森林貓",
+      "colors": "黑色",
+      "birthday": "2017-05-29",
+      "weight": 4,
+      "gender": "female",
+      "catPhoto": "https://i.imgur.com/slCGtuf.png",
+      "userId": 1045
+    },
+    {
+      "catName": "Oscar",
+      "id": 277,
+      "catBreeds": "俄羅斯藍貓",
+      "colors": "灰色",
+      "birthday": "2016-12-26",
+      "weight": 4.5,
+      "gender": "male",
+      "catPhoto": "https://i.imgur.com/slCGtuf.png",
+      "userId": 1046
+    },
+    {
+      "catName": "Molly",
+      "id": 278,
+      "catBreeds": "暹羅貓",
+      "colors": "橘色",
+      "birthday": "2019-10-23",
+      "weight": 3.9,
+      "gender": "female",
+      "catPhoto": "https://i.imgur.com/slCGtuf.png",
+      "userId": 1048
+    },
+    {
+      "catName": "Jack",
+      "id": 279,
+      "catBreeds": "波斯貓",
+      "colors": "白色",
+      "birthday": "2018-04-20",
+      "weight": 4.6,
+      "gender": "male",
+      "catPhoto": "https://i.imgur.com/slCGtuf.png",
+      "userId": 1048
+    },
+    {
+      "catName": "Mia",
+      "id": 280,
+      "catBreeds": "緬因貓",
+      "colors": "三花",
+      "birthday": "2017-11-17",
+      "weight": 3.7,
+      "gender": "female",
+      "catPhoto": "https://i.imgur.com/slCGtuf.png",
+      "userId": 1048
+    },
+    {
+      "catName": "Leo",
+      "id": 281,
+      "catBreeds": "美國短毛貓",
+      "colors": "虎斑",
+      "birthday": "2016-09-14",
+      "weight": 4.2,
+      "gender": "male",
+      "catPhoto": "https://i.imgur.com/slCGtuf.png",
+      "userId": 1056
+    },
+    {
+      "catName": "Lucy",
+      "id": 282,
+      "catBreeds": "暹羅貓",
+      "colors": "橘色",
+      "birthday": "2019-07-11",
+      "weight": 3.8,
+      "gender": "female",
+      "catPhoto": "https://i.imgur.com/slCGtuf.png",
+      "userId": 1056
+    },
+    {
+      "catName": "Rocky",
+      "id": 283,
+      "catBreeds": "英國短毛貓",
+      "colors": "灰色",
+      "birthday": "2018-02-04",
+      "weight": 4.4,
+      "gender": "male",
+      "catPhoto": "https://i.imgur.com/slCGtuf.png",
+      "userId": 1057
+    },
+    {
+      "catName": "Coco",
+      "id": 284,
+      "catBreeds": "波斯貓",
+      "colors": "白色",
+      "birthday": "2017-07-21",
+      "weight": 4,
+      "gender": "female",
+      "catPhoto": "https://i.imgur.com/slCGtuf.png",
+      "userId": 1058
+    },
+    {
+      "catName": "Tigger",
+      "id": 285,
+      "catBreeds": "緬因貓",
+      "colors": "三花",
+      "birthday": "2016-06-12",
+      "weight": 4.5,
+      "gender": "male",
+      "catPhoto": "https://i.imgur.com/slCGtuf.png",
+      "userId": 1059
+    },
+    {
+      "catName": "Ginger",
+      "id": 286,
+      "catBreeds": "挪威森林貓",
+      "colors": "橘色",
+      "birthday": "2019-03-09",
+      "weight": 3.6,
+      "gender": "female",
+      "catPhoto": "https://i.imgur.com/slCGtuf.png",
+      "userId": 1059
+    },
+    {
+      "catName": "Buddy",
+      "id": 287,
+      "catBreeds": "俄羅斯藍貓",
+      "colors": "灰色",
+      "birthday": "2018-11-05",
+      "weight": 4.7,
+      "gender": "male",
+      "catPhoto": "https://i.imgur.com/slCGtuf.png",
+      "userId": 1059
+    },
+    {
+      "catName": "Daisy",
+      "id": 288,
+      "catBreeds": "美國短毛貓",
+      "colors": "虎斑",
+      "birthday": "2017-09-01",
+      "weight": 3.9,
+      "gender": "female",
+      "catPhoto": "https://i.imgur.com/slCGtuf.png",
+      "userId": 1060
+    },
+    {
+      "catName": "Felix",
+      "id": 289,
+      "catBreeds": "暹羅貓",
+      "colors": "橘色",
+      "birthday": "2016-04-08",
+      "weight": 4.6,
+      "gender": "male",
+      "catPhoto": "https://i.imgur.com/slCGtuf.png",
+      "userId": 1060
+    },
+    {
+      "catName": "Mia",
+      "id": 290,
+      "catBreeds": "英國短毛貓",
+      "colors": "灰色",
+      "birthday": "2018-12-30",
+      "weight": 3.7,
+      "gender": "female",
+      "catPhoto": "https://i.imgur.com/slCGtuf.png",
+      "userId": 1061
+    },
+    {
+      "catName": "Rocky",
+      "id": 291,
+      "catBreeds": "波斯貓",
+      "colors": "白色",
+      "birthday": "2016-08-15",
+      "weight": 4.4,
+      "gender": "male",
+      "catPhoto": "https://i.imgur.com/slCGtuf.png",
+      "userId": 1062
+    },
+    {
+      "catName": "Misty",
+      "id": 292,
+      "catBreeds": "緬因貓",
+      "colors": "三花",
+      "birthday": "2019-05-22",
+      "weight": 4.1,
+      "gender": "female",
+      "catPhoto": "https://i.imgur.com/slCGtuf.png",
+      "userId": 1063
+    },
+    {
+      "catName": "Sammy",
+      "id": 293,
+      "catBreeds": "挪威森林貓",
+      "colors": "橘色",
+      "birthday": "2018-12-19",
+      "weight": 3.8,
+      "gender": "male",
+      "catPhoto": "https://i.imgur.com/slCGtuf.png",
+      "userId": 1064
+    },
+    {
+      "catName": "Nala",
+      "id": 294,
+      "catBreeds": "俄羅斯藍貓",
+      "colors": "灰色",
+      "birthday": "2016-11-14",
+      "weight": 4.5,
+      "gender": "female",
+      "catPhoto": "https://i.imgur.com/slCGtuf.png",
+      "userId": 1065
+    },
+    {
+      "catName": "Romeo",
+      "id": 295,
+      "catBreeds": "美國短毛貓",
+      "colors": "虎斑",
+      "birthday": "2017-07-10",
+      "weight": 4.2,
+      "gender": "male",
+      "catPhoto": "https://i.imgur.com/slCGtuf.png",
+      "userId": 1065
+    },
+    {
+      "catName": "Lola",
+      "id": 296,
+      "catBreeds": "暹羅貓",
+      "colors": "橘色",
+      "birthday": "2019-04-17",
+      "weight": 3.9,
+      "gender": "female",
+      "catPhoto": "https://i.imgur.com/slCGtuf.png",
+      "userId": 1065
+    },
+    {
+      "catName": "Milo",
+      "id": 297,
+      "catBreeds": "英國短毛貓",
+      "colors": "灰色",
+      "birthday": "2017-08-19",
+      "weight": 4.3,
+      "gender": "male",
+      "catPhoto": "https://i.imgur.com/slCGtuf.png",
+      "userId": 1066
+    },
+    {
+      "catName": "Luna",
+      "id": 298,
+      "catBreeds": "俄羅斯藍貓",
+      "colors": "灰色",
+      "birthday": "2016-04-26",
+      "weight": 3.6,
+      "gender": "female",
+      "catPhoto": "https://i.imgur.com/slCGtuf.png",
+      "userId": 1067
+    },
+    {
+      "catName": "Tiger",
+      "id": 299,
+      "catBreeds": "暹羅貓",
+      "colors": "橘色",
+      "birthday": "2018-01-23",
+      "weight": 4.7,
+      "gender": "male",
+      "catPhoto": "https://i.imgur.com/slCGtuf.png",
+      "userId": 1068
+    },
+    {
+      "catName": "Buddy",
+      "id": 300,
+      "catBreeds": "波斯貓",
+      "colors": "白色",
+      "birthday": "2019-11-10",
+      "weight": 3.8,
+      "gender": "male",
+      "catPhoto": "https://i.imgur.com/slCGtuf.png",
+      "userId": 1068
     }
   ],
   "rooms": [
@@ -1117,442 +2384,4266 @@
     {
       "date": "2023-12-11",
       "availableCount": {
-        "classic": 0,
-        "delicate": 0,
-        "luxury": 2
+        "classic": 2,
+        "delicate": 2,
+        "luxury": 4
       },
       "status": {
-        "classic_A_canUse": false,
-        "classic_B_canUse": false,
-        "classic_C_canUse": false,
-        "delicate_A_canUse": false,
-        "delicate_B_canUse": false,
-        "delicate_C_canUse": false,
+        "classic_A_canUse": true,
+        "classic_B_canUse": true,
+        "classic_C_canUse": true,
+        "classic_D_canUse": true,
+        "classic_E_canUse": true,
+        "delicate_A_canUse": true,
+        "delicate_B_canUse": true,
+        "delicate_C_canUse": true,
+        "delicate_D_canUse": true,
+        "delicate_E_canUse": true,
         "luxury_A_canUse": true,
-        "luxury_B_canUse": false,
-        "luxury_C_canUse": true
+        "luxury_B_canUse": true,
+        "luxury_C_canUse": true,
+        "luxury_D_canUse": true,
+        "luxury_E_canUse": true
       },
       "id": 5001
     },
     {
       "date": "2023-12-12",
       "availableCount": {
-        "classic": 0,
-        "delicate": 0,
-        "luxury": 1
+        "classic": 2,
+        "delicate": 2,
+        "luxury": 3
       },
       "status": {
-        "classic_A_canUse": false,
-        "classic_B_canUse": false,
-        "classic_C_canUse": false,
-        "delicate_A_canUse": false,
-        "delicate_B_canUse": false,
-        "delicate_C_canUse": false,
+        "classic_A_canUse": true,
+        "classic_B_canUse": true,
+        "classic_C_canUse": true,
+        "classic_D_canUse": true,
+        "classic_E_canUse": true,
+        "delicate_A_canUse": true,
+        "delicate_B_canUse": true,
+        "delicate_C_canUse": true,
+        "delicate_D_canUse": true,
+        "delicate_E_canUse": true,
         "luxury_A_canUse": true,
-        "luxury_B_canUse": false,
-        "luxury_C_canUse": false
+        "luxury_B_canUse": true,
+        "luxury_C_canUse": true,
+        "luxury_D_canUse": true,
+        "luxury_E_canUse": true
       },
       "id": 5002
     },
     {
       "date": "2023-12-13",
       "availableCount": {
-        "classic": 0,
-        "delicate": 0,
-        "luxury": 0
+        "classic": 2,
+        "delicate": 2,
+        "luxury": 2
       },
       "status": {
-        "classic_A_canUse": false,
-        "classic_B_canUse": false,
-        "classic_C_canUse": false,
-        "delicate_A_canUse": false,
-        "delicate_B_canUse": false,
-        "delicate_C_canUse": false,
-        "luxury_A_canUse": false,
-        "luxury_B_canUse": false,
-        "luxury_C_canUse": false
+        "classic_A_canUse": true,
+        "classic_B_canUse": true,
+        "classic_C_canUse": true,
+        "classic_D_canUse": true,
+        "classic_E_canUse": true,
+        "delicate_A_canUse": true,
+        "delicate_B_canUse": true,
+        "delicate_C_canUse": true,
+        "delicate_D_canUse": true,
+        "delicate_E_canUse": true,
+        "luxury_A_canUse": true,
+        "luxury_B_canUse": true,
+        "luxury_C_canUse": true,
+        "luxury_D_canUse": true,
+        "luxury_E_canUse": true
       },
       "id": 5003
     },
     {
       "date": "2023-12-14",
       "availableCount": {
-        "classic": 1,
-        "delicate": 1,
-        "luxury": 1
+        "classic": 3,
+        "delicate": 3,
+        "luxury": 3
       },
       "status": {
-        "classic_A_canUse": false,
+        "classic_A_canUse": true,
         "classic_B_canUse": true,
-        "classic_C_canUse": false,
-        "delicate_A_canUse": false,
-        "delicate_B_canUse": false,
+        "classic_C_canUse": true,
+        "classic_D_canUse": true,
+        "classic_E_canUse": true,
+        "delicate_A_canUse": true,
+        "delicate_B_canUse": true,
         "delicate_C_canUse": true,
-        "luxury_A_canUse": false,
+        "delicate_D_canUse": true,
+        "delicate_E_canUse": true,
+        "luxury_A_canUse": true,
         "luxury_B_canUse": true,
-        "luxury_C_canUse": false
+        "luxury_C_canUse": true,
+        "luxury_D_canUse": true,
+        "luxury_E_canUse": true
       },
       "id": 5004
     },
     {
       "date": "2023-12-15",
       "availableCount": {
-        "classic": 0,
-        "delicate": 2,
-        "luxury": 1
+        "classic": 2,
+        "delicate": 4,
+        "luxury": 3
       },
       "status": {
-        "classic_A_canUse": false,
-        "classic_B_canUse": false,
-        "classic_C_canUse": false,
+        "classic_A_canUse": true,
+        "classic_B_canUse": true,
+        "classic_C_canUse": true,
+        "classic_D_canUse": true,
+        "classic_E_canUse": true,
         "delicate_A_canUse": true,
-        "delicate_B_canUse": false,
+        "delicate_B_canUse": true,
         "delicate_C_canUse": true,
-        "luxury_A_canUse": false,
+        "delicate_D_canUse": true,
+        "delicate_E_canUse": true,
+        "luxury_A_canUse": true,
         "luxury_B_canUse": true,
-        "luxury_C_canUse": false
+        "luxury_C_canUse": true,
+        "luxury_D_canUse": true,
+        "luxury_E_canUse": true
       },
       "id": 5005
     },
     {
       "date": "2023-12-16",
       "availableCount": {
-        "classic": 0,
-        "delicate": 2,
-        "luxury": 2
+        "classic": 2,
+        "delicate": 4,
+        "luxury": 4
       },
       "status": {
-        "classic_A_canUse": false,
-        "classic_B_canUse": false,
-        "classic_C_canUse": false,
+        "classic_A_canUse": true,
+        "classic_B_canUse": true,
+        "classic_C_canUse": true,
+        "classic_D_canUse": true,
+        "classic_E_canUse": true,
         "delicate_A_canUse": true,
-        "delicate_B_canUse": false,
+        "delicate_B_canUse": true,
         "delicate_C_canUse": true,
-        "luxury_A_canUse": false,
+        "delicate_D_canUse": true,
+        "delicate_E_canUse": true,
+        "luxury_A_canUse": true,
         "luxury_B_canUse": true,
-        "luxury_C_canUse": true
+        "luxury_C_canUse": true,
+        "luxury_D_canUse": true,
+        "luxury_E_canUse": true
       },
       "id": 5006
     },
     {
       "date": "2023-12-17",
       "availableCount": {
-        "classic": 1,
-        "delicate": 1,
-        "luxury": 2
+        "classic": 3,
+        "delicate": 3,
+        "luxury": 4
       },
       "status": {
         "classic_A_canUse": true,
-        "classic_B_canUse": false,
-        "classic_C_canUse": false,
-        "delicate_A_canUse": false,
+        "classic_B_canUse": true,
+        "classic_C_canUse": true,
+        "classic_D_canUse": true,
+        "classic_E_canUse": true,
+        "delicate_A_canUse": true,
         "delicate_B_canUse": true,
-        "delicate_C_canUse": false,
-        "luxury_A_canUse": false,
+        "delicate_C_canUse": true,
+        "delicate_D_canUse": true,
+        "delicate_E_canUse": true,
+        "luxury_A_canUse": true,
         "luxury_B_canUse": true,
-        "luxury_C_canUse": true
+        "luxury_C_canUse": true,
+        "luxury_D_canUse": true,
+        "luxury_E_canUse": true
       },
       "id": 5007
     },
     {
       "date": "2023-12-18",
       "availableCount": {
-        "classic": 1,
-        "delicate": 0,
-        "luxury": 2
+        "classic": 3,
+        "delicate": 2,
+        "luxury": 4
       },
       "status": {
-        "classic_A_canUse": false,
-        "classic_B_canUse": false,
+        "classic_A_canUse": true,
+        "classic_B_canUse": true,
         "classic_C_canUse": true,
-        "delicate_A_canUse": false,
-        "delicate_B_canUse": false,
-        "delicate_C_canUse": false,
+        "classic_D_canUse": true,
+        "classic_E_canUse": true,
+        "delicate_A_canUse": true,
+        "delicate_B_canUse": true,
+        "delicate_C_canUse": true,
+        "delicate_D_canUse": true,
+        "delicate_E_canUse": true,
         "luxury_A_canUse": true,
         "luxury_B_canUse": true,
-        "luxury_C_canUse": false
+        "luxury_C_canUse": true,
+        "luxury_D_canUse": true,
+        "luxury_E_canUse": true
       },
       "id": 5008
     },
     {
       "date": "2023-12-19",
       "availableCount": {
-        "classic": 0,
-        "delicate": 0,
-        "luxury": 1
+        "classic": 2,
+        "delicate": 2,
+        "luxury": 3
       },
       "status": {
-        "classic_A_canUse": false,
-        "classic_B_canUse": false,
-        "classic_C_canUse": false,
-        "delicate_A_canUse": false,
-        "delicate_B_canUse": false,
-        "delicate_C_canUse": false,
+        "classic_A_canUse": true,
+        "classic_B_canUse": true,
+        "classic_C_canUse": true,
+        "classic_D_canUse": true,
+        "classic_E_canUse": true,
+        "delicate_A_canUse": true,
+        "delicate_B_canUse": true,
+        "delicate_C_canUse": true,
+        "delicate_D_canUse": true,
+        "delicate_E_canUse": true,
         "luxury_A_canUse": true,
-        "luxury_B_canUse": false,
-        "luxury_C_canUse": false
+        "luxury_B_canUse": true,
+        "luxury_C_canUse": true,
+        "luxury_D_canUse": true,
+        "luxury_E_canUse": true
       },
       "id": 5009
     },
     {
       "date": "2023-12-20",
       "availableCount": {
-        "classic": 0,
-        "delicate": 1,
-        "luxury": 1
+        "classic": 2,
+        "delicate": 3,
+        "luxury": 3
       },
       "status": {
-        "classic_A_canUse": false,
-        "classic_B_canUse": false,
-        "classic_C_canUse": false,
-        "delicate_A_canUse": false,
-        "delicate_B_canUse": false,
+        "classic_A_canUse": true,
+        "classic_B_canUse": true,
+        "classic_C_canUse": true,
+        "classic_D_canUse": true,
+        "classic_E_canUse": true,
+        "delicate_A_canUse": true,
+        "delicate_B_canUse": true,
         "delicate_C_canUse": true,
+        "delicate_D_canUse": true,
+        "delicate_E_canUse": true,
         "luxury_A_canUse": true,
-        "luxury_B_canUse": false,
-        "luxury_C_canUse": false
+        "luxury_B_canUse": true,
+        "luxury_C_canUse": true,
+        "luxury_D_canUse": true,
+        "luxury_E_canUse": true
       },
       "id": 5010
     },
     {
       "date": "2023-12-21",
       "availableCount": {
-        "classic": 1,
-        "delicate": 0,
-        "luxury": 1
+        "classic": 3,
+        "delicate": 2,
+        "luxury": 3
       },
       "status": {
         "classic_A_canUse": true,
-        "classic_B_canUse": false,
-        "classic_C_canUse": false,
-        "delicate_A_canUse": false,
-        "delicate_B_canUse": false,
-        "delicate_C_canUse": false,
+        "classic_B_canUse": true,
+        "classic_C_canUse": true,
+        "classic_D_canUse": true,
+        "classic_E_canUse": true,
+        "delicate_A_canUse": true,
+        "delicate_B_canUse": true,
+        "delicate_C_canUse": true,
+        "delicate_D_canUse": true,
+        "delicate_E_canUse": true,
         "luxury_A_canUse": true,
-        "luxury_B_canUse": false,
-        "luxury_C_canUse": false
+        "luxury_B_canUse": true,
+        "luxury_C_canUse": true,
+        "luxury_D_canUse": true,
+        "luxury_E_canUse": true
       },
       "id": 5011
     },
     {
       "date": "2023-12-22",
       "availableCount": {
-        "classic": 2,
-        "delicate": 1,
-        "luxury": 1
+        "classic": 4,
+        "delicate": 3,
+        "luxury": 3
       },
       "status": {
         "classic_A_canUse": true,
-        "classic_B_canUse": false,
+        "classic_B_canUse": true,
         "classic_C_canUse": true,
-        "delicate_A_canUse": false,
+        "classic_D_canUse": true,
+        "classic_E_canUse": true,
+        "delicate_A_canUse": true,
         "delicate_B_canUse": true,
-        "delicate_C_canUse": false,
+        "delicate_C_canUse": true,
+        "delicate_D_canUse": true,
+        "delicate_E_canUse": true,
         "luxury_A_canUse": true,
-        "luxury_B_canUse": false,
-        "luxury_C_canUse": false
+        "luxury_B_canUse": true,
+        "luxury_C_canUse": true,
+        "luxury_D_canUse": true,
+        "luxury_E_canUse": true
       },
       "id": 5012
     },
     {
       "date": "2023-12-23",
       "availableCount": {
-        "classic": 1,
-        "delicate": 2,
-        "luxury": 1
+        "classic": 3,
+        "delicate": 4,
+        "luxury": 3
       },
       "status": {
         "classic_A_canUse": true,
-        "classic_B_canUse": false,
-        "classic_C_canUse": false,
+        "classic_B_canUse": true,
+        "classic_C_canUse": true,
+        "classic_D_canUse": true,
+        "classic_E_canUse": true,
         "delicate_A_canUse": true,
         "delicate_B_canUse": true,
-        "delicate_C_canUse": false,
-        "luxury_A_canUse": false,
-        "luxury_B_canUse": false,
-        "luxury_C_canUse": true
+        "delicate_C_canUse": true,
+        "delicate_D_canUse": true,
+        "delicate_E_canUse": true,
+        "luxury_A_canUse": true,
+        "luxury_B_canUse": true,
+        "luxury_C_canUse": true,
+        "luxury_D_canUse": true,
+        "luxury_E_canUse": true
       },
       "id": 5013
     },
     {
       "date": "2023-12-24",
       "availableCount": {
-        "classic": 1,
-        "delicate": 1,
-        "luxury": 0
+        "classic": 3,
+        "delicate": 3,
+        "luxury": 2
       },
       "status": {
         "classic_A_canUse": true,
-        "classic_B_canUse": false,
-        "classic_C_canUse": false,
-        "delicate_A_canUse": false,
-        "delicate_B_canUse": false,
+        "classic_B_canUse": true,
+        "classic_C_canUse": true,
+        "classic_D_canUse": true,
+        "classic_E_canUse": true,
+        "delicate_A_canUse": true,
+        "delicate_B_canUse": true,
         "delicate_C_canUse": true,
-        "luxury_A_canUse": false,
-        "luxury_B_canUse": false,
-        "luxury_C_canUse": false
+        "delicate_D_canUse": true,
+        "delicate_E_canUse": true,
+        "luxury_A_canUse": true,
+        "luxury_B_canUse": true,
+        "luxury_C_canUse": true,
+        "luxury_D_canUse": true,
+        "luxury_E_canUse": true
       },
       "id": 5014
     },
     {
       "date": "2023-12-25",
       "availableCount": {
-        "classic": 2,
-        "delicate": 1,
-        "luxury": 1
+        "classic": 4,
+        "delicate": 3,
+        "luxury": 3
       },
       "status": {
         "classic_A_canUse": true,
         "classic_B_canUse": true,
-        "classic_C_canUse": false,
-        "delicate_A_canUse": false,
-        "delicate_B_canUse": false,
+        "classic_C_canUse": true,
+        "classic_D_canUse": true,
+        "classic_E_canUse": true,
+        "delicate_A_canUse": true,
+        "delicate_B_canUse": true,
         "delicate_C_canUse": true,
-        "luxury_A_canUse": false,
+        "delicate_D_canUse": true,
+        "delicate_E_canUse": true,
+        "luxury_A_canUse": true,
         "luxury_B_canUse": true,
-        "luxury_C_canUse": false
+        "luxury_C_canUse": true,
+        "luxury_D_canUse": true,
+        "luxury_E_canUse": true
       },
       "id": 5015
     },
     {
       "date": "2023-12-26",
       "availableCount": {
-        "classic": 1,
-        "delicate": 0,
-        "luxury": 2
+        "classic": 3,
+        "delicate": 2,
+        "luxury": 4
       },
       "status": {
-        "classic_A_canUse": false,
+        "classic_A_canUse": true,
         "classic_B_canUse": true,
-        "classic_C_canUse": false,
-        "delicate_A_canUse": false,
-        "delicate_B_canUse": false,
-        "delicate_C_canUse": false,
+        "classic_C_canUse": true,
+        "classic_D_canUse": true,
+        "classic_E_canUse": true,
+        "delicate_A_canUse": true,
+        "delicate_B_canUse": true,
+        "delicate_C_canUse": true,
+        "delicate_D_canUse": true,
+        "delicate_E_canUse": true,
         "luxury_A_canUse": true,
         "luxury_B_canUse": true,
-        "luxury_C_canUse": false
+        "luxury_C_canUse": true,
+        "luxury_D_canUse": true,
+        "luxury_E_canUse": true
       },
       "id": 5016
     },
     {
       "date": "2023-12-27",
       "availableCount": {
-        "classic": 0,
-        "delicate": 0,
-        "luxury": 1
+        "classic": 2,
+        "delicate": 2,
+        "luxury": 3
       },
       "status": {
-        "classic_A_canUse": false,
-        "classic_B_canUse": false,
-        "classic_C_canUse": false,
-        "delicate_A_canUse": false,
-        "delicate_B_canUse": false,
-        "delicate_C_canUse": false,
+        "classic_A_canUse": true,
+        "classic_B_canUse": true,
+        "classic_C_canUse": true,
+        "classic_D_canUse": true,
+        "classic_E_canUse": true,
+        "delicate_A_canUse": true,
+        "delicate_B_canUse": true,
+        "delicate_C_canUse": true,
+        "delicate_D_canUse": true,
+        "delicate_E_canUse": true,
         "luxury_A_canUse": true,
-        "luxury_B_canUse": false,
-        "luxury_C_canUse": false
+        "luxury_B_canUse": true,
+        "luxury_C_canUse": true,
+        "luxury_D_canUse": true,
+        "luxury_E_canUse": true
       },
       "id": 5017
     },
     {
       "date": "2023-12-28",
       "availableCount": {
-        "classic": 0,
-        "delicate": 1,
-        "luxury": 1
+        "classic": 2,
+        "delicate": 3,
+        "luxury": 3
       },
       "status": {
-        "classic_A_canUse": false,
-        "classic_B_canUse": false,
-        "classic_C_canUse": false,
-        "delicate_A_canUse": false,
+        "classic_A_canUse": true,
+        "classic_B_canUse": true,
+        "classic_C_canUse": true,
+        "classic_D_canUse": true,
+        "classic_E_canUse": true,
+        "delicate_A_canUse": true,
         "delicate_B_canUse": true,
-        "delicate_C_canUse": false,
+        "delicate_C_canUse": true,
+        "delicate_D_canUse": true,
+        "delicate_E_canUse": true,
         "luxury_A_canUse": true,
-        "luxury_B_canUse": false,
-        "luxury_C_canUse": false
+        "luxury_B_canUse": true,
+        "luxury_C_canUse": true,
+        "luxury_D_canUse": true,
+        "luxury_E_canUse": true
       },
       "id": 5018
     },
     {
       "date": "2023-12-29",
       "availableCount": {
-        "classic": 1,
-        "delicate": 1,
-        "luxury": 1
+        "classic": 3,
+        "delicate": 3,
+        "luxury": 3
       },
       "status": {
-        "classic_A_canUse": false,
-        "classic_B_canUse": false,
+        "classic_A_canUse": true,
+        "classic_B_canUse": true,
         "classic_C_canUse": true,
-        "delicate_A_canUse": false,
+        "classic_D_canUse": true,
+        "classic_E_canUse": true,
+        "delicate_A_canUse": true,
         "delicate_B_canUse": true,
-        "delicate_C_canUse": false,
+        "delicate_C_canUse": true,
+        "delicate_D_canUse": true,
+        "delicate_E_canUse": true,
         "luxury_A_canUse": true,
-        "luxury_B_canUse": false,
-        "luxury_C_canUse": false
+        "luxury_B_canUse": true,
+        "luxury_C_canUse": true,
+        "luxury_D_canUse": true,
+        "luxury_E_canUse": true
       },
       "id": 5019
     },
     {
       "date": "2023-12-30",
       "availableCount": {
-        "classic": 2,
-        "delicate": 1,
-        "luxury": 2
+        "classic": 4,
+        "delicate": 3,
+        "luxury": 4
       },
       "status": {
-        "classic_A_canUse": false,
+        "classic_A_canUse": true,
         "classic_B_canUse": true,
         "classic_C_canUse": true,
-        "delicate_A_canUse": false,
+        "classic_D_canUse": true,
+        "classic_E_canUse": true,
+        "delicate_A_canUse": true,
         "delicate_B_canUse": true,
-        "delicate_C_canUse": false,
+        "delicate_C_canUse": true,
+        "delicate_D_canUse": true,
+        "delicate_E_canUse": true,
         "luxury_A_canUse": true,
         "luxury_B_canUse": true,
-        "luxury_C_canUse": false
+        "luxury_C_canUse": true,
+        "luxury_D_canUse": true,
+        "luxury_E_canUse": true
       },
       "id": 5020
     },
     {
       "date": "2023-12-31",
       "availableCount": {
-        "classic": 2,
-        "delicate": 2,
-        "luxury": 2
+        "classic": 4,
+        "delicate": 4,
+        "luxury": 4
       },
       "status": {
-        "classic_A_canUse": false,
+        "classic_A_canUse": true,
         "classic_B_canUse": true,
         "classic_C_canUse": true,
+        "classic_D_canUse": true,
+        "classic_E_canUse": true,
         "delicate_A_canUse": true,
         "delicate_B_canUse": true,
-        "delicate_C_canUse": false,
+        "delicate_C_canUse": true,
+        "delicate_D_canUse": true,
+        "delicate_E_canUse": true,
         "luxury_A_canUse": true,
         "luxury_B_canUse": true,
-        "luxury_C_canUse": false
+        "luxury_C_canUse": true,
+        "luxury_D_canUse": true,
+        "luxury_E_canUse": true
       },
       "id": 5021
     },
     {
       "date": "2023-12-10",
       "availableCount": {
-        "classic": 1,
-        "delicate": 2,
-        "luxury": 3
+        "classic": 3,
+        "delicate": 4,
+        "luxury": 5
       },
       "status": {
-        "classic_A_canUse": false,
+        "classic_A_canUse": true,
         "classic_B_canUse": true,
         "classic_C_canUse": true,
+        "classic_D_canUse": true,
+        "classic_E_canUse": true,
         "delicate_A_canUse": true,
         "delicate_B_canUse": true,
-        "delicate_C_canUse": false,
+        "delicate_C_canUse": true,
+        "delicate_D_canUse": true,
+        "delicate_E_canUse": true,
         "luxury_A_canUse": true,
         "luxury_B_canUse": true,
-        "luxury_C_canUse": false
+        "luxury_C_canUse": true,
+        "luxury_D_canUse": true,
+        "luxury_E_canUse": true
       },
       "id": 5022
+    },
+    {
+      "date": "2023-09-19",
+      "availableCount": {
+        "classic": 5,
+        "delicate": 5,
+        "luxury": 5
+      },
+      "status": {
+        "classic_A_canUse": true,
+        "classic_B_canUse": true,
+        "classic_C_canUse": true,
+        "classic_D_canUse": true,
+        "classic_E_canUse": true,
+        "delicate_A_canUse": true,
+        "delicate_B_canUse": true,
+        "delicate_C_canUse": true,
+        "delicate_D_canUse": true,
+        "delicate_E_canUse": true,
+        "luxury_A_canUse": true,
+        "luxury_B_canUse": true,
+        "luxury_C_canUse": true,
+        "luxury_D_canUse": true,
+        "luxury_E_canUse": true
+      },
+      "id": 5023
+    },
+    {
+      "date": "2023-09-20",
+      "availableCount": {
+        "classic": 5,
+        "delicate": 5,
+        "luxury": 5
+      },
+      "status": {
+        "classic_A_canUse": true,
+        "classic_B_canUse": true,
+        "classic_C_canUse": true,
+        "classic_D_canUse": true,
+        "classic_E_canUse": true,
+        "delicate_A_canUse": true,
+        "delicate_B_canUse": true,
+        "delicate_C_canUse": true,
+        "delicate_D_canUse": true,
+        "delicate_E_canUse": true,
+        "luxury_A_canUse": true,
+        "luxury_B_canUse": true,
+        "luxury_C_canUse": true,
+        "luxury_D_canUse": true,
+        "luxury_E_canUse": true
+      },
+      "id": 5024
+    },
+    {
+      "date": "2023-09-21",
+      "availableCount": {
+        "classic": 5,
+        "delicate": 5,
+        "luxury": 5
+      },
+      "status": {
+        "classic_A_canUse": true,
+        "classic_B_canUse": true,
+        "classic_C_canUse": true,
+        "classic_D_canUse": true,
+        "classic_E_canUse": true,
+        "delicate_A_canUse": true,
+        "delicate_B_canUse": true,
+        "delicate_C_canUse": true,
+        "delicate_D_canUse": true,
+        "delicate_E_canUse": true,
+        "luxury_A_canUse": true,
+        "luxury_B_canUse": true,
+        "luxury_C_canUse": true,
+        "luxury_D_canUse": true,
+        "luxury_E_canUse": true
+      },
+      "id": 5025
+    },
+    {
+      "date": "2023-09-22",
+      "availableCount": {
+        "classic": 5,
+        "delicate": 5,
+        "luxury": 5
+      },
+      "status": {
+        "classic_A_canUse": true,
+        "classic_B_canUse": true,
+        "classic_C_canUse": true,
+        "classic_D_canUse": true,
+        "classic_E_canUse": true,
+        "delicate_A_canUse": true,
+        "delicate_B_canUse": true,
+        "delicate_C_canUse": true,
+        "delicate_D_canUse": true,
+        "delicate_E_canUse": true,
+        "luxury_A_canUse": true,
+        "luxury_B_canUse": true,
+        "luxury_C_canUse": true,
+        "luxury_D_canUse": true,
+        "luxury_E_canUse": true
+      },
+      "id": 5026
+    },
+    {
+      "date": "2023-09-23",
+      "availableCount": {
+        "classic": 5,
+        "delicate": 5,
+        "luxury": 5
+      },
+      "status": {
+        "classic_A_canUse": true,
+        "classic_B_canUse": true,
+        "classic_C_canUse": true,
+        "classic_D_canUse": true,
+        "classic_E_canUse": true,
+        "delicate_A_canUse": true,
+        "delicate_B_canUse": true,
+        "delicate_C_canUse": true,
+        "delicate_D_canUse": true,
+        "delicate_E_canUse": true,
+        "luxury_A_canUse": true,
+        "luxury_B_canUse": true,
+        "luxury_C_canUse": true,
+        "luxury_D_canUse": true,
+        "luxury_E_canUse": true
+      },
+      "id": 5027
+    },
+    {
+      "date": "2023-09-24",
+      "availableCount": {
+        "classic": 5,
+        "delicate": 5,
+        "luxury": 5
+      },
+      "status": {
+        "classic_A_canUse": true,
+        "classic_B_canUse": true,
+        "classic_C_canUse": true,
+        "classic_D_canUse": true,
+        "classic_E_canUse": true,
+        "delicate_A_canUse": true,
+        "delicate_B_canUse": true,
+        "delicate_C_canUse": true,
+        "delicate_D_canUse": true,
+        "delicate_E_canUse": true,
+        "luxury_A_canUse": true,
+        "luxury_B_canUse": true,
+        "luxury_C_canUse": true,
+        "luxury_D_canUse": true,
+        "luxury_E_canUse": true
+      },
+      "id": 5028
+    },
+    {
+      "date": "2023-09-25",
+      "availableCount": {
+        "classic": 5,
+        "delicate": 5,
+        "luxury": 5
+      },
+      "status": {
+        "classic_A_canUse": true,
+        "classic_B_canUse": true,
+        "classic_C_canUse": true,
+        "classic_D_canUse": true,
+        "classic_E_canUse": true,
+        "delicate_A_canUse": true,
+        "delicate_B_canUse": true,
+        "delicate_C_canUse": true,
+        "delicate_D_canUse": true,
+        "delicate_E_canUse": true,
+        "luxury_A_canUse": true,
+        "luxury_B_canUse": true,
+        "luxury_C_canUse": true,
+        "luxury_D_canUse": true,
+        "luxury_E_canUse": true
+      },
+      "id": 5029
+    },
+    {
+      "date": "2023-09-26",
+      "availableCount": {
+        "classic": 5,
+        "delicate": 5,
+        "luxury": 5
+      },
+      "status": {
+        "classic_A_canUse": true,
+        "classic_B_canUse": true,
+        "classic_C_canUse": true,
+        "classic_D_canUse": true,
+        "classic_E_canUse": true,
+        "delicate_A_canUse": true,
+        "delicate_B_canUse": true,
+        "delicate_C_canUse": true,
+        "delicate_D_canUse": true,
+        "delicate_E_canUse": true,
+        "luxury_A_canUse": true,
+        "luxury_B_canUse": true,
+        "luxury_C_canUse": true,
+        "luxury_D_canUse": true,
+        "luxury_E_canUse": true
+      },
+      "id": 5030
+    },
+    {
+      "date": "2023-09-27",
+      "availableCount": {
+        "classic": 5,
+        "delicate": 5,
+        "luxury": 5
+      },
+      "status": {
+        "classic_A_canUse": true,
+        "classic_B_canUse": true,
+        "classic_C_canUse": true,
+        "classic_D_canUse": true,
+        "classic_E_canUse": true,
+        "delicate_A_canUse": true,
+        "delicate_B_canUse": true,
+        "delicate_C_canUse": true,
+        "delicate_D_canUse": true,
+        "delicate_E_canUse": true,
+        "luxury_A_canUse": true,
+        "luxury_B_canUse": true,
+        "luxury_C_canUse": true,
+        "luxury_D_canUse": true,
+        "luxury_E_canUse": true
+      },
+      "id": 5031
+    },
+    {
+      "date": "2023-09-28",
+      "availableCount": {
+        "classic": 5,
+        "delicate": 5,
+        "luxury": 5
+      },
+      "status": {
+        "classic_A_canUse": true,
+        "classic_B_canUse": true,
+        "classic_C_canUse": true,
+        "classic_D_canUse": true,
+        "classic_E_canUse": true,
+        "delicate_A_canUse": true,
+        "delicate_B_canUse": true,
+        "delicate_C_canUse": true,
+        "delicate_D_canUse": true,
+        "delicate_E_canUse": true,
+        "luxury_A_canUse": true,
+        "luxury_B_canUse": true,
+        "luxury_C_canUse": true,
+        "luxury_D_canUse": true,
+        "luxury_E_canUse": true
+      },
+      "id": 5032
+    },
+    {
+      "date": "2023-09-29",
+      "availableCount": {
+        "classic": 5,
+        "delicate": 5,
+        "luxury": 5
+      },
+      "status": {
+        "classic_A_canUse": true,
+        "classic_B_canUse": true,
+        "classic_C_canUse": true,
+        "classic_D_canUse": true,
+        "classic_E_canUse": true,
+        "delicate_A_canUse": true,
+        "delicate_B_canUse": true,
+        "delicate_C_canUse": true,
+        "delicate_D_canUse": true,
+        "delicate_E_canUse": true,
+        "luxury_A_canUse": true,
+        "luxury_B_canUse": true,
+        "luxury_C_canUse": true,
+        "luxury_D_canUse": true,
+        "luxury_E_canUse": true
+      },
+      "id": 5033
+    },
+    {
+      "date": "2023-09-30",
+      "availableCount": {
+        "classic": 5,
+        "delicate": 5,
+        "luxury": 5
+      },
+      "status": {
+        "classic_A_canUse": true,
+        "classic_B_canUse": true,
+        "classic_C_canUse": true,
+        "classic_D_canUse": true,
+        "classic_E_canUse": true,
+        "delicate_A_canUse": true,
+        "delicate_B_canUse": true,
+        "delicate_C_canUse": true,
+        "delicate_D_canUse": true,
+        "delicate_E_canUse": true,
+        "luxury_A_canUse": true,
+        "luxury_B_canUse": true,
+        "luxury_C_canUse": true,
+        "luxury_D_canUse": true,
+        "luxury_E_canUse": true
+      },
+      "id": 5034
+    },
+    {
+      "date": "2023-10-01",
+      "availableCount": {
+        "classic": 5,
+        "delicate": 5,
+        "luxury": 5
+      },
+      "status": {
+        "classic_A_canUse": true,
+        "classic_B_canUse": true,
+        "classic_C_canUse": true,
+        "classic_D_canUse": true,
+        "classic_E_canUse": true,
+        "delicate_A_canUse": true,
+        "delicate_B_canUse": true,
+        "delicate_C_canUse": true,
+        "delicate_D_canUse": true,
+        "delicate_E_canUse": true,
+        "luxury_A_canUse": true,
+        "luxury_B_canUse": true,
+        "luxury_C_canUse": true,
+        "luxury_D_canUse": true,
+        "luxury_E_canUse": true
+      },
+      "id": 5035
+    },
+    {
+      "date": "2023-10-02",
+      "availableCount": {
+        "classic": 5,
+        "delicate": 5,
+        "luxury": 5
+      },
+      "status": {
+        "classic_A_canUse": true,
+        "classic_B_canUse": true,
+        "classic_C_canUse": true,
+        "classic_D_canUse": true,
+        "classic_E_canUse": true,
+        "delicate_A_canUse": true,
+        "delicate_B_canUse": true,
+        "delicate_C_canUse": true,
+        "delicate_D_canUse": true,
+        "delicate_E_canUse": true,
+        "luxury_A_canUse": true,
+        "luxury_B_canUse": true,
+        "luxury_C_canUse": true,
+        "luxury_D_canUse": true,
+        "luxury_E_canUse": true
+      },
+      "id": 5036
+    },
+    {
+      "date": "2023-10-03",
+      "availableCount": {
+        "classic": 5,
+        "delicate": 5,
+        "luxury": 5
+      },
+      "status": {
+        "classic_A_canUse": true,
+        "classic_B_canUse": true,
+        "classic_C_canUse": true,
+        "classic_D_canUse": true,
+        "classic_E_canUse": true,
+        "delicate_A_canUse": true,
+        "delicate_B_canUse": true,
+        "delicate_C_canUse": true,
+        "delicate_D_canUse": true,
+        "delicate_E_canUse": true,
+        "luxury_A_canUse": true,
+        "luxury_B_canUse": true,
+        "luxury_C_canUse": true,
+        "luxury_D_canUse": true,
+        "luxury_E_canUse": true
+      },
+      "id": 5037
+    },
+    {
+      "date": "2023-10-04",
+      "availableCount": {
+        "classic": 5,
+        "delicate": 5,
+        "luxury": 5
+      },
+      "status": {
+        "classic_A_canUse": true,
+        "classic_B_canUse": true,
+        "classic_C_canUse": true,
+        "classic_D_canUse": true,
+        "classic_E_canUse": true,
+        "delicate_A_canUse": true,
+        "delicate_B_canUse": true,
+        "delicate_C_canUse": true,
+        "delicate_D_canUse": true,
+        "delicate_E_canUse": true,
+        "luxury_A_canUse": true,
+        "luxury_B_canUse": true,
+        "luxury_C_canUse": true,
+        "luxury_D_canUse": true,
+        "luxury_E_canUse": true
+      },
+      "id": 5038
+    },
+    {
+      "date": "2023-10-05",
+      "availableCount": {
+        "classic": 5,
+        "delicate": 5,
+        "luxury": 5
+      },
+      "status": {
+        "classic_A_canUse": true,
+        "classic_B_canUse": true,
+        "classic_C_canUse": true,
+        "classic_D_canUse": true,
+        "classic_E_canUse": true,
+        "delicate_A_canUse": true,
+        "delicate_B_canUse": true,
+        "delicate_C_canUse": true,
+        "delicate_D_canUse": true,
+        "delicate_E_canUse": true,
+        "luxury_A_canUse": true,
+        "luxury_B_canUse": true,
+        "luxury_C_canUse": true,
+        "luxury_D_canUse": true,
+        "luxury_E_canUse": true
+      },
+      "id": 5039
+    },
+    {
+      "date": "2023-10-06",
+      "availableCount": {
+        "classic": 5,
+        "delicate": 5,
+        "luxury": 5
+      },
+      "status": {
+        "classic_A_canUse": true,
+        "classic_B_canUse": true,
+        "classic_C_canUse": true,
+        "classic_D_canUse": true,
+        "classic_E_canUse": true,
+        "delicate_A_canUse": true,
+        "delicate_B_canUse": true,
+        "delicate_C_canUse": true,
+        "delicate_D_canUse": true,
+        "delicate_E_canUse": true,
+        "luxury_A_canUse": true,
+        "luxury_B_canUse": true,
+        "luxury_C_canUse": true,
+        "luxury_D_canUse": true,
+        "luxury_E_canUse": true
+      },
+      "id": 5040
+    },
+    {
+      "date": "2023-10-07",
+      "availableCount": {
+        "classic": 5,
+        "delicate": 5,
+        "luxury": 5
+      },
+      "status": {
+        "classic_A_canUse": true,
+        "classic_B_canUse": true,
+        "classic_C_canUse": true,
+        "classic_D_canUse": true,
+        "classic_E_canUse": true,
+        "delicate_A_canUse": true,
+        "delicate_B_canUse": true,
+        "delicate_C_canUse": true,
+        "delicate_D_canUse": true,
+        "delicate_E_canUse": true,
+        "luxury_A_canUse": true,
+        "luxury_B_canUse": true,
+        "luxury_C_canUse": true,
+        "luxury_D_canUse": true,
+        "luxury_E_canUse": true
+      },
+      "id": 5041
+    },
+    {
+      "date": "2023-10-08",
+      "availableCount": {
+        "classic": 5,
+        "delicate": 5,
+        "luxury": 5
+      },
+      "status": {
+        "classic_A_canUse": true,
+        "classic_B_canUse": true,
+        "classic_C_canUse": true,
+        "classic_D_canUse": true,
+        "classic_E_canUse": true,
+        "delicate_A_canUse": true,
+        "delicate_B_canUse": true,
+        "delicate_C_canUse": true,
+        "delicate_D_canUse": true,
+        "delicate_E_canUse": true,
+        "luxury_A_canUse": true,
+        "luxury_B_canUse": true,
+        "luxury_C_canUse": true,
+        "luxury_D_canUse": true,
+        "luxury_E_canUse": true
+      },
+      "id": 5042
+    },
+    {
+      "date": "2023-10-09",
+      "availableCount": {
+        "classic": 5,
+        "delicate": 5,
+        "luxury": 5
+      },
+      "status": {
+        "classic_A_canUse": true,
+        "classic_B_canUse": true,
+        "classic_C_canUse": true,
+        "classic_D_canUse": true,
+        "classic_E_canUse": true,
+        "delicate_A_canUse": true,
+        "delicate_B_canUse": true,
+        "delicate_C_canUse": true,
+        "delicate_D_canUse": true,
+        "delicate_E_canUse": true,
+        "luxury_A_canUse": true,
+        "luxury_B_canUse": true,
+        "luxury_C_canUse": true,
+        "luxury_D_canUse": true,
+        "luxury_E_canUse": true
+      },
+      "id": 5043
+    },
+    {
+      "date": "2023-10-10",
+      "availableCount": {
+        "classic": 5,
+        "delicate": 5,
+        "luxury": 5
+      },
+      "status": {
+        "classic_A_canUse": true,
+        "classic_B_canUse": true,
+        "classic_C_canUse": true,
+        "classic_D_canUse": true,
+        "classic_E_canUse": true,
+        "delicate_A_canUse": true,
+        "delicate_B_canUse": true,
+        "delicate_C_canUse": true,
+        "delicate_D_canUse": true,
+        "delicate_E_canUse": true,
+        "luxury_A_canUse": true,
+        "luxury_B_canUse": true,
+        "luxury_C_canUse": true,
+        "luxury_D_canUse": true,
+        "luxury_E_canUse": true
+      },
+      "id": 5044
+    },
+    {
+      "date": "2023-10-11",
+      "availableCount": {
+        "classic": 5,
+        "delicate": 5,
+        "luxury": 5
+      },
+      "status": {
+        "classic_A_canUse": true,
+        "classic_B_canUse": true,
+        "classic_C_canUse": true,
+        "classic_D_canUse": true,
+        "classic_E_canUse": true,
+        "delicate_A_canUse": true,
+        "delicate_B_canUse": true,
+        "delicate_C_canUse": true,
+        "delicate_D_canUse": true,
+        "delicate_E_canUse": true,
+        "luxury_A_canUse": true,
+        "luxury_B_canUse": true,
+        "luxury_C_canUse": true,
+        "luxury_D_canUse": true,
+        "luxury_E_canUse": true
+      },
+      "id": 5045
+    },
+    {
+      "date": "2023-10-12",
+      "availableCount": {
+        "classic": 5,
+        "delicate": 5,
+        "luxury": 5
+      },
+      "status": {
+        "classic_A_canUse": true,
+        "classic_B_canUse": true,
+        "classic_C_canUse": true,
+        "classic_D_canUse": true,
+        "classic_E_canUse": true,
+        "delicate_A_canUse": true,
+        "delicate_B_canUse": true,
+        "delicate_C_canUse": true,
+        "delicate_D_canUse": true,
+        "delicate_E_canUse": true,
+        "luxury_A_canUse": true,
+        "luxury_B_canUse": true,
+        "luxury_C_canUse": true,
+        "luxury_D_canUse": true,
+        "luxury_E_canUse": true
+      },
+      "id": 5046
+    },
+    {
+      "date": "2023-10-13",
+      "availableCount": {
+        "classic": 5,
+        "delicate": 5,
+        "luxury": 5
+      },
+      "status": {
+        "classic_A_canUse": true,
+        "classic_B_canUse": true,
+        "classic_C_canUse": true,
+        "classic_D_canUse": true,
+        "classic_E_canUse": true,
+        "delicate_A_canUse": true,
+        "delicate_B_canUse": true,
+        "delicate_C_canUse": true,
+        "delicate_D_canUse": true,
+        "delicate_E_canUse": true,
+        "luxury_A_canUse": true,
+        "luxury_B_canUse": true,
+        "luxury_C_canUse": true,
+        "luxury_D_canUse": true,
+        "luxury_E_canUse": true
+      },
+      "id": 5047
+    },
+    {
+      "date": "2023-10-14",
+      "availableCount": {
+        "classic": 5,
+        "delicate": 5,
+        "luxury": 5
+      },
+      "status": {
+        "classic_A_canUse": true,
+        "classic_B_canUse": true,
+        "classic_C_canUse": true,
+        "classic_D_canUse": true,
+        "classic_E_canUse": true,
+        "delicate_A_canUse": true,
+        "delicate_B_canUse": true,
+        "delicate_C_canUse": true,
+        "delicate_D_canUse": true,
+        "delicate_E_canUse": true,
+        "luxury_A_canUse": true,
+        "luxury_B_canUse": true,
+        "luxury_C_canUse": true,
+        "luxury_D_canUse": true,
+        "luxury_E_canUse": true
+      },
+      "id": 5048
+    },
+    {
+      "date": "2023-10-15",
+      "availableCount": {
+        "classic": 5,
+        "delicate": 5,
+        "luxury": 5
+      },
+      "status": {
+        "classic_A_canUse": true,
+        "classic_B_canUse": true,
+        "classic_C_canUse": true,
+        "classic_D_canUse": true,
+        "classic_E_canUse": true,
+        "delicate_A_canUse": true,
+        "delicate_B_canUse": true,
+        "delicate_C_canUse": true,
+        "delicate_D_canUse": true,
+        "delicate_E_canUse": true,
+        "luxury_A_canUse": true,
+        "luxury_B_canUse": true,
+        "luxury_C_canUse": true,
+        "luxury_D_canUse": true,
+        "luxury_E_canUse": true
+      },
+      "id": 5049
+    },
+    {
+      "date": "2023-10-16",
+      "availableCount": {
+        "classic": 5,
+        "delicate": 5,
+        "luxury": 5
+      },
+      "status": {
+        "classic_A_canUse": true,
+        "classic_B_canUse": true,
+        "classic_C_canUse": true,
+        "classic_D_canUse": true,
+        "classic_E_canUse": true,
+        "delicate_A_canUse": true,
+        "delicate_B_canUse": true,
+        "delicate_C_canUse": true,
+        "delicate_D_canUse": true,
+        "delicate_E_canUse": true,
+        "luxury_A_canUse": true,
+        "luxury_B_canUse": true,
+        "luxury_C_canUse": true,
+        "luxury_D_canUse": true,
+        "luxury_E_canUse": true
+      },
+      "id": 5050
+    },
+    {
+      "date": "2023-10-17",
+      "availableCount": {
+        "classic": 5,
+        "delicate": 5,
+        "luxury": 5
+      },
+      "status": {
+        "classic_A_canUse": true,
+        "classic_B_canUse": true,
+        "classic_C_canUse": true,
+        "classic_D_canUse": true,
+        "classic_E_canUse": true,
+        "delicate_A_canUse": true,
+        "delicate_B_canUse": true,
+        "delicate_C_canUse": true,
+        "delicate_D_canUse": true,
+        "delicate_E_canUse": true,
+        "luxury_A_canUse": true,
+        "luxury_B_canUse": true,
+        "luxury_C_canUse": true,
+        "luxury_D_canUse": true,
+        "luxury_E_canUse": true
+      },
+      "id": 5051
+    },
+    {
+      "date": "2023-10-18",
+      "availableCount": {
+        "classic": 5,
+        "delicate": 5,
+        "luxury": 5
+      },
+      "status": {
+        "classic_A_canUse": true,
+        "classic_B_canUse": true,
+        "classic_C_canUse": true,
+        "classic_D_canUse": true,
+        "classic_E_canUse": true,
+        "delicate_A_canUse": true,
+        "delicate_B_canUse": true,
+        "delicate_C_canUse": true,
+        "delicate_D_canUse": true,
+        "delicate_E_canUse": true,
+        "luxury_A_canUse": true,
+        "luxury_B_canUse": true,
+        "luxury_C_canUse": true,
+        "luxury_D_canUse": true,
+        "luxury_E_canUse": true
+      },
+      "id": 5052
+    },
+    {
+      "date": "2023-10-19",
+      "availableCount": {
+        "classic": 5,
+        "delicate": 5,
+        "luxury": 5
+      },
+      "status": {
+        "classic_A_canUse": true,
+        "classic_B_canUse": true,
+        "classic_C_canUse": true,
+        "classic_D_canUse": true,
+        "classic_E_canUse": true,
+        "delicate_A_canUse": true,
+        "delicate_B_canUse": true,
+        "delicate_C_canUse": true,
+        "delicate_D_canUse": true,
+        "delicate_E_canUse": true,
+        "luxury_A_canUse": true,
+        "luxury_B_canUse": true,
+        "luxury_C_canUse": true,
+        "luxury_D_canUse": true,
+        "luxury_E_canUse": true
+      },
+      "id": 5053
+    },
+    {
+      "date": "2023-10-20",
+      "availableCount": {
+        "classic": 5,
+        "delicate": 5,
+        "luxury": 5
+      },
+      "status": {
+        "classic_A_canUse": true,
+        "classic_B_canUse": true,
+        "classic_C_canUse": true,
+        "classic_D_canUse": true,
+        "classic_E_canUse": true,
+        "delicate_A_canUse": true,
+        "delicate_B_canUse": true,
+        "delicate_C_canUse": true,
+        "delicate_D_canUse": true,
+        "delicate_E_canUse": true,
+        "luxury_A_canUse": true,
+        "luxury_B_canUse": true,
+        "luxury_C_canUse": true,
+        "luxury_D_canUse": true,
+        "luxury_E_canUse": true
+      },
+      "id": 5054
+    },
+    {
+      "date": "2023-10-21",
+      "availableCount": {
+        "classic": 5,
+        "delicate": 5,
+        "luxury": 5
+      },
+      "status": {
+        "classic_A_canUse": true,
+        "classic_B_canUse": true,
+        "classic_C_canUse": true,
+        "classic_D_canUse": true,
+        "classic_E_canUse": true,
+        "delicate_A_canUse": true,
+        "delicate_B_canUse": true,
+        "delicate_C_canUse": true,
+        "delicate_D_canUse": true,
+        "delicate_E_canUse": true,
+        "luxury_A_canUse": true,
+        "luxury_B_canUse": true,
+        "luxury_C_canUse": true,
+        "luxury_D_canUse": true,
+        "luxury_E_canUse": true
+      },
+      "id": 5055
+    },
+    {
+      "date": "2023-10-22",
+      "availableCount": {
+        "classic": 5,
+        "delicate": 5,
+        "luxury": 5
+      },
+      "status": {
+        "classic_A_canUse": true,
+        "classic_B_canUse": true,
+        "classic_C_canUse": true,
+        "classic_D_canUse": true,
+        "classic_E_canUse": true,
+        "delicate_A_canUse": true,
+        "delicate_B_canUse": true,
+        "delicate_C_canUse": true,
+        "delicate_D_canUse": true,
+        "delicate_E_canUse": true,
+        "luxury_A_canUse": true,
+        "luxury_B_canUse": true,
+        "luxury_C_canUse": true,
+        "luxury_D_canUse": true,
+        "luxury_E_canUse": true
+      },
+      "id": 5056
+    },
+    {
+      "date": "2023-10-23",
+      "availableCount": {
+        "classic": 5,
+        "delicate": 5,
+        "luxury": 5
+      },
+      "status": {
+        "classic_A_canUse": true,
+        "classic_B_canUse": true,
+        "classic_C_canUse": true,
+        "classic_D_canUse": true,
+        "classic_E_canUse": true,
+        "delicate_A_canUse": true,
+        "delicate_B_canUse": true,
+        "delicate_C_canUse": true,
+        "delicate_D_canUse": true,
+        "delicate_E_canUse": true,
+        "luxury_A_canUse": true,
+        "luxury_B_canUse": true,
+        "luxury_C_canUse": true,
+        "luxury_D_canUse": true,
+        "luxury_E_canUse": true
+      },
+      "id": 5057
+    },
+    {
+      "date": "2023-10-24",
+      "availableCount": {
+        "classic": 5,
+        "delicate": 5,
+        "luxury": 5
+      },
+      "status": {
+        "classic_A_canUse": true,
+        "classic_B_canUse": true,
+        "classic_C_canUse": true,
+        "classic_D_canUse": true,
+        "classic_E_canUse": true,
+        "delicate_A_canUse": true,
+        "delicate_B_canUse": true,
+        "delicate_C_canUse": true,
+        "delicate_D_canUse": true,
+        "delicate_E_canUse": true,
+        "luxury_A_canUse": true,
+        "luxury_B_canUse": true,
+        "luxury_C_canUse": true,
+        "luxury_D_canUse": true,
+        "luxury_E_canUse": true
+      },
+      "id": 5058
+    },
+    {
+      "date": "2023-10-25",
+      "availableCount": {
+        "classic": 5,
+        "delicate": 5,
+        "luxury": 5
+      },
+      "status": {
+        "classic_A_canUse": true,
+        "classic_B_canUse": true,
+        "classic_C_canUse": true,
+        "classic_D_canUse": true,
+        "classic_E_canUse": true,
+        "delicate_A_canUse": true,
+        "delicate_B_canUse": true,
+        "delicate_C_canUse": true,
+        "delicate_D_canUse": true,
+        "delicate_E_canUse": true,
+        "luxury_A_canUse": true,
+        "luxury_B_canUse": true,
+        "luxury_C_canUse": true,
+        "luxury_D_canUse": true,
+        "luxury_E_canUse": true
+      },
+      "id": 5059
+    },
+    {
+      "date": "2023-10-26",
+      "availableCount": {
+        "classic": 5,
+        "delicate": 5,
+        "luxury": 5
+      },
+      "status": {
+        "classic_A_canUse": true,
+        "classic_B_canUse": true,
+        "classic_C_canUse": true,
+        "classic_D_canUse": true,
+        "classic_E_canUse": true,
+        "delicate_A_canUse": true,
+        "delicate_B_canUse": true,
+        "delicate_C_canUse": true,
+        "delicate_D_canUse": true,
+        "delicate_E_canUse": true,
+        "luxury_A_canUse": true,
+        "luxury_B_canUse": true,
+        "luxury_C_canUse": true,
+        "luxury_D_canUse": true,
+        "luxury_E_canUse": true
+      },
+      "id": 5060
+    },
+    {
+      "date": "2023-10-27",
+      "availableCount": {
+        "classic": 5,
+        "delicate": 5,
+        "luxury": 5
+      },
+      "status": {
+        "classic_A_canUse": true,
+        "classic_B_canUse": true,
+        "classic_C_canUse": true,
+        "classic_D_canUse": true,
+        "classic_E_canUse": true,
+        "delicate_A_canUse": true,
+        "delicate_B_canUse": true,
+        "delicate_C_canUse": true,
+        "delicate_D_canUse": true,
+        "delicate_E_canUse": true,
+        "luxury_A_canUse": true,
+        "luxury_B_canUse": true,
+        "luxury_C_canUse": true,
+        "luxury_D_canUse": true,
+        "luxury_E_canUse": true
+      },
+      "id": 5061
+    },
+    {
+      "date": "2023-10-28",
+      "availableCount": {
+        "classic": 5,
+        "delicate": 5,
+        "luxury": 5
+      },
+      "status": {
+        "classic_A_canUse": true,
+        "classic_B_canUse": true,
+        "classic_C_canUse": true,
+        "classic_D_canUse": true,
+        "classic_E_canUse": true,
+        "delicate_A_canUse": true,
+        "delicate_B_canUse": true,
+        "delicate_C_canUse": true,
+        "delicate_D_canUse": true,
+        "delicate_E_canUse": true,
+        "luxury_A_canUse": true,
+        "luxury_B_canUse": true,
+        "luxury_C_canUse": true,
+        "luxury_D_canUse": true,
+        "luxury_E_canUse": true
+      },
+      "id": 5062
+    },
+    {
+      "date": "2023-10-29",
+      "availableCount": {
+        "classic": 5,
+        "delicate": 5,
+        "luxury": 5
+      },
+      "status": {
+        "classic_A_canUse": true,
+        "classic_B_canUse": true,
+        "classic_C_canUse": true,
+        "classic_D_canUse": true,
+        "classic_E_canUse": true,
+        "delicate_A_canUse": true,
+        "delicate_B_canUse": true,
+        "delicate_C_canUse": true,
+        "delicate_D_canUse": true,
+        "delicate_E_canUse": true,
+        "luxury_A_canUse": true,
+        "luxury_B_canUse": true,
+        "luxury_C_canUse": true,
+        "luxury_D_canUse": true,
+        "luxury_E_canUse": true
+      },
+      "id": 5063
+    },
+    {
+      "date": "2023-10-30",
+      "availableCount": {
+        "classic": 5,
+        "delicate": 5,
+        "luxury": 5
+      },
+      "status": {
+        "classic_A_canUse": true,
+        "classic_B_canUse": true,
+        "classic_C_canUse": true,
+        "classic_D_canUse": true,
+        "classic_E_canUse": true,
+        "delicate_A_canUse": true,
+        "delicate_B_canUse": true,
+        "delicate_C_canUse": true,
+        "delicate_D_canUse": true,
+        "delicate_E_canUse": true,
+        "luxury_A_canUse": true,
+        "luxury_B_canUse": true,
+        "luxury_C_canUse": true,
+        "luxury_D_canUse": true,
+        "luxury_E_canUse": true
+      },
+      "id": 5064
+    },
+    {
+      "date": "2023-10-31",
+      "availableCount": {
+        "classic": 5,
+        "delicate": 5,
+        "luxury": 5
+      },
+      "status": {
+        "classic_A_canUse": true,
+        "classic_B_canUse": true,
+        "classic_C_canUse": true,
+        "classic_D_canUse": true,
+        "classic_E_canUse": true,
+        "delicate_A_canUse": true,
+        "delicate_B_canUse": true,
+        "delicate_C_canUse": true,
+        "delicate_D_canUse": true,
+        "delicate_E_canUse": true,
+        "luxury_A_canUse": true,
+        "luxury_B_canUse": true,
+        "luxury_C_canUse": true,
+        "luxury_D_canUse": true,
+        "luxury_E_canUse": true
+      },
+      "id": 5065
+    },
+    {
+      "date": "2023-11-01",
+      "availableCount": {
+        "classic": 5,
+        "delicate": 5,
+        "luxury": 5
+      },
+      "status": {
+        "classic_A_canUse": true,
+        "classic_B_canUse": true,
+        "classic_C_canUse": true,
+        "classic_D_canUse": true,
+        "classic_E_canUse": true,
+        "delicate_A_canUse": true,
+        "delicate_B_canUse": true,
+        "delicate_C_canUse": true,
+        "delicate_D_canUse": true,
+        "delicate_E_canUse": true,
+        "luxury_A_canUse": true,
+        "luxury_B_canUse": true,
+        "luxury_C_canUse": true,
+        "luxury_D_canUse": true,
+        "luxury_E_canUse": true
+      },
+      "id": 5066
+    },
+    {
+      "date": "2023-11-02",
+      "availableCount": {
+        "classic": 5,
+        "delicate": 5,
+        "luxury": 5
+      },
+      "status": {
+        "classic_A_canUse": true,
+        "classic_B_canUse": true,
+        "classic_C_canUse": true,
+        "classic_D_canUse": true,
+        "classic_E_canUse": true,
+        "delicate_A_canUse": true,
+        "delicate_B_canUse": true,
+        "delicate_C_canUse": true,
+        "delicate_D_canUse": true,
+        "delicate_E_canUse": true,
+        "luxury_A_canUse": true,
+        "luxury_B_canUse": true,
+        "luxury_C_canUse": true,
+        "luxury_D_canUse": true,
+        "luxury_E_canUse": true
+      },
+      "id": 5067
+    },
+    {
+      "date": "2023-11-03",
+      "availableCount": {
+        "classic": 5,
+        "delicate": 5,
+        "luxury": 5
+      },
+      "status": {
+        "classic_A_canUse": true,
+        "classic_B_canUse": true,
+        "classic_C_canUse": true,
+        "classic_D_canUse": true,
+        "classic_E_canUse": true,
+        "delicate_A_canUse": true,
+        "delicate_B_canUse": true,
+        "delicate_C_canUse": true,
+        "delicate_D_canUse": true,
+        "delicate_E_canUse": true,
+        "luxury_A_canUse": true,
+        "luxury_B_canUse": true,
+        "luxury_C_canUse": true,
+        "luxury_D_canUse": true,
+        "luxury_E_canUse": true
+      },
+      "id": 5068
+    },
+    {
+      "date": "2023-11-04",
+      "availableCount": {
+        "classic": 5,
+        "delicate": 5,
+        "luxury": 5
+      },
+      "status": {
+        "classic_A_canUse": true,
+        "classic_B_canUse": true,
+        "classic_C_canUse": true,
+        "classic_D_canUse": true,
+        "classic_E_canUse": true,
+        "delicate_A_canUse": true,
+        "delicate_B_canUse": true,
+        "delicate_C_canUse": true,
+        "delicate_D_canUse": true,
+        "delicate_E_canUse": true,
+        "luxury_A_canUse": true,
+        "luxury_B_canUse": true,
+        "luxury_C_canUse": true,
+        "luxury_D_canUse": true,
+        "luxury_E_canUse": true
+      },
+      "id": 5069
+    },
+    {
+      "date": "2023-11-05",
+      "availableCount": {
+        "classic": 5,
+        "delicate": 5,
+        "luxury": 5
+      },
+      "status": {
+        "classic_A_canUse": true,
+        "classic_B_canUse": true,
+        "classic_C_canUse": true,
+        "classic_D_canUse": true,
+        "classic_E_canUse": true,
+        "delicate_A_canUse": true,
+        "delicate_B_canUse": true,
+        "delicate_C_canUse": true,
+        "delicate_D_canUse": true,
+        "delicate_E_canUse": true,
+        "luxury_A_canUse": true,
+        "luxury_B_canUse": true,
+        "luxury_C_canUse": true,
+        "luxury_D_canUse": true,
+        "luxury_E_canUse": true
+      },
+      "id": 5070
+    },
+    {
+      "date": "2023-11-06",
+      "availableCount": {
+        "classic": 5,
+        "delicate": 5,
+        "luxury": 5
+      },
+      "status": {
+        "classic_A_canUse": true,
+        "classic_B_canUse": true,
+        "classic_C_canUse": true,
+        "classic_D_canUse": true,
+        "classic_E_canUse": true,
+        "delicate_A_canUse": true,
+        "delicate_B_canUse": true,
+        "delicate_C_canUse": true,
+        "delicate_D_canUse": true,
+        "delicate_E_canUse": true,
+        "luxury_A_canUse": true,
+        "luxury_B_canUse": true,
+        "luxury_C_canUse": true,
+        "luxury_D_canUse": true,
+        "luxury_E_canUse": true
+      },
+      "id": 5071
+    },
+    {
+      "date": "2023-11-07",
+      "availableCount": {
+        "classic": 5,
+        "delicate": 5,
+        "luxury": 5
+      },
+      "status": {
+        "classic_A_canUse": true,
+        "classic_B_canUse": true,
+        "classic_C_canUse": true,
+        "classic_D_canUse": true,
+        "classic_E_canUse": true,
+        "delicate_A_canUse": true,
+        "delicate_B_canUse": true,
+        "delicate_C_canUse": true,
+        "delicate_D_canUse": true,
+        "delicate_E_canUse": true,
+        "luxury_A_canUse": true,
+        "luxury_B_canUse": true,
+        "luxury_C_canUse": true,
+        "luxury_D_canUse": true,
+        "luxury_E_canUse": true
+      },
+      "id": 5072
+    },
+    {
+      "date": "2023-11-08",
+      "availableCount": {
+        "classic": 5,
+        "delicate": 5,
+        "luxury": 5
+      },
+      "status": {
+        "classic_A_canUse": true,
+        "classic_B_canUse": true,
+        "classic_C_canUse": true,
+        "classic_D_canUse": true,
+        "classic_E_canUse": true,
+        "delicate_A_canUse": true,
+        "delicate_B_canUse": true,
+        "delicate_C_canUse": true,
+        "delicate_D_canUse": true,
+        "delicate_E_canUse": true,
+        "luxury_A_canUse": true,
+        "luxury_B_canUse": true,
+        "luxury_C_canUse": true,
+        "luxury_D_canUse": true,
+        "luxury_E_canUse": true
+      },
+      "id": 5073
+    },
+    {
+      "date": "2023-11-09",
+      "availableCount": {
+        "classic": 5,
+        "delicate": 5,
+        "luxury": 5
+      },
+      "status": {
+        "classic_A_canUse": true,
+        "classic_B_canUse": true,
+        "classic_C_canUse": true,
+        "classic_D_canUse": true,
+        "classic_E_canUse": true,
+        "delicate_A_canUse": true,
+        "delicate_B_canUse": true,
+        "delicate_C_canUse": true,
+        "delicate_D_canUse": true,
+        "delicate_E_canUse": true,
+        "luxury_A_canUse": true,
+        "luxury_B_canUse": true,
+        "luxury_C_canUse": true,
+        "luxury_D_canUse": true,
+        "luxury_E_canUse": true
+      },
+      "id": 5074
+    },
+    {
+      "date": "2023-11-10",
+      "availableCount": {
+        "classic": 5,
+        "delicate": 5,
+        "luxury": 5
+      },
+      "status": {
+        "classic_A_canUse": true,
+        "classic_B_canUse": true,
+        "classic_C_canUse": true,
+        "classic_D_canUse": true,
+        "classic_E_canUse": true,
+        "delicate_A_canUse": true,
+        "delicate_B_canUse": true,
+        "delicate_C_canUse": true,
+        "delicate_D_canUse": true,
+        "delicate_E_canUse": true,
+        "luxury_A_canUse": true,
+        "luxury_B_canUse": true,
+        "luxury_C_canUse": true,
+        "luxury_D_canUse": true,
+        "luxury_E_canUse": true
+      },
+      "id": 5075
+    },
+    {
+      "date": "2023-11-11",
+      "availableCount": {
+        "classic": 5,
+        "delicate": 5,
+        "luxury": 5
+      },
+      "status": {
+        "classic_A_canUse": true,
+        "classic_B_canUse": true,
+        "classic_C_canUse": true,
+        "classic_D_canUse": true,
+        "classic_E_canUse": true,
+        "delicate_A_canUse": true,
+        "delicate_B_canUse": true,
+        "delicate_C_canUse": true,
+        "delicate_D_canUse": true,
+        "delicate_E_canUse": true,
+        "luxury_A_canUse": true,
+        "luxury_B_canUse": true,
+        "luxury_C_canUse": true,
+        "luxury_D_canUse": true,
+        "luxury_E_canUse": true
+      },
+      "id": 5076
+    },
+    {
+      "date": "2023-11-12",
+      "availableCount": {
+        "classic": 5,
+        "delicate": 5,
+        "luxury": 5
+      },
+      "status": {
+        "classic_A_canUse": true,
+        "classic_B_canUse": true,
+        "classic_C_canUse": true,
+        "classic_D_canUse": true,
+        "classic_E_canUse": true,
+        "delicate_A_canUse": true,
+        "delicate_B_canUse": true,
+        "delicate_C_canUse": true,
+        "delicate_D_canUse": true,
+        "delicate_E_canUse": true,
+        "luxury_A_canUse": true,
+        "luxury_B_canUse": true,
+        "luxury_C_canUse": true,
+        "luxury_D_canUse": true,
+        "luxury_E_canUse": true
+      },
+      "id": 5077
+    },
+    {
+      "date": "2023-11-13",
+      "availableCount": {
+        "classic": 5,
+        "delicate": 5,
+        "luxury": 5
+      },
+      "status": {
+        "classic_A_canUse": true,
+        "classic_B_canUse": true,
+        "classic_C_canUse": true,
+        "classic_D_canUse": true,
+        "classic_E_canUse": true,
+        "delicate_A_canUse": true,
+        "delicate_B_canUse": true,
+        "delicate_C_canUse": true,
+        "delicate_D_canUse": true,
+        "delicate_E_canUse": true,
+        "luxury_A_canUse": true,
+        "luxury_B_canUse": true,
+        "luxury_C_canUse": true,
+        "luxury_D_canUse": true,
+        "luxury_E_canUse": true
+      },
+      "id": 5078
+    },
+    {
+      "date": "2023-11-14",
+      "availableCount": {
+        "classic": 5,
+        "delicate": 5,
+        "luxury": 5
+      },
+      "status": {
+        "classic_A_canUse": true,
+        "classic_B_canUse": true,
+        "classic_C_canUse": true,
+        "classic_D_canUse": true,
+        "classic_E_canUse": true,
+        "delicate_A_canUse": true,
+        "delicate_B_canUse": true,
+        "delicate_C_canUse": true,
+        "delicate_D_canUse": true,
+        "delicate_E_canUse": true,
+        "luxury_A_canUse": true,
+        "luxury_B_canUse": true,
+        "luxury_C_canUse": true,
+        "luxury_D_canUse": true,
+        "luxury_E_canUse": true
+      },
+      "id": 5079
+    },
+    {
+      "date": "2023-11-15",
+      "availableCount": {
+        "classic": 5,
+        "delicate": 5,
+        "luxury": 5
+      },
+      "status": {
+        "classic_A_canUse": true,
+        "classic_B_canUse": true,
+        "classic_C_canUse": true,
+        "classic_D_canUse": true,
+        "classic_E_canUse": true,
+        "delicate_A_canUse": true,
+        "delicate_B_canUse": true,
+        "delicate_C_canUse": true,
+        "delicate_D_canUse": true,
+        "delicate_E_canUse": true,
+        "luxury_A_canUse": true,
+        "luxury_B_canUse": true,
+        "luxury_C_canUse": true,
+        "luxury_D_canUse": true,
+        "luxury_E_canUse": true
+      },
+      "id": 5080
+    },
+    {
+      "date": "2023-11-16",
+      "availableCount": {
+        "classic": 5,
+        "delicate": 5,
+        "luxury": 5
+      },
+      "status": {
+        "classic_A_canUse": true,
+        "classic_B_canUse": true,
+        "classic_C_canUse": true,
+        "classic_D_canUse": true,
+        "classic_E_canUse": true,
+        "delicate_A_canUse": true,
+        "delicate_B_canUse": true,
+        "delicate_C_canUse": true,
+        "delicate_D_canUse": true,
+        "delicate_E_canUse": true,
+        "luxury_A_canUse": true,
+        "luxury_B_canUse": true,
+        "luxury_C_canUse": true,
+        "luxury_D_canUse": true,
+        "luxury_E_canUse": true
+      },
+      "id": 5081
+    },
+    {
+      "date": "2023-11-17",
+      "availableCount": {
+        "classic": 5,
+        "delicate": 5,
+        "luxury": 5
+      },
+      "status": {
+        "classic_A_canUse": true,
+        "classic_B_canUse": true,
+        "classic_C_canUse": true,
+        "classic_D_canUse": true,
+        "classic_E_canUse": true,
+        "delicate_A_canUse": true,
+        "delicate_B_canUse": true,
+        "delicate_C_canUse": true,
+        "delicate_D_canUse": true,
+        "delicate_E_canUse": true,
+        "luxury_A_canUse": true,
+        "luxury_B_canUse": true,
+        "luxury_C_canUse": true,
+        "luxury_D_canUse": true,
+        "luxury_E_canUse": true
+      },
+      "id": 5082
+    },
+    {
+      "date": "2023-11-18",
+      "availableCount": {
+        "classic": 5,
+        "delicate": 5,
+        "luxury": 5
+      },
+      "status": {
+        "classic_A_canUse": true,
+        "classic_B_canUse": true,
+        "classic_C_canUse": true,
+        "classic_D_canUse": true,
+        "classic_E_canUse": true,
+        "delicate_A_canUse": true,
+        "delicate_B_canUse": true,
+        "delicate_C_canUse": true,
+        "delicate_D_canUse": true,
+        "delicate_E_canUse": true,
+        "luxury_A_canUse": true,
+        "luxury_B_canUse": true,
+        "luxury_C_canUse": true,
+        "luxury_D_canUse": true,
+        "luxury_E_canUse": true
+      },
+      "id": 5083
+    },
+    {
+      "date": "2023-11-19",
+      "availableCount": {
+        "classic": 5,
+        "delicate": 5,
+        "luxury": 5
+      },
+      "status": {
+        "classic_A_canUse": true,
+        "classic_B_canUse": true,
+        "classic_C_canUse": true,
+        "classic_D_canUse": true,
+        "classic_E_canUse": true,
+        "delicate_A_canUse": true,
+        "delicate_B_canUse": true,
+        "delicate_C_canUse": true,
+        "delicate_D_canUse": true,
+        "delicate_E_canUse": true,
+        "luxury_A_canUse": true,
+        "luxury_B_canUse": true,
+        "luxury_C_canUse": true,
+        "luxury_D_canUse": true,
+        "luxury_E_canUse": true
+      },
+      "id": 5084
+    },
+    {
+      "date": "2023-11-20",
+      "availableCount": {
+        "classic": 5,
+        "delicate": 5,
+        "luxury": 5
+      },
+      "status": {
+        "classic_A_canUse": true,
+        "classic_B_canUse": true,
+        "classic_C_canUse": true,
+        "classic_D_canUse": true,
+        "classic_E_canUse": true,
+        "delicate_A_canUse": true,
+        "delicate_B_canUse": true,
+        "delicate_C_canUse": true,
+        "delicate_D_canUse": true,
+        "delicate_E_canUse": true,
+        "luxury_A_canUse": true,
+        "luxury_B_canUse": true,
+        "luxury_C_canUse": true,
+        "luxury_D_canUse": true,
+        "luxury_E_canUse": true
+      },
+      "id": 5085
+    },
+    {
+      "date": "2023-11-21",
+      "availableCount": {
+        "classic": 5,
+        "delicate": 5,
+        "luxury": 5
+      },
+      "status": {
+        "classic_A_canUse": true,
+        "classic_B_canUse": true,
+        "classic_C_canUse": true,
+        "classic_D_canUse": true,
+        "classic_E_canUse": true,
+        "delicate_A_canUse": true,
+        "delicate_B_canUse": true,
+        "delicate_C_canUse": true,
+        "delicate_D_canUse": true,
+        "delicate_E_canUse": true,
+        "luxury_A_canUse": true,
+        "luxury_B_canUse": true,
+        "luxury_C_canUse": true,
+        "luxury_D_canUse": true,
+        "luxury_E_canUse": true
+      },
+      "id": 5086
+    },
+    {
+      "date": "2023-11-22",
+      "availableCount": {
+        "classic": 5,
+        "delicate": 5,
+        "luxury": 5
+      },
+      "status": {
+        "classic_A_canUse": true,
+        "classic_B_canUse": true,
+        "classic_C_canUse": true,
+        "classic_D_canUse": true,
+        "classic_E_canUse": true,
+        "delicate_A_canUse": true,
+        "delicate_B_canUse": true,
+        "delicate_C_canUse": true,
+        "delicate_D_canUse": true,
+        "delicate_E_canUse": true,
+        "luxury_A_canUse": true,
+        "luxury_B_canUse": true,
+        "luxury_C_canUse": true,
+        "luxury_D_canUse": true,
+        "luxury_E_canUse": true
+      },
+      "id": 5087
+    },
+    {
+      "date": "2023-11-23",
+      "availableCount": {
+        "classic": 5,
+        "delicate": 5,
+        "luxury": 5
+      },
+      "status": {
+        "classic_A_canUse": true,
+        "classic_B_canUse": true,
+        "classic_C_canUse": true,
+        "classic_D_canUse": true,
+        "classic_E_canUse": true,
+        "delicate_A_canUse": true,
+        "delicate_B_canUse": true,
+        "delicate_C_canUse": true,
+        "delicate_D_canUse": true,
+        "delicate_E_canUse": true,
+        "luxury_A_canUse": true,
+        "luxury_B_canUse": true,
+        "luxury_C_canUse": true,
+        "luxury_D_canUse": true,
+        "luxury_E_canUse": true
+      },
+      "id": 5088
+    },
+    {
+      "date": "2023-11-24",
+      "availableCount": {
+        "classic": 5,
+        "delicate": 5,
+        "luxury": 5
+      },
+      "status": {
+        "classic_A_canUse": true,
+        "classic_B_canUse": true,
+        "classic_C_canUse": true,
+        "classic_D_canUse": true,
+        "classic_E_canUse": true,
+        "delicate_A_canUse": true,
+        "delicate_B_canUse": true,
+        "delicate_C_canUse": true,
+        "delicate_D_canUse": true,
+        "delicate_E_canUse": true,
+        "luxury_A_canUse": true,
+        "luxury_B_canUse": true,
+        "luxury_C_canUse": true,
+        "luxury_D_canUse": true,
+        "luxury_E_canUse": true
+      },
+      "id": 5089
+    },
+    {
+      "date": "2023-11-25",
+      "availableCount": {
+        "classic": 5,
+        "delicate": 5,
+        "luxury": 5
+      },
+      "status": {
+        "classic_A_canUse": true,
+        "classic_B_canUse": true,
+        "classic_C_canUse": true,
+        "classic_D_canUse": true,
+        "classic_E_canUse": true,
+        "delicate_A_canUse": true,
+        "delicate_B_canUse": true,
+        "delicate_C_canUse": true,
+        "delicate_D_canUse": true,
+        "delicate_E_canUse": true,
+        "luxury_A_canUse": true,
+        "luxury_B_canUse": true,
+        "luxury_C_canUse": true,
+        "luxury_D_canUse": true,
+        "luxury_E_canUse": true
+      },
+      "id": 5090
+    },
+    {
+      "date": "2023-11-26",
+      "availableCount": {
+        "classic": 5,
+        "delicate": 5,
+        "luxury": 5
+      },
+      "status": {
+        "classic_A_canUse": true,
+        "classic_B_canUse": true,
+        "classic_C_canUse": true,
+        "classic_D_canUse": true,
+        "classic_E_canUse": true,
+        "delicate_A_canUse": true,
+        "delicate_B_canUse": true,
+        "delicate_C_canUse": true,
+        "delicate_D_canUse": true,
+        "delicate_E_canUse": true,
+        "luxury_A_canUse": true,
+        "luxury_B_canUse": true,
+        "luxury_C_canUse": true,
+        "luxury_D_canUse": true,
+        "luxury_E_canUse": true
+      },
+      "id": 5091
+    },
+    {
+      "date": "2023-11-27",
+      "availableCount": {
+        "classic": 5,
+        "delicate": 5,
+        "luxury": 5
+      },
+      "status": {
+        "classic_A_canUse": true,
+        "classic_B_canUse": true,
+        "classic_C_canUse": true,
+        "classic_D_canUse": true,
+        "classic_E_canUse": true,
+        "delicate_A_canUse": true,
+        "delicate_B_canUse": true,
+        "delicate_C_canUse": true,
+        "delicate_D_canUse": true,
+        "delicate_E_canUse": true,
+        "luxury_A_canUse": true,
+        "luxury_B_canUse": true,
+        "luxury_C_canUse": true,
+        "luxury_D_canUse": true,
+        "luxury_E_canUse": true
+      },
+      "id": 5092
+    },
+    {
+      "date": "2023-11-28",
+      "availableCount": {
+        "classic": 5,
+        "delicate": 5,
+        "luxury": 5
+      },
+      "status": {
+        "classic_A_canUse": true,
+        "classic_B_canUse": true,
+        "classic_C_canUse": true,
+        "classic_D_canUse": true,
+        "classic_E_canUse": true,
+        "delicate_A_canUse": true,
+        "delicate_B_canUse": true,
+        "delicate_C_canUse": true,
+        "delicate_D_canUse": true,
+        "delicate_E_canUse": true,
+        "luxury_A_canUse": true,
+        "luxury_B_canUse": true,
+        "luxury_C_canUse": true,
+        "luxury_D_canUse": true,
+        "luxury_E_canUse": true
+      },
+      "id": 5093
+    },
+    {
+      "date": "2023-11-29",
+      "availableCount": {
+        "classic": 5,
+        "delicate": 5,
+        "luxury": 5
+      },
+      "status": {
+        "classic_A_canUse": true,
+        "classic_B_canUse": true,
+        "classic_C_canUse": true,
+        "classic_D_canUse": true,
+        "classic_E_canUse": true,
+        "delicate_A_canUse": true,
+        "delicate_B_canUse": true,
+        "delicate_C_canUse": true,
+        "delicate_D_canUse": true,
+        "delicate_E_canUse": true,
+        "luxury_A_canUse": true,
+        "luxury_B_canUse": true,
+        "luxury_C_canUse": true,
+        "luxury_D_canUse": true,
+        "luxury_E_canUse": true
+      },
+      "id": 5094
+    },
+    {
+      "date": "2023-11-30",
+      "availableCount": {
+        "classic": 5,
+        "delicate": 5,
+        "luxury": 5
+      },
+      "status": {
+        "classic_A_canUse": true,
+        "classic_B_canUse": true,
+        "classic_C_canUse": true,
+        "classic_D_canUse": true,
+        "classic_E_canUse": true,
+        "delicate_A_canUse": true,
+        "delicate_B_canUse": true,
+        "delicate_C_canUse": true,
+        "delicate_D_canUse": true,
+        "delicate_E_canUse": true,
+        "luxury_A_canUse": true,
+        "luxury_B_canUse": true,
+        "luxury_C_canUse": true,
+        "luxury_D_canUse": true,
+        "luxury_E_canUse": true
+      },
+      "id": 5095
+    },
+    {
+      "date": "2023-12-01",
+      "availableCount": {
+        "classic": 5,
+        "delicate": 5,
+        "luxury": 5
+      },
+      "status": {
+        "classic_A_canUse": true,
+        "classic_B_canUse": true,
+        "classic_C_canUse": true,
+        "classic_D_canUse": true,
+        "classic_E_canUse": true,
+        "delicate_A_canUse": true,
+        "delicate_B_canUse": true,
+        "delicate_C_canUse": true,
+        "delicate_D_canUse": true,
+        "delicate_E_canUse": true,
+        "luxury_A_canUse": true,
+        "luxury_B_canUse": true,
+        "luxury_C_canUse": true,
+        "luxury_D_canUse": true,
+        "luxury_E_canUse": true
+      },
+      "id": 5096
+    },
+    {
+      "date": "2023-12-02",
+      "availableCount": {
+        "classic": 5,
+        "delicate": 5,
+        "luxury": 5
+      },
+      "status": {
+        "classic_A_canUse": true,
+        "classic_B_canUse": true,
+        "classic_C_canUse": true,
+        "classic_D_canUse": true,
+        "classic_E_canUse": true,
+        "delicate_A_canUse": true,
+        "delicate_B_canUse": true,
+        "delicate_C_canUse": true,
+        "delicate_D_canUse": true,
+        "delicate_E_canUse": true,
+        "luxury_A_canUse": true,
+        "luxury_B_canUse": true,
+        "luxury_C_canUse": true,
+        "luxury_D_canUse": true,
+        "luxury_E_canUse": true
+      },
+      "id": 5097
+    },
+    {
+      "date": "2023-12-03",
+      "availableCount": {
+        "classic": 5,
+        "delicate": 5,
+        "luxury": 5
+      },
+      "status": {
+        "classic_A_canUse": true,
+        "classic_B_canUse": true,
+        "classic_C_canUse": true,
+        "classic_D_canUse": true,
+        "classic_E_canUse": true,
+        "delicate_A_canUse": true,
+        "delicate_B_canUse": true,
+        "delicate_C_canUse": true,
+        "delicate_D_canUse": true,
+        "delicate_E_canUse": true,
+        "luxury_A_canUse": true,
+        "luxury_B_canUse": true,
+        "luxury_C_canUse": true,
+        "luxury_D_canUse": true,
+        "luxury_E_canUse": true
+      },
+      "id": 5098
+    },
+    {
+      "date": "2023-12-04",
+      "availableCount": {
+        "classic": 5,
+        "delicate": 5,
+        "luxury": 5
+      },
+      "status": {
+        "classic_A_canUse": true,
+        "classic_B_canUse": true,
+        "classic_C_canUse": true,
+        "classic_D_canUse": true,
+        "classic_E_canUse": true,
+        "delicate_A_canUse": true,
+        "delicate_B_canUse": true,
+        "delicate_C_canUse": true,
+        "delicate_D_canUse": true,
+        "delicate_E_canUse": true,
+        "luxury_A_canUse": true,
+        "luxury_B_canUse": true,
+        "luxury_C_canUse": true,
+        "luxury_D_canUse": true,
+        "luxury_E_canUse": true
+      },
+      "id": 5099
+    },
+    {
+      "date": "2023-12-05",
+      "availableCount": {
+        "classic": 5,
+        "delicate": 5,
+        "luxury": 5
+      },
+      "status": {
+        "classic_A_canUse": true,
+        "classic_B_canUse": true,
+        "classic_C_canUse": true,
+        "classic_D_canUse": true,
+        "classic_E_canUse": true,
+        "delicate_A_canUse": true,
+        "delicate_B_canUse": true,
+        "delicate_C_canUse": true,
+        "delicate_D_canUse": true,
+        "delicate_E_canUse": true,
+        "luxury_A_canUse": true,
+        "luxury_B_canUse": true,
+        "luxury_C_canUse": true,
+        "luxury_D_canUse": true,
+        "luxury_E_canUse": true
+      },
+      "id": 5100
+    },
+    {
+      "date": "2023-12-06",
+      "availableCount": {
+        "classic": 5,
+        "delicate": 5,
+        "luxury": 5
+      },
+      "status": {
+        "classic_A_canUse": true,
+        "classic_B_canUse": true,
+        "classic_C_canUse": true,
+        "classic_D_canUse": true,
+        "classic_E_canUse": true,
+        "delicate_A_canUse": true,
+        "delicate_B_canUse": true,
+        "delicate_C_canUse": true,
+        "delicate_D_canUse": true,
+        "delicate_E_canUse": true,
+        "luxury_A_canUse": true,
+        "luxury_B_canUse": true,
+        "luxury_C_canUse": true,
+        "luxury_D_canUse": true,
+        "luxury_E_canUse": true
+      },
+      "id": 5101
+    },
+    {
+      "date": "2023-12-07",
+      "availableCount": {
+        "classic": 5,
+        "delicate": 5,
+        "luxury": 5
+      },
+      "status": {
+        "classic_A_canUse": true,
+        "classic_B_canUse": true,
+        "classic_C_canUse": true,
+        "classic_D_canUse": true,
+        "classic_E_canUse": true,
+        "delicate_A_canUse": true,
+        "delicate_B_canUse": true,
+        "delicate_C_canUse": true,
+        "delicate_D_canUse": true,
+        "delicate_E_canUse": true,
+        "luxury_A_canUse": true,
+        "luxury_B_canUse": true,
+        "luxury_C_canUse": true,
+        "luxury_D_canUse": true,
+        "luxury_E_canUse": true
+      },
+      "id": 5102
+    },
+    {
+      "date": "2023-12-08",
+      "availableCount": {
+        "classic": 5,
+        "delicate": 5,
+        "luxury": 5
+      },
+      "status": {
+        "classic_A_canUse": true,
+        "classic_B_canUse": true,
+        "classic_C_canUse": true,
+        "classic_D_canUse": true,
+        "classic_E_canUse": true,
+        "delicate_A_canUse": true,
+        "delicate_B_canUse": true,
+        "delicate_C_canUse": true,
+        "delicate_D_canUse": true,
+        "delicate_E_canUse": true,
+        "luxury_A_canUse": true,
+        "luxury_B_canUse": true,
+        "luxury_C_canUse": true,
+        "luxury_D_canUse": true,
+        "luxury_E_canUse": true
+      },
+      "id": 5103
+    },
+    {
+      "date": "2023-12-09",
+      "availableCount": {
+        "classic": 5,
+        "delicate": 5,
+        "luxury": 5
+      },
+      "status": {
+        "classic_A_canUse": true,
+        "classic_B_canUse": true,
+        "classic_C_canUse": true,
+        "classic_D_canUse": true,
+        "classic_E_canUse": true,
+        "delicate_A_canUse": true,
+        "delicate_B_canUse": true,
+        "delicate_C_canUse": true,
+        "delicate_D_canUse": true,
+        "delicate_E_canUse": true,
+        "luxury_A_canUse": true,
+        "luxury_B_canUse": true,
+        "luxury_C_canUse": true,
+        "luxury_D_canUse": true,
+        "luxury_E_canUse": true
+      },
+      "id": 5104
+    },
+    {
+      "date": "2024-01-01",
+      "availableCount": {
+        "classic": 5,
+        "delicate": 5,
+        "luxury": 5
+      },
+      "status": {
+        "classic_A_canUse": true,
+        "classic_B_canUse": true,
+        "classic_C_canUse": true,
+        "classic_D_canUse": true,
+        "classic_E_canUse": true,
+        "delicate_A_canUse": true,
+        "delicate_B_canUse": true,
+        "delicate_C_canUse": true,
+        "delicate_D_canUse": true,
+        "delicate_E_canUse": true,
+        "luxury_A_canUse": true,
+        "luxury_B_canUse": true,
+        "luxury_C_canUse": true,
+        "luxury_D_canUse": true,
+        "luxury_E_canUse": true
+      },
+      "id": 5105
+    },
+    {
+      "date": "2024-01-02",
+      "availableCount": {
+        "classic": 5,
+        "delicate": 5,
+        "luxury": 5
+      },
+      "status": {
+        "classic_A_canUse": true,
+        "classic_B_canUse": true,
+        "classic_C_canUse": true,
+        "classic_D_canUse": true,
+        "classic_E_canUse": true,
+        "delicate_A_canUse": true,
+        "delicate_B_canUse": true,
+        "delicate_C_canUse": true,
+        "delicate_D_canUse": true,
+        "delicate_E_canUse": true,
+        "luxury_A_canUse": true,
+        "luxury_B_canUse": true,
+        "luxury_C_canUse": true,
+        "luxury_D_canUse": true,
+        "luxury_E_canUse": true
+      },
+      "id": 5106
+    },
+    {
+      "date": "2024-01-03",
+      "availableCount": {
+        "classic": 5,
+        "delicate": 5,
+        "luxury": 5
+      },
+      "status": {
+        "classic_A_canUse": true,
+        "classic_B_canUse": true,
+        "classic_C_canUse": true,
+        "classic_D_canUse": true,
+        "classic_E_canUse": true,
+        "delicate_A_canUse": true,
+        "delicate_B_canUse": true,
+        "delicate_C_canUse": true,
+        "delicate_D_canUse": true,
+        "delicate_E_canUse": true,
+        "luxury_A_canUse": true,
+        "luxury_B_canUse": true,
+        "luxury_C_canUse": true,
+        "luxury_D_canUse": true,
+        "luxury_E_canUse": true
+      },
+      "id": 5107
+    },
+    {
+      "date": "2024-01-04",
+      "availableCount": {
+        "classic": 5,
+        "delicate": 5,
+        "luxury": 5
+      },
+      "status": {
+        "classic_A_canUse": true,
+        "classic_B_canUse": true,
+        "classic_C_canUse": true,
+        "classic_D_canUse": true,
+        "classic_E_canUse": true,
+        "delicate_A_canUse": true,
+        "delicate_B_canUse": true,
+        "delicate_C_canUse": true,
+        "delicate_D_canUse": true,
+        "delicate_E_canUse": true,
+        "luxury_A_canUse": true,
+        "luxury_B_canUse": true,
+        "luxury_C_canUse": true,
+        "luxury_D_canUse": true,
+        "luxury_E_canUse": true
+      },
+      "id": 5108
+    },
+    {
+      "date": "2024-01-05",
+      "availableCount": {
+        "classic": 5,
+        "delicate": 5,
+        "luxury": 5
+      },
+      "status": {
+        "classic_A_canUse": true,
+        "classic_B_canUse": true,
+        "classic_C_canUse": true,
+        "classic_D_canUse": true,
+        "classic_E_canUse": true,
+        "delicate_A_canUse": true,
+        "delicate_B_canUse": true,
+        "delicate_C_canUse": true,
+        "delicate_D_canUse": true,
+        "delicate_E_canUse": true,
+        "luxury_A_canUse": true,
+        "luxury_B_canUse": true,
+        "luxury_C_canUse": true,
+        "luxury_D_canUse": true,
+        "luxury_E_canUse": true
+      },
+      "id": 5109
+    },
+    {
+      "date": "2024-01-06",
+      "availableCount": {
+        "classic": 5,
+        "delicate": 5,
+        "luxury": 5
+      },
+      "status": {
+        "classic_A_canUse": true,
+        "classic_B_canUse": true,
+        "classic_C_canUse": true,
+        "classic_D_canUse": true,
+        "classic_E_canUse": true,
+        "delicate_A_canUse": true,
+        "delicate_B_canUse": true,
+        "delicate_C_canUse": true,
+        "delicate_D_canUse": true,
+        "delicate_E_canUse": true,
+        "luxury_A_canUse": true,
+        "luxury_B_canUse": true,
+        "luxury_C_canUse": true,
+        "luxury_D_canUse": true,
+        "luxury_E_canUse": true
+      },
+      "id": 5110
+    },
+    {
+      "date": "2024-01-07",
+      "availableCount": {
+        "classic": 5,
+        "delicate": 5,
+        "luxury": 5
+      },
+      "status": {
+        "classic_A_canUse": true,
+        "classic_B_canUse": true,
+        "classic_C_canUse": true,
+        "classic_D_canUse": true,
+        "classic_E_canUse": true,
+        "delicate_A_canUse": true,
+        "delicate_B_canUse": true,
+        "delicate_C_canUse": true,
+        "delicate_D_canUse": true,
+        "delicate_E_canUse": true,
+        "luxury_A_canUse": true,
+        "luxury_B_canUse": true,
+        "luxury_C_canUse": true,
+        "luxury_D_canUse": true,
+        "luxury_E_canUse": true
+      },
+      "id": 5111
+    },
+    {
+      "date": "2024-01-08",
+      "availableCount": {
+        "classic": 5,
+        "delicate": 5,
+        "luxury": 5
+      },
+      "status": {
+        "classic_A_canUse": true,
+        "classic_B_canUse": true,
+        "classic_C_canUse": true,
+        "classic_D_canUse": true,
+        "classic_E_canUse": true,
+        "delicate_A_canUse": true,
+        "delicate_B_canUse": true,
+        "delicate_C_canUse": true,
+        "delicate_D_canUse": true,
+        "delicate_E_canUse": true,
+        "luxury_A_canUse": true,
+        "luxury_B_canUse": true,
+        "luxury_C_canUse": true,
+        "luxury_D_canUse": true,
+        "luxury_E_canUse": true
+      },
+      "id": 5112
+    },
+    {
+      "date": "2024-01-09",
+      "availableCount": {
+        "classic": 5,
+        "delicate": 5,
+        "luxury": 5
+      },
+      "status": {
+        "classic_A_canUse": true,
+        "classic_B_canUse": true,
+        "classic_C_canUse": true,
+        "classic_D_canUse": true,
+        "classic_E_canUse": true,
+        "delicate_A_canUse": true,
+        "delicate_B_canUse": true,
+        "delicate_C_canUse": true,
+        "delicate_D_canUse": true,
+        "delicate_E_canUse": true,
+        "luxury_A_canUse": true,
+        "luxury_B_canUse": true,
+        "luxury_C_canUse": true,
+        "luxury_D_canUse": true,
+        "luxury_E_canUse": true
+      },
+      "id": 5113
+    },
+    {
+      "date": "2024-01-10",
+      "availableCount": {
+        "classic": 5,
+        "delicate": 5,
+        "luxury": 5
+      },
+      "status": {
+        "classic_A_canUse": true,
+        "classic_B_canUse": true,
+        "classic_C_canUse": true,
+        "classic_D_canUse": true,
+        "classic_E_canUse": true,
+        "delicate_A_canUse": true,
+        "delicate_B_canUse": true,
+        "delicate_C_canUse": true,
+        "delicate_D_canUse": true,
+        "delicate_E_canUse": true,
+        "luxury_A_canUse": true,
+        "luxury_B_canUse": true,
+        "luxury_C_canUse": true,
+        "luxury_D_canUse": true,
+        "luxury_E_canUse": true
+      },
+      "id": 5114
+    },
+    {
+      "date": "2024-01-11",
+      "availableCount": {
+        "classic": 5,
+        "delicate": 5,
+        "luxury": 5
+      },
+      "status": {
+        "classic_A_canUse": true,
+        "classic_B_canUse": true,
+        "classic_C_canUse": true,
+        "classic_D_canUse": true,
+        "classic_E_canUse": true,
+        "delicate_A_canUse": true,
+        "delicate_B_canUse": true,
+        "delicate_C_canUse": true,
+        "delicate_D_canUse": true,
+        "delicate_E_canUse": true,
+        "luxury_A_canUse": true,
+        "luxury_B_canUse": true,
+        "luxury_C_canUse": true,
+        "luxury_D_canUse": true,
+        "luxury_E_canUse": true
+      },
+      "id": 5115
+    },
+    {
+      "date": "2024-01-12",
+      "availableCount": {
+        "classic": 5,
+        "delicate": 5,
+        "luxury": 5
+      },
+      "status": {
+        "classic_A_canUse": true,
+        "classic_B_canUse": true,
+        "classic_C_canUse": true,
+        "classic_D_canUse": true,
+        "classic_E_canUse": true,
+        "delicate_A_canUse": true,
+        "delicate_B_canUse": true,
+        "delicate_C_canUse": true,
+        "delicate_D_canUse": true,
+        "delicate_E_canUse": true,
+        "luxury_A_canUse": true,
+        "luxury_B_canUse": true,
+        "luxury_C_canUse": true,
+        "luxury_D_canUse": true,
+        "luxury_E_canUse": true
+      },
+      "id": 5116
+    },
+    {
+      "date": "2024-01-13",
+      "availableCount": {
+        "classic": 5,
+        "delicate": 5,
+        "luxury": 5
+      },
+      "status": {
+        "classic_A_canUse": true,
+        "classic_B_canUse": true,
+        "classic_C_canUse": true,
+        "classic_D_canUse": true,
+        "classic_E_canUse": true,
+        "delicate_A_canUse": true,
+        "delicate_B_canUse": true,
+        "delicate_C_canUse": true,
+        "delicate_D_canUse": true,
+        "delicate_E_canUse": true,
+        "luxury_A_canUse": true,
+        "luxury_B_canUse": true,
+        "luxury_C_canUse": true,
+        "luxury_D_canUse": true,
+        "luxury_E_canUse": true
+      },
+      "id": 5117
+    },
+    {
+      "date": "2024-01-14",
+      "availableCount": {
+        "classic": 5,
+        "delicate": 5,
+        "luxury": 5
+      },
+      "status": {
+        "classic_A_canUse": true,
+        "classic_B_canUse": true,
+        "classic_C_canUse": true,
+        "classic_D_canUse": true,
+        "classic_E_canUse": true,
+        "delicate_A_canUse": true,
+        "delicate_B_canUse": true,
+        "delicate_C_canUse": true,
+        "delicate_D_canUse": true,
+        "delicate_E_canUse": true,
+        "luxury_A_canUse": true,
+        "luxury_B_canUse": true,
+        "luxury_C_canUse": true,
+        "luxury_D_canUse": true,
+        "luxury_E_canUse": true
+      },
+      "id": 5118
+    },
+    {
+      "date": "2024-01-15",
+      "availableCount": {
+        "classic": 5,
+        "delicate": 5,
+        "luxury": 5
+      },
+      "status": {
+        "classic_A_canUse": true,
+        "classic_B_canUse": true,
+        "classic_C_canUse": true,
+        "classic_D_canUse": true,
+        "classic_E_canUse": true,
+        "delicate_A_canUse": true,
+        "delicate_B_canUse": true,
+        "delicate_C_canUse": true,
+        "delicate_D_canUse": true,
+        "delicate_E_canUse": true,
+        "luxury_A_canUse": true,
+        "luxury_B_canUse": true,
+        "luxury_C_canUse": true,
+        "luxury_D_canUse": true,
+        "luxury_E_canUse": true
+      },
+      "id": 5119
+    },
+    {
+      "date": "2024-01-16",
+      "availableCount": {
+        "classic": 5,
+        "delicate": 5,
+        "luxury": 5
+      },
+      "status": {
+        "classic_A_canUse": true,
+        "classic_B_canUse": true,
+        "classic_C_canUse": true,
+        "classic_D_canUse": true,
+        "classic_E_canUse": true,
+        "delicate_A_canUse": true,
+        "delicate_B_canUse": true,
+        "delicate_C_canUse": true,
+        "delicate_D_canUse": true,
+        "delicate_E_canUse": true,
+        "luxury_A_canUse": true,
+        "luxury_B_canUse": true,
+        "luxury_C_canUse": true,
+        "luxury_D_canUse": true,
+        "luxury_E_canUse": true
+      },
+      "id": 5120
+    },
+    {
+      "date": "2024-01-17",
+      "availableCount": {
+        "classic": 5,
+        "delicate": 5,
+        "luxury": 5
+      },
+      "status": {
+        "classic_A_canUse": true,
+        "classic_B_canUse": true,
+        "classic_C_canUse": true,
+        "classic_D_canUse": true,
+        "classic_E_canUse": true,
+        "delicate_A_canUse": true,
+        "delicate_B_canUse": true,
+        "delicate_C_canUse": true,
+        "delicate_D_canUse": true,
+        "delicate_E_canUse": true,
+        "luxury_A_canUse": true,
+        "luxury_B_canUse": true,
+        "luxury_C_canUse": true,
+        "luxury_D_canUse": true,
+        "luxury_E_canUse": true
+      },
+      "id": 5121
+    },
+    {
+      "date": "2024-01-18",
+      "availableCount": {
+        "classic": 5,
+        "delicate": 5,
+        "luxury": 5
+      },
+      "status": {
+        "classic_A_canUse": true,
+        "classic_B_canUse": true,
+        "classic_C_canUse": true,
+        "classic_D_canUse": true,
+        "classic_E_canUse": true,
+        "delicate_A_canUse": true,
+        "delicate_B_canUse": true,
+        "delicate_C_canUse": true,
+        "delicate_D_canUse": true,
+        "delicate_E_canUse": true,
+        "luxury_A_canUse": true,
+        "luxury_B_canUse": true,
+        "luxury_C_canUse": true,
+        "luxury_D_canUse": true,
+        "luxury_E_canUse": true
+      },
+      "id": 5122
+    },
+    {
+      "date": "2024-01-19",
+      "availableCount": {
+        "classic": 5,
+        "delicate": 5,
+        "luxury": 5
+      },
+      "status": {
+        "classic_A_canUse": true,
+        "classic_B_canUse": true,
+        "classic_C_canUse": true,
+        "classic_D_canUse": true,
+        "classic_E_canUse": true,
+        "delicate_A_canUse": true,
+        "delicate_B_canUse": true,
+        "delicate_C_canUse": true,
+        "delicate_D_canUse": true,
+        "delicate_E_canUse": true,
+        "luxury_A_canUse": true,
+        "luxury_B_canUse": true,
+        "luxury_C_canUse": true,
+        "luxury_D_canUse": true,
+        "luxury_E_canUse": true
+      },
+      "id": 5123
+    },
+    {
+      "date": "2024-01-20",
+      "availableCount": {
+        "classic": 5,
+        "delicate": 5,
+        "luxury": 5
+      },
+      "status": {
+        "classic_A_canUse": true,
+        "classic_B_canUse": true,
+        "classic_C_canUse": true,
+        "classic_D_canUse": true,
+        "classic_E_canUse": true,
+        "delicate_A_canUse": true,
+        "delicate_B_canUse": true,
+        "delicate_C_canUse": true,
+        "delicate_D_canUse": true,
+        "delicate_E_canUse": true,
+        "luxury_A_canUse": true,
+        "luxury_B_canUse": true,
+        "luxury_C_canUse": true,
+        "luxury_D_canUse": true,
+        "luxury_E_canUse": true
+      },
+      "id": 5124
+    },
+    {
+      "date": "2024-01-21",
+      "availableCount": {
+        "classic": 5,
+        "delicate": 5,
+        "luxury": 5
+      },
+      "status": {
+        "classic_A_canUse": true,
+        "classic_B_canUse": true,
+        "classic_C_canUse": true,
+        "classic_D_canUse": true,
+        "classic_E_canUse": true,
+        "delicate_A_canUse": true,
+        "delicate_B_canUse": true,
+        "delicate_C_canUse": true,
+        "delicate_D_canUse": true,
+        "delicate_E_canUse": true,
+        "luxury_A_canUse": true,
+        "luxury_B_canUse": true,
+        "luxury_C_canUse": true,
+        "luxury_D_canUse": true,
+        "luxury_E_canUse": true
+      },
+      "id": 5125
+    },
+    {
+      "date": "2024-01-22",
+      "availableCount": {
+        "classic": 5,
+        "delicate": 5,
+        "luxury": 5
+      },
+      "status": {
+        "classic_A_canUse": true,
+        "classic_B_canUse": true,
+        "classic_C_canUse": true,
+        "classic_D_canUse": true,
+        "classic_E_canUse": true,
+        "delicate_A_canUse": true,
+        "delicate_B_canUse": true,
+        "delicate_C_canUse": true,
+        "delicate_D_canUse": true,
+        "delicate_E_canUse": true,
+        "luxury_A_canUse": true,
+        "luxury_B_canUse": true,
+        "luxury_C_canUse": true,
+        "luxury_D_canUse": true,
+        "luxury_E_canUse": true
+      },
+      "id": 5126
+    },
+    {
+      "date": "2024-01-23",
+      "availableCount": {
+        "classic": 5,
+        "delicate": 5,
+        "luxury": 5
+      },
+      "status": {
+        "classic_A_canUse": true,
+        "classic_B_canUse": true,
+        "classic_C_canUse": true,
+        "classic_D_canUse": true,
+        "classic_E_canUse": true,
+        "delicate_A_canUse": true,
+        "delicate_B_canUse": true,
+        "delicate_C_canUse": true,
+        "delicate_D_canUse": true,
+        "delicate_E_canUse": true,
+        "luxury_A_canUse": true,
+        "luxury_B_canUse": true,
+        "luxury_C_canUse": true,
+        "luxury_D_canUse": true,
+        "luxury_E_canUse": true
+      },
+      "id": 5127
+    },
+    {
+      "date": "2024-01-24",
+      "availableCount": {
+        "classic": 5,
+        "delicate": 5,
+        "luxury": 5
+      },
+      "status": {
+        "classic_A_canUse": true,
+        "classic_B_canUse": true,
+        "classic_C_canUse": true,
+        "classic_D_canUse": true,
+        "classic_E_canUse": true,
+        "delicate_A_canUse": true,
+        "delicate_B_canUse": true,
+        "delicate_C_canUse": true,
+        "delicate_D_canUse": true,
+        "delicate_E_canUse": true,
+        "luxury_A_canUse": true,
+        "luxury_B_canUse": true,
+        "luxury_C_canUse": true,
+        "luxury_D_canUse": true,
+        "luxury_E_canUse": true
+      },
+      "id": 5128
+    },
+    {
+      "date": "2024-01-25",
+      "availableCount": {
+        "classic": 5,
+        "delicate": 5,
+        "luxury": 5
+      },
+      "status": {
+        "classic_A_canUse": true,
+        "classic_B_canUse": true,
+        "classic_C_canUse": true,
+        "classic_D_canUse": true,
+        "classic_E_canUse": true,
+        "delicate_A_canUse": true,
+        "delicate_B_canUse": true,
+        "delicate_C_canUse": true,
+        "delicate_D_canUse": true,
+        "delicate_E_canUse": true,
+        "luxury_A_canUse": true,
+        "luxury_B_canUse": true,
+        "luxury_C_canUse": true,
+        "luxury_D_canUse": true,
+        "luxury_E_canUse": true
+      },
+      "id": 5129
+    },
+    {
+      "date": "2024-01-26",
+      "availableCount": {
+        "classic": 5,
+        "delicate": 5,
+        "luxury": 5
+      },
+      "status": {
+        "classic_A_canUse": true,
+        "classic_B_canUse": true,
+        "classic_C_canUse": true,
+        "classic_D_canUse": true,
+        "classic_E_canUse": true,
+        "delicate_A_canUse": true,
+        "delicate_B_canUse": true,
+        "delicate_C_canUse": true,
+        "delicate_D_canUse": true,
+        "delicate_E_canUse": true,
+        "luxury_A_canUse": true,
+        "luxury_B_canUse": true,
+        "luxury_C_canUse": true,
+        "luxury_D_canUse": true,
+        "luxury_E_canUse": true
+      },
+      "id": 5130
+    },
+    {
+      "date": "2024-01-27",
+      "availableCount": {
+        "classic": 5,
+        "delicate": 5,
+        "luxury": 5
+      },
+      "status": {
+        "classic_A_canUse": true,
+        "classic_B_canUse": true,
+        "classic_C_canUse": true,
+        "classic_D_canUse": true,
+        "classic_E_canUse": true,
+        "delicate_A_canUse": true,
+        "delicate_B_canUse": true,
+        "delicate_C_canUse": true,
+        "delicate_D_canUse": true,
+        "delicate_E_canUse": true,
+        "luxury_A_canUse": true,
+        "luxury_B_canUse": true,
+        "luxury_C_canUse": true,
+        "luxury_D_canUse": true,
+        "luxury_E_canUse": true
+      },
+      "id": 5131
+    },
+    {
+      "date": "2024-01-28",
+      "availableCount": {
+        "classic": 5,
+        "delicate": 5,
+        "luxury": 5
+      },
+      "status": {
+        "classic_A_canUse": true,
+        "classic_B_canUse": true,
+        "classic_C_canUse": true,
+        "classic_D_canUse": true,
+        "classic_E_canUse": true,
+        "delicate_A_canUse": true,
+        "delicate_B_canUse": true,
+        "delicate_C_canUse": true,
+        "delicate_D_canUse": true,
+        "delicate_E_canUse": true,
+        "luxury_A_canUse": true,
+        "luxury_B_canUse": true,
+        "luxury_C_canUse": true,
+        "luxury_D_canUse": true,
+        "luxury_E_canUse": true
+      },
+      "id": 5132
+    },
+    {
+      "date": "2024-01-29",
+      "availableCount": {
+        "classic": 5,
+        "delicate": 5,
+        "luxury": 5
+      },
+      "status": {
+        "classic_A_canUse": true,
+        "classic_B_canUse": true,
+        "classic_C_canUse": true,
+        "classic_D_canUse": true,
+        "classic_E_canUse": true,
+        "delicate_A_canUse": true,
+        "delicate_B_canUse": true,
+        "delicate_C_canUse": true,
+        "delicate_D_canUse": true,
+        "delicate_E_canUse": true,
+        "luxury_A_canUse": true,
+        "luxury_B_canUse": true,
+        "luxury_C_canUse": true,
+        "luxury_D_canUse": true,
+        "luxury_E_canUse": true
+      },
+      "id": 5133
+    },
+    {
+      "date": "2024-01-30",
+      "availableCount": {
+        "classic": 5,
+        "delicate": 5,
+        "luxury": 5
+      },
+      "status": {
+        "classic_A_canUse": true,
+        "classic_B_canUse": true,
+        "classic_C_canUse": true,
+        "classic_D_canUse": true,
+        "classic_E_canUse": true,
+        "delicate_A_canUse": true,
+        "delicate_B_canUse": true,
+        "delicate_C_canUse": true,
+        "delicate_D_canUse": true,
+        "delicate_E_canUse": true,
+        "luxury_A_canUse": true,
+        "luxury_B_canUse": true,
+        "luxury_C_canUse": true,
+        "luxury_D_canUse": true,
+        "luxury_E_canUse": true
+      },
+      "id": 5134
+    },
+    {
+      "date": "2024-01-31",
+      "availableCount": {
+        "classic": 5,
+        "delicate": 5,
+        "luxury": 5
+      },
+      "status": {
+        "classic_A_canUse": true,
+        "classic_B_canUse": true,
+        "classic_C_canUse": true,
+        "classic_D_canUse": true,
+        "classic_E_canUse": true,
+        "delicate_A_canUse": true,
+        "delicate_B_canUse": true,
+        "delicate_C_canUse": true,
+        "delicate_D_canUse": true,
+        "delicate_E_canUse": true,
+        "luxury_A_canUse": true,
+        "luxury_B_canUse": true,
+        "luxury_C_canUse": true,
+        "luxury_D_canUse": true,
+        "luxury_E_canUse": true
+      },
+      "id": 5135
+    },
+    {
+      "date": "2024-02-01",
+      "availableCount": {
+        "classic": 5,
+        "delicate": 5,
+        "luxury": 5
+      },
+      "status": {
+        "classic_A_canUse": true,
+        "classic_B_canUse": true,
+        "classic_C_canUse": true,
+        "classic_D_canUse": true,
+        "classic_E_canUse": true,
+        "delicate_A_canUse": true,
+        "delicate_B_canUse": true,
+        "delicate_C_canUse": true,
+        "delicate_D_canUse": true,
+        "delicate_E_canUse": true,
+        "luxury_A_canUse": true,
+        "luxury_B_canUse": true,
+        "luxury_C_canUse": true,
+        "luxury_D_canUse": true,
+        "luxury_E_canUse": true
+      },
+      "id": 5136
+    },
+    {
+      "date": "2024-02-02",
+      "availableCount": {
+        "classic": 5,
+        "delicate": 5,
+        "luxury": 5
+      },
+      "status": {
+        "classic_A_canUse": true,
+        "classic_B_canUse": true,
+        "classic_C_canUse": true,
+        "classic_D_canUse": true,
+        "classic_E_canUse": true,
+        "delicate_A_canUse": true,
+        "delicate_B_canUse": true,
+        "delicate_C_canUse": true,
+        "delicate_D_canUse": true,
+        "delicate_E_canUse": true,
+        "luxury_A_canUse": true,
+        "luxury_B_canUse": true,
+        "luxury_C_canUse": true,
+        "luxury_D_canUse": true,
+        "luxury_E_canUse": true
+      },
+      "id": 5137
+    },
+    {
+      "date": "2024-02-03",
+      "availableCount": {
+        "classic": 5,
+        "delicate": 5,
+        "luxury": 5
+      },
+      "status": {
+        "classic_A_canUse": true,
+        "classic_B_canUse": true,
+        "classic_C_canUse": true,
+        "classic_D_canUse": true,
+        "classic_E_canUse": true,
+        "delicate_A_canUse": true,
+        "delicate_B_canUse": true,
+        "delicate_C_canUse": true,
+        "delicate_D_canUse": true,
+        "delicate_E_canUse": true,
+        "luxury_A_canUse": true,
+        "luxury_B_canUse": true,
+        "luxury_C_canUse": true,
+        "luxury_D_canUse": true,
+        "luxury_E_canUse": true
+      },
+      "id": 5138
+    },
+    {
+      "date": "2024-02-04",
+      "availableCount": {
+        "classic": 5,
+        "delicate": 5,
+        "luxury": 5
+      },
+      "status": {
+        "classic_A_canUse": true,
+        "classic_B_canUse": true,
+        "classic_C_canUse": true,
+        "classic_D_canUse": true,
+        "classic_E_canUse": true,
+        "delicate_A_canUse": true,
+        "delicate_B_canUse": true,
+        "delicate_C_canUse": true,
+        "delicate_D_canUse": true,
+        "delicate_E_canUse": true,
+        "luxury_A_canUse": true,
+        "luxury_B_canUse": true,
+        "luxury_C_canUse": true,
+        "luxury_D_canUse": true,
+        "luxury_E_canUse": true
+      },
+      "id": 5139
+    },
+    {
+      "date": "2024-02-05",
+      "availableCount": {
+        "classic": 5,
+        "delicate": 5,
+        "luxury": 5
+      },
+      "status": {
+        "classic_A_canUse": true,
+        "classic_B_canUse": true,
+        "classic_C_canUse": true,
+        "classic_D_canUse": true,
+        "classic_E_canUse": true,
+        "delicate_A_canUse": true,
+        "delicate_B_canUse": true,
+        "delicate_C_canUse": true,
+        "delicate_D_canUse": true,
+        "delicate_E_canUse": true,
+        "luxury_A_canUse": true,
+        "luxury_B_canUse": true,
+        "luxury_C_canUse": true,
+        "luxury_D_canUse": true,
+        "luxury_E_canUse": true
+      },
+      "id": 5140
+    },
+    {
+      "date": "2024-02-06",
+      "availableCount": {
+        "classic": 5,
+        "delicate": 5,
+        "luxury": 5
+      },
+      "status": {
+        "classic_A_canUse": true,
+        "classic_B_canUse": true,
+        "classic_C_canUse": true,
+        "classic_D_canUse": true,
+        "classic_E_canUse": true,
+        "delicate_A_canUse": true,
+        "delicate_B_canUse": true,
+        "delicate_C_canUse": true,
+        "delicate_D_canUse": true,
+        "delicate_E_canUse": true,
+        "luxury_A_canUse": true,
+        "luxury_B_canUse": true,
+        "luxury_C_canUse": true,
+        "luxury_D_canUse": true,
+        "luxury_E_canUse": true
+      },
+      "id": 5141
+    },
+    {
+      "date": "2024-02-07",
+      "availableCount": {
+        "classic": 5,
+        "delicate": 5,
+        "luxury": 5
+      },
+      "status": {
+        "classic_A_canUse": true,
+        "classic_B_canUse": true,
+        "classic_C_canUse": true,
+        "classic_D_canUse": true,
+        "classic_E_canUse": true,
+        "delicate_A_canUse": true,
+        "delicate_B_canUse": true,
+        "delicate_C_canUse": true,
+        "delicate_D_canUse": true,
+        "delicate_E_canUse": true,
+        "luxury_A_canUse": true,
+        "luxury_B_canUse": true,
+        "luxury_C_canUse": true,
+        "luxury_D_canUse": true,
+        "luxury_E_canUse": true
+      },
+      "id": 5142
+    },
+    {
+      "date": "2024-02-08",
+      "availableCount": {
+        "classic": 5,
+        "delicate": 5,
+        "luxury": 5
+      },
+      "status": {
+        "classic_A_canUse": true,
+        "classic_B_canUse": true,
+        "classic_C_canUse": true,
+        "classic_D_canUse": true,
+        "classic_E_canUse": true,
+        "delicate_A_canUse": true,
+        "delicate_B_canUse": true,
+        "delicate_C_canUse": true,
+        "delicate_D_canUse": true,
+        "delicate_E_canUse": true,
+        "luxury_A_canUse": true,
+        "luxury_B_canUse": true,
+        "luxury_C_canUse": true,
+        "luxury_D_canUse": true,
+        "luxury_E_canUse": true
+      },
+      "id": 5143
+    },
+    {
+      "date": "2024-02-09",
+      "availableCount": {
+        "classic": 5,
+        "delicate": 5,
+        "luxury": 5
+      },
+      "status": {
+        "classic_A_canUse": true,
+        "classic_B_canUse": true,
+        "classic_C_canUse": true,
+        "classic_D_canUse": true,
+        "classic_E_canUse": true,
+        "delicate_A_canUse": true,
+        "delicate_B_canUse": true,
+        "delicate_C_canUse": true,
+        "delicate_D_canUse": true,
+        "delicate_E_canUse": true,
+        "luxury_A_canUse": true,
+        "luxury_B_canUse": true,
+        "luxury_C_canUse": true,
+        "luxury_D_canUse": true,
+        "luxury_E_canUse": true
+      },
+      "id": 5144
+    },
+    {
+      "date": "2024-02-10",
+      "availableCount": {
+        "classic": 5,
+        "delicate": 5,
+        "luxury": 5
+      },
+      "status": {
+        "classic_A_canUse": true,
+        "classic_B_canUse": true,
+        "classic_C_canUse": true,
+        "classic_D_canUse": true,
+        "classic_E_canUse": true,
+        "delicate_A_canUse": true,
+        "delicate_B_canUse": true,
+        "delicate_C_canUse": true,
+        "delicate_D_canUse": true,
+        "delicate_E_canUse": true,
+        "luxury_A_canUse": true,
+        "luxury_B_canUse": true,
+        "luxury_C_canUse": true,
+        "luxury_D_canUse": true,
+        "luxury_E_canUse": true
+      },
+      "id": 5145
+    },
+    {
+      "date": "2024-02-11",
+      "availableCount": {
+        "classic": 5,
+        "delicate": 5,
+        "luxury": 5
+      },
+      "status": {
+        "classic_A_canUse": true,
+        "classic_B_canUse": true,
+        "classic_C_canUse": true,
+        "classic_D_canUse": true,
+        "classic_E_canUse": true,
+        "delicate_A_canUse": true,
+        "delicate_B_canUse": true,
+        "delicate_C_canUse": true,
+        "delicate_D_canUse": true,
+        "delicate_E_canUse": true,
+        "luxury_A_canUse": true,
+        "luxury_B_canUse": true,
+        "luxury_C_canUse": true,
+        "luxury_D_canUse": true,
+        "luxury_E_canUse": true
+      },
+      "id": 5146
+    },
+    {
+      "date": "2024-02-12",
+      "availableCount": {
+        "classic": 5,
+        "delicate": 5,
+        "luxury": 5
+      },
+      "status": {
+        "classic_A_canUse": true,
+        "classic_B_canUse": true,
+        "classic_C_canUse": true,
+        "classic_D_canUse": true,
+        "classic_E_canUse": true,
+        "delicate_A_canUse": true,
+        "delicate_B_canUse": true,
+        "delicate_C_canUse": true,
+        "delicate_D_canUse": true,
+        "delicate_E_canUse": true,
+        "luxury_A_canUse": true,
+        "luxury_B_canUse": true,
+        "luxury_C_canUse": true,
+        "luxury_D_canUse": true,
+        "luxury_E_canUse": true
+      },
+      "id": 5147
+    },
+    {
+      "date": "2024-02-13",
+      "availableCount": {
+        "classic": 5,
+        "delicate": 5,
+        "luxury": 5
+      },
+      "status": {
+        "classic_A_canUse": true,
+        "classic_B_canUse": true,
+        "classic_C_canUse": true,
+        "classic_D_canUse": true,
+        "classic_E_canUse": true,
+        "delicate_A_canUse": true,
+        "delicate_B_canUse": true,
+        "delicate_C_canUse": true,
+        "delicate_D_canUse": true,
+        "delicate_E_canUse": true,
+        "luxury_A_canUse": true,
+        "luxury_B_canUse": true,
+        "luxury_C_canUse": true,
+        "luxury_D_canUse": true,
+        "luxury_E_canUse": true
+      },
+      "id": 5148
+    },
+    {
+      "date": "2024-02-14",
+      "availableCount": {
+        "classic": 5,
+        "delicate": 5,
+        "luxury": 5
+      },
+      "status": {
+        "classic_A_canUse": true,
+        "classic_B_canUse": true,
+        "classic_C_canUse": true,
+        "classic_D_canUse": true,
+        "classic_E_canUse": true,
+        "delicate_A_canUse": true,
+        "delicate_B_canUse": true,
+        "delicate_C_canUse": true,
+        "delicate_D_canUse": true,
+        "delicate_E_canUse": true,
+        "luxury_A_canUse": true,
+        "luxury_B_canUse": true,
+        "luxury_C_canUse": true,
+        "luxury_D_canUse": true,
+        "luxury_E_canUse": true
+      },
+      "id": 5149
+    },
+    {
+      "date": "2024-02-15",
+      "availableCount": {
+        "classic": 5,
+        "delicate": 5,
+        "luxury": 5
+      },
+      "status": {
+        "classic_A_canUse": true,
+        "classic_B_canUse": true,
+        "classic_C_canUse": true,
+        "classic_D_canUse": true,
+        "classic_E_canUse": true,
+        "delicate_A_canUse": true,
+        "delicate_B_canUse": true,
+        "delicate_C_canUse": true,
+        "delicate_D_canUse": true,
+        "delicate_E_canUse": true,
+        "luxury_A_canUse": true,
+        "luxury_B_canUse": true,
+        "luxury_C_canUse": true,
+        "luxury_D_canUse": true,
+        "luxury_E_canUse": true
+      },
+      "id": 5150
+    },
+    {
+      "date": "2024-02-16",
+      "availableCount": {
+        "classic": 5,
+        "delicate": 5,
+        "luxury": 5
+      },
+      "status": {
+        "classic_A_canUse": true,
+        "classic_B_canUse": true,
+        "classic_C_canUse": true,
+        "classic_D_canUse": true,
+        "classic_E_canUse": true,
+        "delicate_A_canUse": true,
+        "delicate_B_canUse": true,
+        "delicate_C_canUse": true,
+        "delicate_D_canUse": true,
+        "delicate_E_canUse": true,
+        "luxury_A_canUse": true,
+        "luxury_B_canUse": true,
+        "luxury_C_canUse": true,
+        "luxury_D_canUse": true,
+        "luxury_E_canUse": true
+      },
+      "id": 5151
+    },
+    {
+      "date": "2024-02-17",
+      "availableCount": {
+        "classic": 5,
+        "delicate": 5,
+        "luxury": 5
+      },
+      "status": {
+        "classic_A_canUse": true,
+        "classic_B_canUse": true,
+        "classic_C_canUse": true,
+        "classic_D_canUse": true,
+        "classic_E_canUse": true,
+        "delicate_A_canUse": true,
+        "delicate_B_canUse": true,
+        "delicate_C_canUse": true,
+        "delicate_D_canUse": true,
+        "delicate_E_canUse": true,
+        "luxury_A_canUse": true,
+        "luxury_B_canUse": true,
+        "luxury_C_canUse": true,
+        "luxury_D_canUse": true,
+        "luxury_E_canUse": true
+      },
+      "id": 5152
+    },
+    {
+      "date": "2024-02-18",
+      "availableCount": {
+        "classic": 5,
+        "delicate": 5,
+        "luxury": 5
+      },
+      "status": {
+        "classic_A_canUse": true,
+        "classic_B_canUse": true,
+        "classic_C_canUse": true,
+        "classic_D_canUse": true,
+        "classic_E_canUse": true,
+        "delicate_A_canUse": true,
+        "delicate_B_canUse": true,
+        "delicate_C_canUse": true,
+        "delicate_D_canUse": true,
+        "delicate_E_canUse": true,
+        "luxury_A_canUse": true,
+        "luxury_B_canUse": true,
+        "luxury_C_canUse": true,
+        "luxury_D_canUse": true,
+        "luxury_E_canUse": true
+      },
+      "id": 5153
+    },
+    {
+      "date": "2024-02-19",
+      "availableCount": {
+        "classic": 5,
+        "delicate": 5,
+        "luxury": 5
+      },
+      "status": {
+        "classic_A_canUse": true,
+        "classic_B_canUse": true,
+        "classic_C_canUse": true,
+        "classic_D_canUse": true,
+        "classic_E_canUse": true,
+        "delicate_A_canUse": true,
+        "delicate_B_canUse": true,
+        "delicate_C_canUse": true,
+        "delicate_D_canUse": true,
+        "delicate_E_canUse": true,
+        "luxury_A_canUse": true,
+        "luxury_B_canUse": true,
+        "luxury_C_canUse": true,
+        "luxury_D_canUse": true,
+        "luxury_E_canUse": true
+      },
+      "id": 5154
+    },
+    {
+      "date": "2024-02-20",
+      "availableCount": {
+        "classic": 5,
+        "delicate": 5,
+        "luxury": 5
+      },
+      "status": {
+        "classic_A_canUse": true,
+        "classic_B_canUse": true,
+        "classic_C_canUse": true,
+        "classic_D_canUse": true,
+        "classic_E_canUse": true,
+        "delicate_A_canUse": true,
+        "delicate_B_canUse": true,
+        "delicate_C_canUse": true,
+        "delicate_D_canUse": true,
+        "delicate_E_canUse": true,
+        "luxury_A_canUse": true,
+        "luxury_B_canUse": true,
+        "luxury_C_canUse": true,
+        "luxury_D_canUse": true,
+        "luxury_E_canUse": true
+      },
+      "id": 5155
+    },
+    {
+      "date": "2024-02-21",
+      "availableCount": {
+        "classic": 5,
+        "delicate": 5,
+        "luxury": 5
+      },
+      "status": {
+        "classic_A_canUse": true,
+        "classic_B_canUse": true,
+        "classic_C_canUse": true,
+        "classic_D_canUse": true,
+        "classic_E_canUse": true,
+        "delicate_A_canUse": true,
+        "delicate_B_canUse": true,
+        "delicate_C_canUse": true,
+        "delicate_D_canUse": true,
+        "delicate_E_canUse": true,
+        "luxury_A_canUse": true,
+        "luxury_B_canUse": true,
+        "luxury_C_canUse": true,
+        "luxury_D_canUse": true,
+        "luxury_E_canUse": true
+      },
+      "id": 5156
+    },
+    {
+      "date": "2024-02-22",
+      "availableCount": {
+        "classic": 5,
+        "delicate": 5,
+        "luxury": 5
+      },
+      "status": {
+        "classic_A_canUse": true,
+        "classic_B_canUse": true,
+        "classic_C_canUse": true,
+        "classic_D_canUse": true,
+        "classic_E_canUse": true,
+        "delicate_A_canUse": true,
+        "delicate_B_canUse": true,
+        "delicate_C_canUse": true,
+        "delicate_D_canUse": true,
+        "delicate_E_canUse": true,
+        "luxury_A_canUse": true,
+        "luxury_B_canUse": true,
+        "luxury_C_canUse": true,
+        "luxury_D_canUse": true,
+        "luxury_E_canUse": true
+      },
+      "id": 5157
+    },
+    {
+      "date": "2024-02-23",
+      "availableCount": {
+        "classic": 5,
+        "delicate": 5,
+        "luxury": 5
+      },
+      "status": {
+        "classic_A_canUse": true,
+        "classic_B_canUse": true,
+        "classic_C_canUse": true,
+        "classic_D_canUse": true,
+        "classic_E_canUse": true,
+        "delicate_A_canUse": true,
+        "delicate_B_canUse": true,
+        "delicate_C_canUse": true,
+        "delicate_D_canUse": true,
+        "delicate_E_canUse": true,
+        "luxury_A_canUse": true,
+        "luxury_B_canUse": true,
+        "luxury_C_canUse": true,
+        "luxury_D_canUse": true,
+        "luxury_E_canUse": true
+      },
+      "id": 5158
+    },
+    {
+      "date": "2024-02-24",
+      "availableCount": {
+        "classic": 5,
+        "delicate": 5,
+        "luxury": 5
+      },
+      "status": {
+        "classic_A_canUse": true,
+        "classic_B_canUse": true,
+        "classic_C_canUse": true,
+        "classic_D_canUse": true,
+        "classic_E_canUse": true,
+        "delicate_A_canUse": true,
+        "delicate_B_canUse": true,
+        "delicate_C_canUse": true,
+        "delicate_D_canUse": true,
+        "delicate_E_canUse": true,
+        "luxury_A_canUse": true,
+        "luxury_B_canUse": true,
+        "luxury_C_canUse": true,
+        "luxury_D_canUse": true,
+        "luxury_E_canUse": true
+      },
+      "id": 5159
+    },
+    {
+      "date": "2024-02-25",
+      "availableCount": {
+        "classic": 5,
+        "delicate": 5,
+        "luxury": 5
+      },
+      "status": {
+        "classic_A_canUse": true,
+        "classic_B_canUse": true,
+        "classic_C_canUse": true,
+        "classic_D_canUse": true,
+        "classic_E_canUse": true,
+        "delicate_A_canUse": true,
+        "delicate_B_canUse": true,
+        "delicate_C_canUse": true,
+        "delicate_D_canUse": true,
+        "delicate_E_canUse": true,
+        "luxury_A_canUse": true,
+        "luxury_B_canUse": true,
+        "luxury_C_canUse": true,
+        "luxury_D_canUse": true,
+        "luxury_E_canUse": true
+      },
+      "id": 5160
+    },
+    {
+      "date": "2024-02-26",
+      "availableCount": {
+        "classic": 5,
+        "delicate": 5,
+        "luxury": 5
+      },
+      "status": {
+        "classic_A_canUse": true,
+        "classic_B_canUse": true,
+        "classic_C_canUse": true,
+        "classic_D_canUse": true,
+        "classic_E_canUse": true,
+        "delicate_A_canUse": true,
+        "delicate_B_canUse": true,
+        "delicate_C_canUse": true,
+        "delicate_D_canUse": true,
+        "delicate_E_canUse": true,
+        "luxury_A_canUse": true,
+        "luxury_B_canUse": true,
+        "luxury_C_canUse": true,
+        "luxury_D_canUse": true,
+        "luxury_E_canUse": true
+      },
+      "id": 5161
+    },
+    {
+      "date": "2024-02-27",
+      "availableCount": {
+        "classic": 5,
+        "delicate": 5,
+        "luxury": 5
+      },
+      "status": {
+        "classic_A_canUse": true,
+        "classic_B_canUse": true,
+        "classic_C_canUse": true,
+        "classic_D_canUse": true,
+        "classic_E_canUse": true,
+        "delicate_A_canUse": true,
+        "delicate_B_canUse": true,
+        "delicate_C_canUse": true,
+        "delicate_D_canUse": true,
+        "delicate_E_canUse": true,
+        "luxury_A_canUse": true,
+        "luxury_B_canUse": true,
+        "luxury_C_canUse": true,
+        "luxury_D_canUse": true,
+        "luxury_E_canUse": true
+      },
+      "id": 5162
+    },
+    {
+      "date": "2024-02-28",
+      "availableCount": {
+        "classic": 5,
+        "delicate": 5,
+        "luxury": 5
+      },
+      "status": {
+        "classic_A_canUse": true,
+        "classic_B_canUse": true,
+        "classic_C_canUse": true,
+        "classic_D_canUse": true,
+        "classic_E_canUse": true,
+        "delicate_A_canUse": true,
+        "delicate_B_canUse": true,
+        "delicate_C_canUse": true,
+        "delicate_D_canUse": true,
+        "delicate_E_canUse": true,
+        "luxury_A_canUse": true,
+        "luxury_B_canUse": true,
+        "luxury_C_canUse": true,
+        "luxury_D_canUse": true,
+        "luxury_E_canUse": true
+      },
+      "id": 5163
+    },
+    {
+      "date": "2024-02-29",
+      "availableCount": {
+        "classic": 5,
+        "delicate": 5,
+        "luxury": 5
+      },
+      "status": {
+        "classic_A_canUse": true,
+        "classic_B_canUse": true,
+        "classic_C_canUse": true,
+        "classic_D_canUse": true,
+        "classic_E_canUse": true,
+        "delicate_A_canUse": true,
+        "delicate_B_canUse": true,
+        "delicate_C_canUse": true,
+        "delicate_D_canUse": true,
+        "delicate_E_canUse": true,
+        "luxury_A_canUse": true,
+        "luxury_B_canUse": true,
+        "luxury_C_canUse": true,
+        "luxury_D_canUse": true,
+        "luxury_E_canUse": true
+      },
+      "id": 5164
     }
   ],
   "bookings": [

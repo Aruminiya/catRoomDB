@@ -678,6 +678,7 @@
       "emergencyContactPerson": "陳太太",
       "emergencyContactPhone": "0912333456",
       "emergencyContactRelation": "夫妻",
+      "memberStatus": "在職中",
       "lastLoginTime": "",
       "role": "admin",
       "id": 1052
@@ -696,6 +697,7 @@
       "emergencyContactPerson": "周爸爸",
       "emergencyContactPhone": "0988888888",
       "emergencyContactRelation": "父女",
+      "memberStatus": "在職中",
       "lastLoginTime": "",
       "role": "admin",
       "id": 1053
@@ -714,6 +716,7 @@
       "emergencyContactPerson": "小林",
       "emergencyContactPhone": "0933567888",
       "emergencyContactRelation": "夫妻",
+      "memberStatus": "在職中",
       "lastLoginTime": "",
       "role": "admin",
       "id": 1054
@@ -732,6 +735,7 @@
       "emergencyContactPerson": "殷謀",
       "emergencyContactPhone": "0977333222",
       "emergencyContactRelation": "姐弟",
+      "memberStatus": "在職中",
       "lastLoginTime": "",
       "role": "admin",
       "id": 1055

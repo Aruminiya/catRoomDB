@@ -3801,7 +3801,7 @@
     {
       "date": "2023-10-21",
       "availableCount": {
-        "classic": 4,
+        "classic": 3,
         "delicate": 4,
         "luxury": 4
       },
@@ -3827,8 +3827,8 @@
     {
       "date": "2023-10-22",
       "availableCount": {
-        "classic": 4,
-        "delicate": 4,
+        "classic": 3,
+        "delicate": 3,
         "luxury": 4
       },
       "status": {
@@ -3853,9 +3853,9 @@
     {
       "date": "2023-10-23",
       "availableCount": {
-        "classic": 4,
-        "delicate": 4,
-        "luxury": 4
+        "classic": 3,
+        "delicate": 3,
+        "luxury": 3
       },
       "status": {
         "classic_A_canUse": true,
@@ -3879,9 +3879,9 @@
     {
       "date": "2023-10-24",
       "availableCount": {
-        "classic": 4,
-        "delicate": 4,
-        "luxury": 5
+        "classic": 3,
+        "delicate": 3,
+        "luxury": 4
       },
       "status": {
         "classic_A_canUse": true,
@@ -3905,9 +3905,9 @@
     {
       "date": "2023-10-25",
       "availableCount": {
-        "classic": 5,
-        "delicate": 4,
-        "luxury": 5
+        "classic": 3,
+        "delicate": 3,
+        "luxury": 4
       },
       "status": {
         "classic_A_canUse": true,
@@ -3931,9 +3931,9 @@
     {
       "date": "2023-10-26",
       "availableCount": {
-        "classic": 5,
-        "delicate": 5,
-        "luxury": 5
+        "classic": 3,
+        "delicate": 4,
+        "luxury": 3
       },
       "status": {
         "classic_A_canUse": true,
@@ -3957,9 +3957,9 @@
     {
       "date": "2023-10-27",
       "availableCount": {
-        "classic": 5,
-        "delicate": 5,
-        "luxury": 5
+        "classic": 3,
+        "delicate": 4,
+        "luxury": 3
       },
       "status": {
         "classic_A_canUse": true,
@@ -3983,9 +3983,9 @@
     {
       "date": "2023-10-28",
       "availableCount": {
-        "classic": 5,
-        "delicate": 5,
-        "luxury": 5
+        "classic": 3,
+        "delicate": 4,
+        "luxury": 3
       },
       "status": {
         "classic_A_canUse": true,
@@ -4009,9 +4009,9 @@
     {
       "date": "2023-10-29",
       "availableCount": {
-        "classic": 5,
+        "classic": 3,
         "delicate": 5,
-        "luxury": 5
+        "luxury": 4
       },
       "status": {
         "classic_A_canUse": true,
@@ -4035,7 +4035,7 @@
     {
       "date": "2023-10-30",
       "availableCount": {
-        "classic": 5,
+        "classic": 2,
         "delicate": 5,
         "luxury": 5
       },
@@ -4061,7 +4061,7 @@
     {
       "date": "2023-10-31",
       "availableCount": {
-        "classic": 5,
+        "classic": 2,
         "delicate": 5,
         "luxury": 5
       },
@@ -4087,9 +4087,9 @@
     {
       "date": "2023-11-01",
       "availableCount": {
-        "classic": 5,
-        "delicate": 5,
-        "luxury": 5
+        "classic": 2,
+        "delicate": 4,
+        "luxury": 4
       },
       "status": {
         "classic_A_canUse": true,
@@ -4113,9 +4113,9 @@
     {
       "date": "2023-11-02",
       "availableCount": {
-        "classic": 5,
-        "delicate": 5,
-        "luxury": 5
+        "classic": 2,
+        "delicate": 3,
+        "luxury": 4
       },
       "status": {
         "classic_A_canUse": true,
@@ -4139,9 +4139,9 @@
     {
       "date": "2023-11-03",
       "availableCount": {
-        "classic": 5,
-        "delicate": 5,
-        "luxury": 5
+        "classic": 4,
+        "delicate": 3,
+        "luxury": 3
       },
       "status": {
         "classic_A_canUse": true,
@@ -4166,8 +4166,8 @@
       "date": "2023-11-04",
       "availableCount": {
         "classic": 5,
-        "delicate": 5,
-        "luxury": 5
+        "delicate": 4,
+        "luxury": 3
       },
       "status": {
         "classic_A_canUse": true,
@@ -4193,7 +4193,7 @@
       "availableCount": {
         "classic": 5,
         "delicate": 5,
-        "luxury": 5
+        "luxury": 2
       },
       "status": {
         "classic_A_canUse": true,
@@ -4217,9 +4217,9 @@
     {
       "date": "2023-11-06",
       "availableCount": {
-        "classic": 5,
-        "delicate": 5,
-        "luxury": 5
+        "classic": 4,
+        "delicate": 4,
+        "luxury": 3
       },
       "status": {
         "classic_A_canUse": true,
@@ -4243,9 +4243,9 @@
     {
       "date": "2023-11-07",
       "availableCount": {
-        "classic": 5,
-        "delicate": 5,
-        "luxury": 5
+        "classic": 2,
+        "delicate": 3,
+        "luxury": 4
       },
       "status": {
         "classic_A_canUse": true,
@@ -4269,8 +4269,8 @@
     {
       "date": "2023-11-08",
       "availableCount": {
-        "classic": 5,
-        "delicate": 5,
+        "classic": 1,
+        "delicate": 1,
         "luxury": 5
       },
       "status": {
@@ -4295,9 +4295,9 @@
     {
       "date": "2023-11-09",
       "availableCount": {
-        "classic": 5,
-        "delicate": 5,
-        "luxury": 5
+        "classic": 2,
+        "delicate": 2,
+        "luxury": 3
       },
       "status": {
         "classic_A_canUse": true,
@@ -4321,9 +4321,9 @@
     {
       "date": "2023-11-10",
       "availableCount": {
-        "classic": 5,
-        "delicate": 5,
-        "luxury": 5
+        "classic": 4,
+        "delicate": 3,
+        "luxury": 3
       },
       "status": {
         "classic_A_canUse": true,
@@ -4349,7 +4349,7 @@
       "availableCount": {
         "classic": 5,
         "delicate": 5,
-        "luxury": 5
+        "luxury": 3
       },
       "status": {
         "classic_A_canUse": true,
@@ -7975,16 +7975,20 @@
       "id": 473
     },
     {
-      "userId": 1045,
-      "bookingDate": "2022-01-07",
-      "checkIn": "2022-02-09",
-      "checkOut": "2022-02-10",
-      "roomId": 52,
-      "state": "已退房",
-      "quantity": 4,
-      "price": 5600,
-      "cats": [225, 226, 276],
-      "history": [978],
+      "userId": 1001,
+      "bookingDate": "2023-10-16",
+      "checkIn": "2023-10-21",
+      "checkOut": "2023-10-24",
+      "roomId": 51,
+      "state": "已預定",
+      "quantity": 3,
+      "price": 2400,
+      "cats": [
+        201
+      ],
+      "history": [
+        978
+      ],
       "remark": "",
       "feedback": "",
       "admin": {
@@ -7993,22 +7997,633 @@
       "id": 474
     },
     {
-      "userId": 1045,
-      "bookingDate": "2022-06-05",
-      "checkIn": "2022-07-11",
-      "checkOut": "2022-07-14",
+      "userId": 1002,
+      "bookingDate": "2023-10-12",
+      "checkIn": "2023-10-22",
+      "checkOut": "2023-10-25",
       "roomId": 52,
-      "state": "已取消",
-      "quantity": 2,
-      "price": 5600,
-      "cats": [225, 226],
-      "history": [979],
+      "state": "已預定",
+      "quantity": 3,
+      "price": 3000,
+      "cats": [
+        231
+      ],
+      "history": [
+        979
+      ],
       "remark": "",
       "feedback": "",
       "admin": {
         "userId": 0
       },
       "id": 475
+    },
+    {
+      "userId": 1003,
+      "bookingDate": "2023-10-14",
+      "checkIn": "2023-10-23",
+      "checkOut": "2023-10-26",
+      "roomId": 53,
+      "state": "已預定",
+      "quantity": 3,
+      "price": 5400,
+      "cats": [
+        202,
+        232
+      ],
+      "history": [
+        980
+      ],
+      "remark": "",
+      "feedback": "",
+      "admin": {
+        "userId": 0
+      },
+      "id": 476
+    },
+    {
+      "userId": 1004,
+      "bookingDate": "2023-10-15",
+      "checkIn": "2023-10-24",
+      "checkOut": "2023-10-28",
+      "roomId": 51,
+      "state": "已預定",
+      "quantity": 4,
+      "price": 3200,
+      "cats": [
+        233
+      ],
+      "history": [
+        981
+      ],
+      "remark": "",
+      "feedback": "",
+      "admin": {
+        "userId": 0
+      },
+      "id": 477
+    },
+    {
+      "userId": 1005,
+      "bookingDate": "2023-10-16",
+      "checkIn": "2023-10-25",
+      "checkOut": "2023-10-29",
+      "roomId": 51,
+      "state": "已預定",
+      "quantity": 4,
+      "price": 4400,
+      "cats": [
+        234,
+        235
+      ],
+      "history": [
+        982
+      ],
+      "remark": "",
+      "feedback": "",
+      "admin": {
+        "userId": 0
+      },
+      "id": 478
+    },
+    {
+      "userId": 1006,
+      "bookingDate": "2023-10-16",
+      "checkIn": "2023-10-25",
+      "checkOut": "2023-10-29",
+      "roomId": 52,
+      "state": "已預定",
+      "quantity": 4,
+      "price": 5200,
+      "cats": [
+        203,
+        204
+      ],
+      "history": [
+        983
+      ],
+      "remark": "",
+      "feedback": "",
+      "admin": {
+        "userId": 0
+      },
+      "id": 479
+    },
+    {
+      "userId": 1007,
+      "bookingDate": "2023-10-17",
+      "checkIn": "2023-10-26",
+      "checkOut": "2023-10-30",
+      "roomId": 53,
+      "state": "已預定",
+      "quantity": 4,
+      "price": 7200,
+      "cats": [
+        205,
+        236
+      ],
+      "history": [
+        984
+      ],
+      "remark": "",
+      "feedback": "",
+      "admin": {
+        "userId": 0
+      },
+      "id": 480
+    },
+    {
+      "userId": 1008,
+      "bookingDate": "2023-10-17",
+      "checkIn": "2023-10-26",
+      "checkOut": "2023-10-29",
+      "roomId": 53,
+      "state": "已預定",
+      "quantity": 3,
+      "price": 5400,
+      "cats": [
+        206,
+        237
+      ],
+      "history": [
+        985
+      ],
+      "remark": "",
+      "feedback": "",
+      "admin": {
+        "userId": 0
+      },
+      "id": 481
+    },
+    {
+      "userId": 1009,
+      "bookingDate": "2023-10-17",
+      "checkIn": "2023-10-28",
+      "checkOut": "2023-10-31",
+      "roomId": 51,
+      "state": "已預定",
+      "quantity": 3,
+      "price": 2400,
+      "cats": [
+        207
+      ],
+      "history": [
+        986
+      ],
+      "remark": "",
+      "feedback": "",
+      "admin": {
+        "userId": 0
+      },
+      "id": 482
+    },
+    {
+      "userId": 1010,
+      "bookingDate": "2023-10-18",
+      "checkIn": "2023-10-29",
+      "checkOut": "2023-11-01",
+      "roomId": 51,
+      "state": "已預定",
+      "quantity": 3,
+      "price": 3300,
+      "cats": [
+        238,
+        239
+      ],
+      "history": [
+        987
+      ],
+      "remark": "",
+      "feedback": "",
+      "admin": {
+        "userId": 0
+      },
+      "id": 483
+    },
+    {
+      "userId": 1011,
+      "bookingDate": "2023-10-18",
+      "checkIn": "2023-10-30",
+      "checkOut": "2023-11-03",
+      "roomId": 51,
+      "state": "已預定",
+      "quantity": 4,
+      "price": 3200,
+      "cats": [
+        208
+      ],
+      "history": [
+        988
+      ],
+      "remark": "",
+      "feedback": "",
+      "admin": {
+        "userId": 0
+      },
+      "id": 484
+    },
+    {
+      "userId": 1012,
+      "bookingDate": "2023-10-19",
+      "checkIn": "2023-10-31",
+      "checkOut": "2023-11-03",
+      "roomId": 51,
+      "state": "已預定",
+      "quantity": 3,
+      "price": 3300,
+      "cats": [
+        209,
+        240
+      ],
+      "history": [
+        989
+      ],
+      "remark": "",
+      "feedback": "",
+      "admin": {
+        "userId": 0
+      },
+      "id": 485
+    },
+    {
+      "userId": 1013,
+      "bookingDate": "2023-10-19",
+      "checkIn": "2023-11-01",
+      "checkOut": "2023-11-04",
+      "roomId": 53,
+      "state": "已預定",
+      "quantity": 3,
+      "price": 4500,
+      "cats": [
+        241
+      ],
+      "history": [
+        990
+      ],
+      "remark": "",
+      "feedback": "",
+      "admin": {
+        "userId": 0
+      },
+      "id": 486
+    },
+    {
+      "userId": 1014,
+      "bookingDate": "2023-10-20",
+      "checkIn": "2023-11-01",
+      "checkOut": "2023-11-04",
+      "roomId": 52,
+      "state": "已預定",
+      "quantity": 3,
+      "price": 3000,
+      "cats": [
+        242
+      ],
+      "history": [
+        991
+      ],
+      "remark": "",
+      "feedback": "",
+      "admin": {
+        "userId": 0
+      },
+      "id": 487
+    },
+    {
+      "userId": 1015,
+      "bookingDate": "2023-10-21",
+      "checkIn": "2023-11-01",
+      "checkOut": "2023-11-04",
+      "roomId": 51,
+      "state": "已預定",
+      "quantity": 3,
+      "price": 4200,
+      "cats": [
+        210,
+        211,
+        243
+      ],
+      "history": [
+        992
+      ],
+      "remark": "",
+      "feedback": "",
+      "admin": {
+        "userId": 0
+      },
+      "id": 488
+    },
+    {
+      "userId": 1016,
+      "bookingDate": "2023-10-22",
+      "checkIn": "2023-11-02",
+      "checkOut": "2023-11-05",
+      "roomId": 52,
+      "state": "已預定",
+      "quantity": 3,
+      "price": 3900,
+      "cats": [
+        244,
+        245
+      ],
+      "history": [
+        993
+      ],
+      "remark": "",
+      "feedback": "",
+      "admin": {
+        "userId": 0
+      },
+      "id": 489
+    },
+    {
+      "userId": 1017,
+      "bookingDate": "2023-10-23",
+      "checkIn": "2023-11-03",
+      "checkOut": "2023-11-06",
+      "roomId": 53,
+      "state": "已預定",
+      "quantity": 3,
+      "price": 4500,
+      "cats": [
+        246
+      ],
+      "history": [
+        994
+      ],
+      "remark": "",
+      "feedback": "",
+      "admin": {
+        "userId": 0
+      },
+      "id": 490
+    },
+    {
+      "userId": 1018,
+      "bookingDate": "2023-10-24",
+      "checkIn": "2023-11-04",
+      "checkOut": "2023-11-07",
+      "roomId": 53,
+      "state": "已預定",
+      "quantity": 3,
+      "price": 4500,
+      "cats": [
+        212
+      ],
+      "history": [
+        995
+      ],
+      "remark": "",
+      "feedback": "",
+      "admin": {
+        "userId": 0
+      },
+      "id": 491
+    },
+    {
+      "userId": 1019,
+      "bookingDate": "2023-10-26",
+      "checkIn": "2023-11-05",
+      "checkOut": "2023-11-08",
+      "roomId": 53,
+      "state": "已預定",
+      "quantity": 3,
+      "price": 4500,
+      "cats": [
+        247
+      ],
+      "history": [
+        996
+      ],
+      "remark": "",
+      "feedback": "",
+      "admin": {
+        "userId": 0
+      },
+      "id": 492
+    },
+    {
+      "userId": 1018,
+      "bookingDate": "2023-10-26",
+      "checkIn": "2023-11-06",
+      "checkOut": "2023-11-09",
+      "roomId": 52,
+      "state": "已預定",
+      "quantity": 3,
+      "price": 3000,
+      "cats": [
+        212
+      ],
+      "history": [
+        997
+      ],
+      "remark": "",
+      "feedback": "",
+      "admin": {
+        "userId": 0
+      },
+      "id": 493
+    },
+    {
+      "userId": 1019,
+      "bookingDate": "2023-10-26",
+      "checkIn": "2023-11-07",
+      "checkOut": "2023-11-10",
+      "roomId": 52,
+      "state": "已預定",
+      "quantity": 3,
+      "price": 3000,
+      "cats": [
+        247
+      ],
+      "history": [
+        998
+      ],
+      "remark": "",
+      "feedback": "",
+      "admin": {
+        "userId": 0
+      },
+      "id": 494
+    },
+    {
+      "userId": 1020,
+      "bookingDate": "2023-10-26",
+      "checkIn": "2023-11-08",
+      "checkOut": "2023-11-11",
+      "roomId": 52,
+      "state": "已預定",
+      "quantity": 3,
+      "price": 3000,
+      "cats": [
+        213
+      ],
+      "history": [
+        999
+      ],
+      "remark": "",
+      "feedback": "",
+      "admin": {
+        "userId": 0
+      },
+      "id": 495
+    },
+    {
+      "userId": 1022,
+      "bookingDate": "2023-10-26",
+      "checkIn": "2023-11-09",
+      "checkOut": "2023-11-12",
+      "roomId": 53,
+      "state": "已預定",
+      "quantity": 3,
+      "price": 5400,
+      "cats": [
+        250,
+        251
+      ],
+      "history": [
+        1000
+      ],
+      "remark": "",
+      "feedback": "",
+      "admin": {
+        "userId": 0
+      },
+      "id": 496
+    },
+    {
+      "userId": 1023,
+      "bookingDate": "2023-10-26",
+      "checkIn": "2023-11-06",
+      "checkOut": "2023-11-09",
+      "roomId": 51,
+      "state": "已預定",
+      "quantity": 3,
+      "price": 2400,
+      "cats": [
+        252
+      ],
+      "history": [
+        1001
+      ],
+      "remark": "",
+      "feedback": "",
+      "admin": {
+        "userId": 0
+      },
+      "id": 497
+    },
+    {
+      "userId": 1024,
+      "bookingDate": "2023-10-26",
+      "checkIn": "2023-11-07",
+      "checkOut": "2023-11-10",
+      "roomId": 51,
+      "state": "已預定",
+      "quantity": 3,
+      "price": 2400,
+      "cats": [
+        253
+      ],
+      "history": [
+        1002
+      ],
+      "remark": "",
+      "feedback": "",
+      "admin": {
+        "userId": 0
+      },
+      "id": 498
+    },
+    {
+      "userId": 1025,
+      "bookingDate": "2023-10-27",
+      "checkIn": "2023-11-07",
+      "checkOut": "2023-11-10",
+      "roomId": 51,
+      "state": "已預定",
+      "quantity": 3,
+      "price": 2400,
+      "cats": [
+        215
+      ],
+      "history": [
+        1003
+      ],
+      "remark": "",
+      "feedback": "",
+      "admin": {
+        "userId": 0
+      },
+      "id": 499
+    },
+    {
+      "userId": 1026,
+      "bookingDate": "2023-10-27",
+      "checkIn": "2023-11-08",
+      "checkOut": "2023-11-11",
+      "roomId": 51,
+      "state": "已預定",
+      "quantity": 3,
+      "price": 3300,
+      "cats": [
+        254,
+        255
+      ],
+      "history": [
+        1004
+      ],
+      "remark": "",
+      "feedback": "",
+      "admin": {
+        "userId": 0
+      },
+      "id": 500
+    },
+    {
+      "userId": 1027,
+      "bookingDate": "2023-10-27",
+      "checkIn": "2023-11-08",
+      "checkOut": "2023-11-11",
+      "roomId": 52,
+      "state": "已預定",
+      "quantity": 3,
+      "price": 3900,
+      "cats": [
+        216,
+        257
+      ],
+      "history": [
+        1005
+      ],
+      "remark": "",
+      "feedback": "",
+      "admin": {
+        "userId": 0
+      },
+      "id": 501
+    },
+    {
+      "userId": 1028,
+      "bookingDate": "2023-10-27",
+      "checkIn": "2023-11-09",
+      "checkOut": "2023-11-12",
+      "roomId": 53,
+      "state": "已預定",
+      "quantity": 3,
+      "price": 4500,
+      "cats": [
+        258
+      ],
+      "history": [
+        1006
+      ],
+      "remark": "",
+      "feedback": "",
+      "admin": {
+        "userId": 0
+      },
+      "id": 502
     }
   ],
   "bookingHistorys": [
@@ -9091,32 +9706,410 @@
       "id": 977
     },
     {
-      "updateTime": "2021-02-10 10:46:29 am",
-      "state": "已退房",
-      "quantity": 4,
-      "roomType": "精緻房",
-      "price": 5600,
+      "updateTime": "2023-10-16 12:08:23 pm",
+      "state": "已預定",
+      "quantity": 3,
+      "roomType": "經典房",
+      "price": 2400,
       "admin": "user",
       "remark": "",
       "catNum": 1,
-      "checkIn": "2022-02-09",
-      "checkOut": "2022-02-10",
+      "checkIn": "2023-10-21",
+      "checkOut": "2023-10-24",
       "bookingsId": 474,
       "id": 978
     },
     {
-      "updateTime": "2023-10-02 10:46:29 am",
+      "updateTime": "2023-10-12 12:08:40 pm",
       "state": "已預定",
-      "quantity": 4,
+      "quantity": 3,
       "roomType": "精緻房",
-      "price": 4000,
+      "price": 3000,
       "admin": "user",
       "remark": "",
       "catNum": 1,
-      "checkIn": "2022-07-11",
-      "checkOut": "2022-07-14",
+      "checkIn": "2023-10-22",
+      "checkOut": "2023-10-25",
       "bookingsId": 475,
       "id": 979
+    },
+    {
+      "updateTime": "2023-10-14 12:08:54 pm",
+      "state": "已預定",
+      "quantity": 3,
+      "roomType": "豪華房",
+      "price": 5400,
+      "admin": "user",
+      "remark": "",
+      "catNum": 2,
+      "checkIn": "2023-10-23",
+      "checkOut": "2023-10-26",
+      "bookingsId": 476,
+      "id": 980
+    },
+    {
+      "updateTime": "2023-10-15 12:09:19 pm",
+      "state": "已預定",
+      "quantity": 4,
+      "roomType": "經典房",
+      "price": 3200,
+      "admin": "user",
+      "remark": "",
+      "catNum": 1,
+      "checkIn": "2023-10-24",
+      "checkOut": "2023-10-28",
+      "bookingsId": 477,
+      "id": 981
+    },
+    {
+      "updateTime": "2023-10-16 12:09:31 pm",
+      "state": "已預定",
+      "quantity": 4,
+      "roomType": "經典房",
+      "price": 4400,
+      "admin": "user",
+      "remark": "",
+      "catNum": 2,
+      "checkIn": "2023-10-25",
+      "checkOut": "2023-10-29",
+      "bookingsId": 478,
+      "id": 982
+    },
+    {
+      "updateTime": "2023-10-16 12:09:52 pm",
+      "state": "已預定",
+      "quantity": 4,
+      "roomType": "精緻房",
+      "price": 5200,
+      "admin": "user",
+      "remark": "",
+      "catNum": 2,
+      "checkIn": "2023-10-25",
+      "checkOut": "2023-10-29",
+      "bookingsId": 479,
+      "id": 983
+    },
+    {
+      "updateTime": "2023-10-17 12:10:18 pm",
+      "state": "已預定",
+      "quantity": 4,
+      "roomType": "豪華房",
+      "price": 7200,
+      "admin": "user",
+      "remark": "",
+      "catNum": 2,
+      "checkIn": "2023-10-26",
+      "checkOut": "2023-10-30",
+      "bookingsId": 480,
+      "id": 984
+    },
+    {
+      "updateTime": "2023-10-17 12:10:31 pm",
+      "state": "已預定",
+      "quantity": 3,
+      "roomType": "豪華房",
+      "price": 5400,
+      "admin": "user",
+      "remark": "",
+      "catNum": 2,
+      "checkIn": "2023-10-26",
+      "checkOut": "2023-10-29",
+      "bookingsId": 481,
+      "id": 985
+    },
+    {
+      "updateTime": "2023-10-17 12:11:01 pm",
+      "state": "已預定",
+      "quantity": 3,
+      "roomType": "經典房",
+      "price": 2400,
+      "admin": "user",
+      "remark": "",
+      "catNum": 1,
+      "checkIn": "2023-10-28",
+      "checkOut": "2023-10-31",
+      "bookingsId": 482,
+      "id": 986
+    },
+    {
+      "updateTime": "2023-10-18 12:11:13 pm",
+      "state": "已預定",
+      "quantity": 3,
+      "roomType": "經典房",
+      "price": 3300,
+      "admin": "user",
+      "remark": "",
+      "catNum": 2,
+      "checkIn": "2023-10-29",
+      "checkOut": "2023-11-01",
+      "bookingsId": 483,
+      "id": 987
+    },
+    {
+      "updateTime": "2023-10-18 12:11:28 pm",
+      "state": "已預定",
+      "quantity": 4,
+      "roomType": "經典房",
+      "price": 3200,
+      "admin": "user",
+      "remark": "",
+      "catNum": 1,
+      "checkIn": "2023-10-30",
+      "checkOut": "2023-11-03",
+      "bookingsId": 484,
+      "id": 988
+    },
+    {
+      "updateTime": "2023-10-19 12:12:26 pm",
+      "state": "已預定",
+      "quantity": 3,
+      "roomType": "經典房",
+      "price": 3300,
+      "admin": "user",
+      "remark": "",
+      "catNum": 2,
+      "checkIn": "2023-10-31",
+      "checkOut": "2023-11-03",
+      "bookingsId": 485,
+      "id": 989
+    },
+    {
+      "updateTime": "2023-10-19 12:12:39 pm",
+      "state": "已預定",
+      "quantity": 3,
+      "roomType": "豪華房",
+      "price": 4500,
+      "admin": "user",
+      "remark": "",
+      "catNum": 1,
+      "checkIn": "2023-11-01",
+      "checkOut": "2023-11-04",
+      "bookingsId": 486,
+      "id": 990
+    },
+    {
+      "updateTime": "2023-10-20 12:12:55 pm",
+      "state": "已預定",
+      "quantity": 3,
+      "roomType": "精緻房",
+      "price": 3000,
+      "admin": "user",
+      "remark": "",
+      "catNum": 1,
+      "checkIn": "2023-11-01",
+      "checkOut": "2023-11-04",
+      "bookingsId": 487,
+      "id": 991
+    },
+    {
+      "updateTime": "2023-10-21 12:13:10 pm",
+      "state": "已預定",
+      "quantity": 3,
+      "roomType": "經典房",
+      "price": 4200,
+      "admin": "user",
+      "remark": "",
+      "catNum": 3,
+      "checkIn": "2023-11-01",
+      "checkOut": "2023-11-04",
+      "bookingsId": 488,
+      "id": 992
+    },
+    {
+      "updateTime": "2023-10-22 12:13:41 pm",
+      "state": "已預定",
+      "quantity": 3,
+      "roomType": "精緻房",
+      "price": 3900,
+      "admin": "user",
+      "remark": "",
+      "catNum": 2,
+      "checkIn": "2023-11-02",
+      "checkOut": "2023-11-05",
+      "bookingsId": 489,
+      "id": 993
+    },
+    {
+      "updateTime": "2023-10-23 12:13:57 pm",
+      "state": "已預定",
+      "quantity": 3,
+      "roomType": "豪華房",
+      "price": 4500,
+      "admin": "user",
+      "remark": "",
+      "catNum": 1,
+      "checkIn": "2023-11-03",
+      "checkOut": "2023-11-06",
+      "bookingsId": 490,
+      "id": 994
+    },
+    {
+      "updateTime": "2023-10-24 12:14:06 pm",
+      "state": "已預定",
+      "quantity": 3,
+      "roomType": "豪華房",
+      "price": 4500,
+      "admin": "user",
+      "remark": "",
+      "catNum": 1,
+      "checkIn": "2023-11-04",
+      "checkOut": "2023-11-07",
+      "bookingsId": 491,
+      "id": 995
+    },
+    {
+      "updateTime": "2023-10-26 12:14:23 pm",
+      "state": "已預定",
+      "quantity": 3,
+      "roomType": "豪華房",
+      "price": 4500,
+      "admin": "user",
+      "remark": "",
+      "catNum": 1,
+      "checkIn": "2023-11-05",
+      "checkOut": "2023-11-08",
+      "bookingsId": 492,
+      "id": 996
+    },
+    {
+      "updateTime": "2023-10-26 12:14:40 pm",
+      "state": "已預定",
+      "quantity": 3,
+      "roomType": "精緻房",
+      "price": 3000,
+      "admin": "user",
+      "remark": "",
+      "catNum": 1,
+      "checkIn": "2023-11-06",
+      "checkOut": "2023-11-09",
+      "bookingsId": 493,
+      "id": 997
+    },
+    {
+      "updateTime": "2023-10-26 12:14:47 pm",
+      "state": "已預定",
+      "quantity": 3,
+      "roomType": "精緻房",
+      "price": 3000,
+      "admin": "user",
+      "remark": "",
+      "catNum": 1,
+      "checkIn": "2023-11-07",
+      "checkOut": "2023-11-10",
+      "bookingsId": 494,
+      "id": 998
+    },
+    {
+      "updateTime": "2023-10-26 12:14:59 pm",
+      "state": "已預定",
+      "quantity": 3,
+      "roomType": "精緻房",
+      "price": 3000,
+      "admin": "user",
+      "remark": "",
+      "catNum": 1,
+      "checkIn": "2023-11-08",
+      "checkOut": "2023-11-11",
+      "bookingsId": 495,
+      "id": 999
+    },
+    {
+      "updateTime": "2023-10-26 12:15:11 pm",
+      "state": "已預定",
+      "quantity": 3,
+      "roomType": "豪華房",
+      "price": 5400,
+      "admin": "user",
+      "remark": "",
+      "catNum": 2,
+      "checkIn": "2023-11-09",
+      "checkOut": "2023-11-12",
+      "bookingsId": 496,
+      "id": 1000
+    },
+    {
+      "updateTime": "2023-10-26 12:15:48 pm",
+      "state": "已預定",
+      "quantity": 3,
+      "roomType": "經典房",
+      "price": 2400,
+      "admin": "user",
+      "remark": "",
+      "catNum": 1,
+      "checkIn": "2023-11-06",
+      "checkOut": "2023-11-09",
+      "bookingsId": 497,
+      "id": 1001
+    },
+    {
+      "updateTime": "2023-10-26 12:16:06 pm",
+      "state": "已預定",
+      "quantity": 3,
+      "roomType": "經典房",
+      "price": 2400,
+      "admin": "user",
+      "remark": "",
+      "catNum": 1,
+      "checkIn": "2023-11-07",
+      "checkOut": "2023-11-10",
+      "bookingsId": 498,
+      "id": 1002
+    },
+    {
+      "updateTime": "2023-10-27 12:16:16 pm",
+      "state": "已預定",
+      "quantity": 3,
+      "roomType": "經典房",
+      "price": 2400,
+      "admin": "user",
+      "remark": "",
+      "catNum": 1,
+      "checkIn": "2023-11-07",
+      "checkOut": "2023-11-10",
+      "bookingsId": 499,
+      "id": 1003
+    },
+    {
+      "updateTime": "2023-10-27 12:16:28 pm",
+      "state": "已預定",
+      "quantity": 3,
+      "roomType": "經典房",
+      "price": 3300,
+      "admin": "user",
+      "remark": "",
+      "catNum": 2,
+      "checkIn": "2023-11-08",
+      "checkOut": "2023-11-11",
+      "bookingsId": 500,
+      "id": 1004
+    },
+    {
+      "updateTime": "2023-10-27 12:16:52 pm",
+      "state": "已預定",
+      "quantity": 3,
+      "roomType": "精緻房",
+      "price": 3900,
+      "admin": "user",
+      "remark": "",
+      "catNum": 2,
+      "checkIn": "2023-11-08",
+      "checkOut": "2023-11-11",
+      "bookingsId": 501,
+      "id": 1005
+    },
+    {
+      "updateTime": "2023-10-27 12:17:05 pm",
+      "state": "已預定",
+      "quantity": 3,
+      "roomType": "豪華房",
+      "price": 4500,
+      "admin": "user",
+      "remark": "",
+      "catNum": 1,
+      "checkIn": "2023-11-09",
+      "checkOut": "2023-11-12",
+      "bookingsId": 502,
+      "id": 1006
     }
   ],
   "managers": [

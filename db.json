@@ -2340,7 +2340,7 @@
   "rooms": [
     {
       "name": "經典房",
-      "imageUrl": "https://imgur.com/a/Ab0NQ3P.jpg",
+      "imageUrl": "https://imgur.com/D66qW9W.jpg",
       "state": "已預定",
       "quantity": 3,
       "price": 800,
@@ -2358,7 +2358,7 @@
     },
     {
       "name": "精緻房",
-      "imageUrl": "https://imgur.com/a/w08CbZ1.jpg",
+      "imageUrl": "https://imgur.com/SnpjVmI.jpg",
       "state": "已預定",
       "quantity": 3,
       "price": 1000,
@@ -2377,7 +2377,7 @@
     },
     {
       "name": "豪華房",
-      "imageUrl": "https://imgur.com/a/0tsynXd.jpg",
+      "imageUrl": "https://imgur.com/hOyPsJi.jpg",
       "state": "已預定",
       "quantity": 3,
       "price": 1500,

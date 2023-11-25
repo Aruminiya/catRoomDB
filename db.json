@@ -667,7 +667,6 @@
       "email": "userTest052@gmail.com",
       "password": "$2a$10$eUm2wEWGJnz7k7wS/7300upHxOdN/Td4.R2ffAgRL9irQF1paopsu",
       "name": "陳奕辰",
-
       "gender": "male",
       "birthday": "1989-01-08",
       "phone": "0933333333",
@@ -2352,7 +2351,11 @@
         "平面貓砂盆",
         "優質貓砂"
       ],
-      "size": [105, 145, 300],
+      "size": [
+        105,
+        145,
+        300
+      ],
       "id": 51
     },
     {
@@ -2370,7 +2373,11 @@
         "平面貓砂盆",
         "優質貓砂"
       ],
-      "size": [155, 145, 300],
+      "size": [
+        155,
+        145,
+        300
+      ],
       "id": 52
     },
     {
@@ -2389,7 +2396,11 @@
         "優質貓砂",
         "高級貓抓板"
       ],
-      "size": [210, 145, 300],
+      "size": [
+        210,
+        145,
+        300
+      ],
       "id": 53
     }
   ],
@@ -2736,7 +2747,7 @@
       "date": "2023-12-24",
       "availableCount": {
         "classic": 3,
-        "delicate": 3,
+        "delicate": 4,
         "luxury": 2
       },
       "status": {
@@ -2762,7 +2773,7 @@
       "date": "2023-12-25",
       "availableCount": {
         "classic": 4,
-        "delicate": 3,
+        "delicate": 4,
         "luxury": 3
       },
       "status": {
@@ -2788,7 +2799,7 @@
       "date": "2023-12-26",
       "availableCount": {
         "classic": 3,
-        "delicate": 2,
+        "delicate": 3,
         "luxury": 4
       },
       "status": {
@@ -2814,7 +2825,7 @@
       "date": "2023-12-27",
       "availableCount": {
         "classic": 2,
-        "delicate": 2,
+        "delicate": 3,
         "luxury": 3
       },
       "status": {
@@ -4035,7 +4046,7 @@
     {
       "date": "2023-10-30",
       "availableCount": {
-        "classic": 2,
+        "classic": 3,
         "delicate": 5,
         "luxury": 5
       },
@@ -4061,7 +4072,7 @@
     {
       "date": "2023-10-31",
       "availableCount": {
-        "classic": 2,
+        "classic": 3,
         "delicate": 5,
         "luxury": 5
       },
@@ -4087,7 +4098,7 @@
     {
       "date": "2023-11-01",
       "availableCount": {
-        "classic": 2,
+        "classic": 3,
         "delicate": 4,
         "luxury": 4
       },
@@ -4113,7 +4124,7 @@
     {
       "date": "2023-11-02",
       "availableCount": {
-        "classic": 2,
+        "classic": 3,
         "delicate": 3,
         "luxury": 4
       },
@@ -4139,7 +4150,7 @@
     {
       "date": "2023-11-03",
       "availableCount": {
-        "classic": 4,
+        "classic": 5,
         "delicate": 3,
         "luxury": 3
       },
@@ -6669,8 +6680,12 @@
       "state": "已預定",
       "quantity": 2,
       "price": 1600,
-      "cats": [201],
-      "history": [901],
+      "cats": [
+        201
+      ],
+      "history": [
+        901
+      ],
       "remark": "飯後需要吃皮膚過敏的藥",
       "feedback": "服務棒，氣氛好",
       "admin": {
@@ -6687,8 +6702,12 @@
       "state": "已預定",
       "quantity": 3,
       "price": 2400,
-      "cats": [202],
-      "history": [902],
+      "cats": [
+        202
+      ],
+      "history": [
+        902
+      ],
       "remark": "寵物對特定食物過敏",
       "feedback": "很喜歡你們，下次會再來住",
       "admin": {
@@ -6705,8 +6724,14 @@
       "state": "已預定",
       "quantity": "2",
       "price": "2600",
-      "cats": [203, 204],
-      "history": [903, 927],
+      "cats": [
+        203,
+        204
+      ],
+      "history": [
+        903,
+        927
+      ],
       "remark": "貓咪非常怕生",
       "feedback": "寵物友善，環境乾淨明亮",
       "admin": {
@@ -6723,8 +6748,12 @@
       "state": "已預定",
       "quantity": 2,
       "price": 2000,
-      "cats": [205],
-      "history": [904],
+      "cats": [
+        205
+      ],
+      "history": [
+        904
+      ],
       "remark": "貓咪可能在新環境下產生焦慮，請給予溫暖的陪伴",
       "feedback": "員工態度親切，照顧細心",
       "admin": {
@@ -6741,8 +6770,12 @@
       "state": "已預定",
       "quantity": 6,
       "price": 9000,
-      "cats": [206],
-      "history": [905],
+      "cats": [
+        206
+      ],
+      "history": [
+        905
+      ],
       "remark": "貓咪非常怕生",
       "feedback": "設施完善，有專屬活動區",
       "admin": {
@@ -6759,8 +6792,12 @@
       "state": "已預定",
       "quantity": 2,
       "price": 1600,
-      "cats": [207],
-      "history": [906],
+      "cats": [
+        207
+      ],
+      "history": [
+        906
+      ],
       "remark": "貓咪非常愛吃, 請不要讓他發現零食",
       "feedback": "服務周到，安心放心",
       "admin": {
@@ -6774,11 +6811,16 @@
       "checkIn": "2023-12-24",
       "checkOut": "2023-12-27",
       "roomId": 52,
-      "state": "已預定",
+      "state": "已取消",
       "quantity": 3,
       "price": 3000,
-      "cats": [208],
-      "history": [907],
+      "cats": [
+        208
+      ],
+      "history": [
+        907,
+        1007
+      ],
       "remark": "貓咪非常怕生",
       "feedback": "提供美味餐點，貓咪愛吃",
       "admin": {
@@ -6795,8 +6837,12 @@
       "state": "已預定",
       "quantity": 7,
       "price": 5600,
-      "cats": [209],
-      "history": [908],
+      "cats": [
+        209
+      ],
+      "history": [
+        908
+      ],
       "remark": "貓齡較大",
       "feedback": "空間寬敞，寵物自在活動",
       "admin": {
@@ -6813,8 +6859,14 @@
       "state": "已預定",
       "quantity": "4",
       "price": "7200",
-      "cats": [210, 211],
-      "history": [909, 928],
+      "cats": [
+        210,
+        211
+      ],
+      "history": [
+        909,
+        928
+      ],
       "remark": "貓咪有固定的玩具，請提供以使其感到安心",
       "feedback": "環境安靜，寵物容易入睡",
       "admin": {
@@ -6831,8 +6883,12 @@
       "state": "已預定",
       "quantity": 3,
       "price": 2400,
-      "cats": [212],
-      "history": [910],
+      "cats": [
+        212
+      ],
+      "history": [
+        910
+      ],
       "remark": "貓咪可能在新環境下產生焦慮，請給予溫暖的陪伴",
       "feedback": "提供寵物用具，貼心便利",
       "admin": {
@@ -6849,8 +6905,12 @@
       "state": "已預定",
       "quantity": 3,
       "price": 3000,
-      "cats": [213],
-      "history": [911],
+      "cats": [
+        213
+      ],
+      "history": [
+        911
+      ],
       "remark": "貓咪非常怕生",
       "feedback": "安全措施完備，放心放假",
       "admin": {
@@ -6867,8 +6927,12 @@
       "state": "已預定",
       "quantity": 6,
       "price": 6000,
-      "cats": [214],
-      "history": [912],
+      "cats": [
+        214
+      ],
+      "history": [
+        912
+      ],
       "remark": "貓咪非常愛吃, 請不要讓他發現零食",
       "feedback": "交通便利，方便接送寵物",
       "admin": {
@@ -6885,8 +6949,12 @@
       "state": "已預定",
       "quantity": 6,
       "price": 6000,
-      "cats": [215],
-      "history": [913],
+      "cats": [
+        215
+      ],
+      "history": [
+        913
+      ],
       "remark": "貓咪非常愛吃, 請不要讓他發現零食",
       "feedback": "客房清潔，無異味",
       "admin": {
@@ -6903,8 +6971,12 @@
       "state": "已預定",
       "quantity": 5,
       "price": 7500,
-      "cats": [216],
-      "history": [914],
+      "cats": [
+        216
+      ],
+      "history": [
+        914
+      ],
       "remark": "",
       "feedback": "環境清幽，寵物放鬆",
       "admin": {
@@ -6921,8 +6993,12 @@
       "state": "已預定",
       "quantity": 3,
       "price": 3000,
-      "cats": [217],
-      "history": [915],
+      "cats": [
+        217
+      ],
+      "history": [
+        915
+      ],
       "remark": "貓齡較大",
       "feedback": "有專業看護，安心外出",
       "admin": {
@@ -6939,8 +7015,12 @@
       "state": "已預定",
       "quantity": 3,
       "price": 4500,
-      "cats": [218],
-      "history": [916],
+      "cats": [
+        218
+      ],
+      "history": [
+        916
+      ],
       "remark": "",
       "feedback": "貓咪有自己區域，不受打擾",
       "admin": {
@@ -6957,8 +7037,14 @@
       "state": "已預定",
       "quantity": "3",
       "price": "5400",
-      "cats": [219, 220],
-      "history": [917, 929],
+      "cats": [
+        219,
+        220
+      ],
+      "history": [
+        917,
+        929
+      ],
       "remark": "貓咪可能在新環境下產生焦慮，請給予溫暖的陪伴",
       "feedback": "提供玩具，寵物玩得開心",
       "admin": {
@@ -6975,8 +7061,12 @@
       "state": "已預定",
       "quantity": 3,
       "price": 4500,
-      "cats": [221],
-      "history": [918],
+      "cats": [
+        221
+      ],
+      "history": [
+        918
+      ],
       "remark": "貓咪有固定的玩具，請提供以使其感到安心",
       "feedback": "提供定期清潔，保持衛生",
       "admin": {
@@ -6993,8 +7083,12 @@
       "state": "已預定",
       "quantity": 5,
       "price": 7500,
-      "cats": [222],
-      "history": [919],
+      "cats": [
+        222
+      ],
+      "history": [
+        919
+      ],
       "remark": "貓咪非常愛吃, 請不要讓他發現零食",
       "feedback": "客房溫馨，貓咪安心",
       "admin": {
@@ -7011,8 +7105,12 @@
       "state": "已預定",
       "quantity": 3,
       "price": 2400,
-      "cats": [223],
-      "history": [920],
+      "cats": [
+        223
+      ],
+      "history": [
+        920
+      ],
       "remark": "貓齡較大",
       "feedback": "提供舒適床位，讓寵物好眠",
       "admin": {
@@ -7029,8 +7127,12 @@
       "state": "已預定",
       "quantity": 4,
       "price": 3200,
-      "cats": [224],
-      "history": [921],
+      "cats": [
+        224
+      ],
+      "history": [
+        921
+      ],
       "remark": "",
       "feedback": "環境安全，寵物無虞",
       "admin": {
@@ -7047,8 +7149,14 @@
       "state": "已預定",
       "quantity": "6",
       "price": "6600",
-      "cats": [225, 226],
-      "history": [922, 930],
+      "cats": [
+        225,
+        226
+      ],
+      "history": [
+        922,
+        930
+      ],
       "remark": "貓咪非常怕生",
       "feedback": "提供寵物美容，乾淨整潔",
       "admin": {
@@ -7065,8 +7173,12 @@
       "state": "已預定",
       "quantity": 6,
       "price": 4800,
-      "cats": [227],
-      "history": [923],
+      "cats": [
+        227
+      ],
+      "history": [
+        923
+      ],
       "remark": "",
       "feedback": "員工親切，寵物喜歡",
       "admin": {
@@ -7083,8 +7195,12 @@
       "state": "已預定",
       "quantity": 3,
       "price": 2400,
-      "cats": [228],
-      "history": [924],
+      "cats": [
+        228
+      ],
+      "history": [
+        924
+      ],
       "remark": "貓咪可能在新環境下產生焦慮，請給予溫暖的陪伴",
       "feedback": "空調設備完善，溫度適宜",
       "admin": {
@@ -7101,8 +7217,12 @@
       "state": "已預定",
       "quantity": 3,
       "price": 3000,
-      "cats": [229],
-      "history": [925],
+      "cats": [
+        229
+      ],
+      "history": [
+        925
+      ],
       "remark": "",
       "feedback": "設施現代，舒適愜意",
       "admin": {
@@ -7119,8 +7239,12 @@
       "state": "已預定",
       "quantity": 3,
       "price": 2400,
-      "cats": [230],
-      "history": [926],
+      "cats": [
+        230
+      ],
+      "history": [
+        926
+      ],
       "remark": "貓齡較大",
       "feedback": "給寵物家的感覺，舒適愜意",
       "admin": {
@@ -7137,8 +7261,12 @@
       "state": "已預定",
       "quantity": 3,
       "price": 2400,
-      "cats": [201],
-      "history": [931],
+      "cats": [
+        201
+      ],
+      "history": [
+        931
+      ],
       "remark": "",
       "feedback": "",
       "admin": {
@@ -7155,8 +7283,12 @@
       "state": "已預定",
       "quantity": 3,
       "price": 3000,
-      "cats": [231],
-      "history": [932],
+      "cats": [
+        231
+      ],
+      "history": [
+        932
+      ],
       "remark": "",
       "feedback": "",
       "admin": {
@@ -7173,8 +7305,12 @@
       "state": "已預定",
       "quantity": 3,
       "price": 4500,
-      "cats": [233],
-      "history": [933],
+      "cats": [
+        233
+      ],
+      "history": [
+        933
+      ],
       "remark": "",
       "feedback": "",
       "admin": {
@@ -7191,8 +7327,13 @@
       "state": "已預定",
       "quantity": 5,
       "price": 5500,
-      "cats": [234, 235],
-      "history": [934],
+      "cats": [
+        234,
+        235
+      ],
+      "history": [
+        934
+      ],
       "remark": "",
       "feedback": "",
       "admin": {
@@ -7209,8 +7350,13 @@
       "state": "已預定",
       "quantity": 4,
       "price": 5200,
-      "cats": [202, 232],
-      "history": [935],
+      "cats": [
+        202,
+        232
+      ],
+      "history": [
+        935
+      ],
       "remark": "",
       "feedback": "",
       "admin": {
@@ -7227,8 +7373,13 @@
       "state": "已預定",
       "quantity": 6,
       "price": 10800,
-      "cats": [206, 237],
-      "history": [936],
+      "cats": [
+        206,
+        237
+      ],
+      "history": [
+        936
+      ],
       "remark": "",
       "feedback": "",
       "admin": {
@@ -7245,8 +7396,12 @@
       "state": "已預定",
       "quantity": 3,
       "price": 4500,
-      "cats": [238],
-      "history": [937],
+      "cats": [
+        238
+      ],
+      "history": [
+        937
+      ],
       "remark": "",
       "feedback": "",
       "admin": {
@@ -7263,8 +7418,12 @@
       "state": "已預定",
       "quantity": 4,
       "price": 4000,
-      "cats": [241],
-      "history": [938],
+      "cats": [
+        241
+      ],
+      "history": [
+        938
+      ],
       "remark": "",
       "feedback": "",
       "admin": {
@@ -7281,8 +7440,12 @@
       "state": "已預定",
       "quantity": 3,
       "price": 2400,
-      "cats": [242],
-      "history": [939],
+      "cats": [
+        242
+      ],
+      "history": [
+        939
+      ],
       "remark": "",
       "feedback": "",
       "admin": {
@@ -7299,8 +7462,13 @@
       "state": "已預定",
       "quantity": 3,
       "price": 3300,
-      "cats": [244, 245],
-      "history": [940],
+      "cats": [
+        244,
+        245
+      ],
+      "history": [
+        940
+      ],
       "remark": "",
       "feedback": "",
       "admin": {
@@ -7317,8 +7485,12 @@
       "state": "已預定",
       "quantity": 4,
       "price": 6000,
-      "cats": [246],
-      "history": [941],
+      "cats": [
+        246
+      ],
+      "history": [
+        941
+      ],
       "remark": "",
       "feedback": "",
       "admin": {
@@ -7335,8 +7507,12 @@
       "state": "已預定",
       "quantity": 4,
       "price": 4000,
-      "cats": [212],
-      "history": [942],
+      "cats": [
+        212
+      ],
+      "history": [
+        942
+      ],
       "remark": "",
       "feedback": "",
       "admin": {
@@ -7353,8 +7529,12 @@
       "state": "已預定",
       "quantity": 3,
       "price": 2400,
-      "cats": [247],
-      "history": [943],
+      "cats": [
+        247
+      ],
+      "history": [
+        943
+      ],
       "remark": "",
       "feedback": "",
       "admin": {
@@ -7371,8 +7551,13 @@
       "state": "已預定",
       "quantity": 4,
       "price": 5200,
-      "cats": [250, 251],
-      "history": [944],
+      "cats": [
+        250,
+        251
+      ],
+      "history": [
+        944
+      ],
       "remark": "",
       "feedback": "",
       "admin": {
@@ -7389,8 +7574,12 @@
       "state": "已預定",
       "quantity": 3,
       "price": 4500,
-      "cats": [252],
-      "history": [945],
+      "cats": [
+        252
+      ],
+      "history": [
+        945
+      ],
       "remark": "",
       "feedback": "",
       "admin": {
@@ -7407,8 +7596,12 @@
       "state": "已預定",
       "quantity": 2,
       "price": 3000,
-      "cats": [253],
-      "history": [946],
+      "cats": [
+        253
+      ],
+      "history": [
+        946
+      ],
       "remark": "",
       "feedback": "",
       "admin": {
@@ -7425,8 +7618,12 @@
       "state": "已預定",
       "quantity": 4,
       "price": 3200,
-      "cats": [241],
-      "history": [947],
+      "cats": [
+        241
+      ],
+      "history": [
+        947
+      ],
       "remark": "",
       "feedback": "",
       "admin": {
@@ -7443,8 +7640,13 @@
       "state": "已預定",
       "quantity": 3,
       "price": 3300,
-      "cats": [203, 204],
-      "history": [948],
+      "cats": [
+        203,
+        204
+      ],
+      "history": [
+        948
+      ],
       "remark": "",
       "feedback": "",
       "admin": {
@@ -7461,8 +7663,14 @@
       "state": "已預定",
       "quantity": 3,
       "price": 4200,
-      "cats": [216, 256, 257],
-      "history": [949],
+      "cats": [
+        216,
+        256,
+        257
+      ],
+      "history": [
+        949
+      ],
       "remark": "",
       "feedback": "",
       "admin": {
@@ -7479,8 +7687,12 @@
       "state": "已預定",
       "quantity": 4,
       "price": 6000,
-      "cats": [258],
-      "history": [950],
+      "cats": [
+        258
+      ],
+      "history": [
+        950
+      ],
       "remark": "",
       "feedback": "",
       "admin": {
@@ -7497,8 +7709,13 @@
       "state": "已預定",
       "quantity": 2,
       "price": 2600,
-      "cats": [254, 255],
-      "history": [951],
+      "cats": [
+        254,
+        255
+      ],
+      "history": [
+        951
+      ],
       "remark": "",
       "feedback": "",
       "admin": {
@@ -7515,8 +7732,14 @@
       "state": "已預定",
       "quantity": 3,
       "price": 4800,
-      "cats": [216, 256, 257],
-      "history": [952],
+      "cats": [
+        216,
+        256,
+        257
+      ],
+      "history": [
+        952
+      ],
       "remark": "",
       "feedback": "",
       "admin": {
@@ -7533,8 +7756,12 @@
       "state": "已預定",
       "quantity": 3,
       "price": 3000,
-      "cats": [258],
-      "history": [953],
+      "cats": [
+        258
+      ],
+      "history": [
+        953
+      ],
       "remark": "",
       "feedback": "",
       "admin": {
@@ -7552,7 +7779,9 @@
       "quantity": 3,
       "price": 3000,
       "cats": [],
-      "history": [954],
+      "history": [
+        954
+      ],
       "remark": "",
       "feedback": "",
       "admin": {
@@ -7569,8 +7798,12 @@
       "state": "已預定",
       "quantity": 3,
       "price": 2400,
-      "cats": [259],
-      "history": [955],
+      "cats": [
+        259
+      ],
+      "history": [
+        955
+      ],
       "remark": "",
       "feedback": "",
       "admin": {
@@ -7587,8 +7820,12 @@
       "state": "已預定",
       "quantity": 3,
       "price": 2400,
-      "cats": [217],
-      "history": [956],
+      "cats": [
+        217
+      ],
+      "history": [
+        956
+      ],
       "remark": "",
       "feedback": "",
       "admin": {
@@ -7605,8 +7842,12 @@
       "state": "已預定",
       "quantity": 5,
       "price": 4000,
-      "cats": [259],
-      "history": [957],
+      "cats": [
+        259
+      ],
+      "history": [
+        957
+      ],
       "remark": "",
       "feedback": "",
       "admin": {
@@ -7623,8 +7864,12 @@
       "state": "已預定",
       "quantity": 5,
       "price": 5000,
-      "cats": [260],
-      "history": [958],
+      "cats": [
+        260
+      ],
+      "history": [
+        958
+      ],
       "remark": "",
       "feedback": "",
       "admin": {
@@ -7641,8 +7886,13 @@
       "state": "已預定",
       "quantity": 5,
       "price": 9000,
-      "cats": [218, 261],
-      "history": [959],
+      "cats": [
+        218,
+        261
+      ],
+      "history": [
+        959
+      ],
       "remark": "",
       "feedback": "",
       "admin": {
@@ -7659,8 +7909,13 @@
       "state": "已預定",
       "quantity": 4,
       "price": 7200,
-      "cats": [219, 220],
-      "history": [960],
+      "cats": [
+        219,
+        220
+      ],
+      "history": [
+        960
+      ],
       "remark": "",
       "feedback": "",
       "admin": {
@@ -7677,8 +7932,12 @@
       "state": "已預定",
       "quantity": 4,
       "price": 6000,
-      "cats": [262],
-      "history": [961],
+      "cats": [
+        262
+      ],
+      "history": [
+        961
+      ],
       "remark": "",
       "feedback": "",
       "admin": {
@@ -7695,8 +7954,13 @@
       "state": "已預定",
       "quantity": 4,
       "price": 5200,
-      "cats": [263, 264],
-      "history": [962],
+      "cats": [
+        263,
+        264
+      ],
+      "history": [
+        962
+      ],
       "remark": "",
       "feedback": "",
       "admin": {
@@ -7713,8 +7977,13 @@
       "state": "已預定",
       "quantity": 4,
       "price": 5200,
-      "cats": [221, 265],
-      "history": [963],
+      "cats": [
+        221,
+        265
+      ],
+      "history": [
+        963
+      ],
       "remark": "",
       "feedback": "",
       "admin": {
@@ -7731,8 +8000,12 @@
       "state": "已預定",
       "quantity": 3,
       "price": 3000,
-      "cats": [266],
-      "history": [964],
+      "cats": [
+        266
+      ],
+      "history": [
+        964
+      ],
       "remark": "",
       "feedback": "",
       "admin": {
@@ -7749,8 +8022,12 @@
       "state": "已預定",
       "quantity": 3,
       "price": 2400,
-      "cats": [267],
-      "history": [965],
+      "cats": [
+        267
+      ],
+      "history": [
+        965
+      ],
       "remark": "",
       "feedback": "",
       "admin": {
@@ -7767,8 +8044,12 @@
       "state": "已預定",
       "quantity": 3,
       "price": 4500,
-      "cats": [222],
-      "history": [966],
+      "cats": [
+        222
+      ],
+      "history": [
+        966
+      ],
       "remark": "",
       "feedback": "",
       "admin": {
@@ -7785,8 +8066,13 @@
       "state": "已預定",
       "quantity": 3,
       "price": 3900,
-      "cats": [223, 268],
-      "history": [967],
+      "cats": [
+        223,
+        268
+      ],
+      "history": [
+        967
+      ],
       "remark": "",
       "feedback": "",
       "admin": {
@@ -7803,8 +8089,12 @@
       "state": "已預定",
       "quantity": 3,
       "price": 2400,
-      "cats": [269],
-      "history": [968],
+      "cats": [
+        269
+      ],
+      "history": [
+        968
+      ],
       "remark": "",
       "feedback": "",
       "admin": {
@@ -7821,8 +8111,14 @@
       "state": "已預定",
       "quantity": 3,
       "price": 4800,
-      "cats": [224, 270, 271],
-      "history": [969],
+      "cats": [
+        224,
+        270,
+        271
+      ],
+      "history": [
+        969
+      ],
       "remark": "",
       "feedback": "",
       "admin": {
@@ -7839,8 +8135,12 @@
       "state": "已預定",
       "quantity": 3,
       "price": 2400,
-      "cats": [272],
-      "history": [970],
+      "cats": [
+        272
+      ],
+      "history": [
+        970
+      ],
       "remark": "",
       "feedback": "",
       "admin": {
@@ -7857,8 +8157,13 @@
       "state": "已預定",
       "quantity": 3,
       "price": 5400,
-      "cats": [273, 274],
-      "history": [971],
+      "cats": [
+        273,
+        274
+      ],
+      "history": [
+        971
+      ],
       "remark": "",
       "feedback": "",
       "admin": {
@@ -7875,8 +8180,14 @@
       "state": "已預定",
       "quantity": 4,
       "price": 5600,
-      "cats": [225, 226, 276],
-      "history": [972],
+      "cats": [
+        225,
+        226,
+        276
+      ],
+      "history": [
+        972
+      ],
       "remark": "",
       "feedback": "",
       "admin": {
@@ -7893,8 +8204,13 @@
       "state": "已預定",
       "quantity": 3,
       "price": 3900,
-      "cats": [227, 277],
-      "history": [973],
+      "cats": [
+        227,
+        277
+      ],
+      "history": [
+        973
+      ],
       "remark": "",
       "feedback": "",
       "admin": {
@@ -7911,8 +8227,12 @@
       "state": "已預定",
       "quantity": 3,
       "price": 3000,
-      "cats": [228],
-      "history": [974],
+      "cats": [
+        228
+      ],
+      "history": [
+        974
+      ],
       "remark": "",
       "feedback": "",
       "admin": {
@@ -7929,8 +8249,14 @@
       "state": "已預定",
       "quantity": 4,
       "price": 8400,
-      "cats": [275, 279, 280],
-      "history": [975],
+      "cats": [
+        275,
+        279,
+        280
+      ],
+      "history": [
+        975
+      ],
       "remark": "",
       "feedback": "",
       "admin": {
@@ -7947,8 +8273,12 @@
       "state": "已預定",
       "quantity": 4,
       "price": 3200,
-      "cats": [229],
-      "history": [976],
+      "cats": [
+        229
+      ],
+      "history": [
+        976
+      ],
       "remark": "",
       "feedback": "",
       "admin": {
@@ -7965,8 +8295,12 @@
       "state": "已預定",
       "quantity": 4,
       "price": 4000,
-      "cats": [230],
-      "history": [977],
+      "cats": [
+        230
+      ],
+      "history": [
+        977
+      ],
       "remark": "",
       "feedback": "",
       "admin": {
@@ -7983,8 +8317,12 @@
       "state": "已預定",
       "quantity": 3,
       "price": 2400,
-      "cats": [201],
-      "history": [978],
+      "cats": [
+        201
+      ],
+      "history": [
+        978
+      ],
       "remark": "",
       "feedback": "",
       "admin": {
@@ -8001,8 +8339,12 @@
       "state": "已預定",
       "quantity": 3,
       "price": 3000,
-      "cats": [231],
-      "history": [979],
+      "cats": [
+        231
+      ],
+      "history": [
+        979
+      ],
       "remark": "",
       "feedback": "",
       "admin": {
@@ -8019,8 +8361,13 @@
       "state": "已預定",
       "quantity": 3,
       "price": 5400,
-      "cats": [202, 232],
-      "history": [980],
+      "cats": [
+        202,
+        232
+      ],
+      "history": [
+        980
+      ],
       "remark": "",
       "feedback": "",
       "admin": {
@@ -8037,8 +8384,12 @@
       "state": "已預定",
       "quantity": 4,
       "price": 3200,
-      "cats": [233],
-      "history": [981],
+      "cats": [
+        233
+      ],
+      "history": [
+        981
+      ],
       "remark": "",
       "feedback": "",
       "admin": {
@@ -8055,8 +8406,13 @@
       "state": "已預定",
       "quantity": 4,
       "price": 4400,
-      "cats": [234, 235],
-      "history": [982],
+      "cats": [
+        234,
+        235
+      ],
+      "history": [
+        982
+      ],
       "remark": "",
       "feedback": "",
       "admin": {
@@ -8073,8 +8429,13 @@
       "state": "已預定",
       "quantity": 4,
       "price": 5200,
-      "cats": [203, 204],
-      "history": [983],
+      "cats": [
+        203,
+        204
+      ],
+      "history": [
+        983
+      ],
       "remark": "",
       "feedback": "",
       "admin": {
@@ -8091,8 +8452,13 @@
       "state": "已預定",
       "quantity": 4,
       "price": 7200,
-      "cats": [205, 236],
-      "history": [984],
+      "cats": [
+        205,
+        236
+      ],
+      "history": [
+        984
+      ],
       "remark": "",
       "feedback": "",
       "admin": {
@@ -8109,8 +8475,13 @@
       "state": "已預定",
       "quantity": 3,
       "price": 5400,
-      "cats": [206, 237],
-      "history": [985],
+      "cats": [
+        206,
+        237
+      ],
+      "history": [
+        985
+      ],
       "remark": "",
       "feedback": "",
       "admin": {
@@ -8127,8 +8498,12 @@
       "state": "已預定",
       "quantity": 3,
       "price": 2400,
-      "cats": [207],
-      "history": [986],
+      "cats": [
+        207
+      ],
+      "history": [
+        986
+      ],
       "remark": "",
       "feedback": "",
       "admin": {
@@ -8145,8 +8520,13 @@
       "state": "已預定",
       "quantity": 3,
       "price": 3300,
-      "cats": [238, 239],
-      "history": [987],
+      "cats": [
+        238,
+        239
+      ],
+      "history": [
+        987
+      ],
       "remark": "",
       "feedback": "",
       "admin": {
@@ -8160,11 +8540,16 @@
       "checkIn": "2023-10-30",
       "checkOut": "2023-11-03",
       "roomId": 51,
-      "state": "已預定",
+      "state": "已取消",
       "quantity": 4,
       "price": 3200,
-      "cats": [208],
-      "history": [988],
+      "cats": [
+        208
+      ],
+      "history": [
+        988,
+        1008
+      ],
       "remark": "",
       "feedback": "",
       "admin": {
@@ -8181,8 +8566,13 @@
       "state": "已預定",
       "quantity": 3,
       "price": 3300,
-      "cats": [209, 240],
-      "history": [989],
+      "cats": [
+        209,
+        240
+      ],
+      "history": [
+        989
+      ],
       "remark": "",
       "feedback": "",
       "admin": {
@@ -8199,8 +8589,12 @@
       "state": "已預定",
       "quantity": 3,
       "price": 4500,
-      "cats": [241],
-      "history": [990],
+      "cats": [
+        241
+      ],
+      "history": [
+        990
+      ],
       "remark": "",
       "feedback": "",
       "admin": {
@@ -8217,8 +8611,12 @@
       "state": "已預定",
       "quantity": 3,
       "price": 3000,
-      "cats": [242],
-      "history": [991],
+      "cats": [
+        242
+      ],
+      "history": [
+        991
+      ],
       "remark": "",
       "feedback": "",
       "admin": {
@@ -8235,8 +8633,14 @@
       "state": "已預定",
       "quantity": 3,
       "price": 4200,
-      "cats": [210, 211, 243],
-      "history": [992],
+      "cats": [
+        210,
+        211,
+        243
+      ],
+      "history": [
+        992
+      ],
       "remark": "",
       "feedback": "",
       "admin": {
@@ -8253,8 +8657,13 @@
       "state": "已預定",
       "quantity": 3,
       "price": 3900,
-      "cats": [244, 245],
-      "history": [993],
+      "cats": [
+        244,
+        245
+      ],
+      "history": [
+        993
+      ],
       "remark": "",
       "feedback": "",
       "admin": {
@@ -8271,8 +8680,12 @@
       "state": "已預定",
       "quantity": 3,
       "price": 4500,
-      "cats": [246],
-      "history": [994],
+      "cats": [
+        246
+      ],
+      "history": [
+        994
+      ],
       "remark": "",
       "feedback": "",
       "admin": {
@@ -8289,8 +8702,12 @@
       "state": "已預定",
       "quantity": 3,
       "price": 4500,
-      "cats": [212],
-      "history": [995],
+      "cats": [
+        212
+      ],
+      "history": [
+        995
+      ],
       "remark": "",
       "feedback": "",
       "admin": {
@@ -8307,8 +8724,12 @@
       "state": "已預定",
       "quantity": 3,
       "price": 4500,
-      "cats": [247],
-      "history": [996],
+      "cats": [
+        247
+      ],
+      "history": [
+        996
+      ],
       "remark": "",
       "feedback": "",
       "admin": {
@@ -8325,8 +8746,12 @@
       "state": "已預定",
       "quantity": 3,
       "price": 3000,
-      "cats": [212],
-      "history": [997],
+      "cats": [
+        212
+      ],
+      "history": [
+        997
+      ],
       "remark": "",
       "feedback": "",
       "admin": {
@@ -8343,8 +8768,12 @@
       "state": "已預定",
       "quantity": 3,
       "price": 3000,
-      "cats": [247],
-      "history": [998],
+      "cats": [
+        247
+      ],
+      "history": [
+        998
+      ],
       "remark": "",
       "feedback": "",
       "admin": {
@@ -8361,8 +8790,12 @@
       "state": "已預定",
       "quantity": 3,
       "price": 3000,
-      "cats": [213],
-      "history": [999],
+      "cats": [
+        213
+      ],
+      "history": [
+        999
+      ],
       "remark": "",
       "feedback": "",
       "admin": {
@@ -8379,8 +8812,13 @@
       "state": "已預定",
       "quantity": 3,
       "price": 5400,
-      "cats": [250, 251],
-      "history": [1000],
+      "cats": [
+        250,
+        251
+      ],
+      "history": [
+        1000
+      ],
       "remark": "",
       "feedback": "",
       "admin": {
@@ -8397,8 +8835,12 @@
       "state": "已預定",
       "quantity": 3,
       "price": 2400,
-      "cats": [252],
-      "history": [1001],
+      "cats": [
+        252
+      ],
+      "history": [
+        1001
+      ],
       "remark": "",
       "feedback": "",
       "admin": {
@@ -8415,8 +8857,12 @@
       "state": "已預定",
       "quantity": 3,
       "price": 2400,
-      "cats": [253],
-      "history": [1002],
+      "cats": [
+        253
+      ],
+      "history": [
+        1002
+      ],
       "remark": "",
       "feedback": "",
       "admin": {
@@ -8433,8 +8879,12 @@
       "state": "已預定",
       "quantity": 3,
       "price": 2400,
-      "cats": [215],
-      "history": [1003],
+      "cats": [
+        215
+      ],
+      "history": [
+        1003
+      ],
       "remark": "",
       "feedback": "",
       "admin": {
@@ -8451,8 +8901,13 @@
       "state": "已預定",
       "quantity": 3,
       "price": 3300,
-      "cats": [254, 255],
-      "history": [1004],
+      "cats": [
+        254,
+        255
+      ],
+      "history": [
+        1004
+      ],
       "remark": "",
       "feedback": "",
       "admin": {
@@ -8469,8 +8924,13 @@
       "state": "已預定",
       "quantity": 3,
       "price": 3900,
-      "cats": [216, 257],
-      "history": [1005],
+      "cats": [
+        216,
+        257
+      ],
+      "history": [
+        1005
+      ],
       "remark": "",
       "feedback": "",
       "admin": {
@@ -8487,8 +8947,12 @@
       "state": "已預定",
       "quantity": 3,
       "price": 4500,
-      "cats": [258],
-      "history": [1006],
+      "cats": [
+        258
+      ],
+      "history": [
+        1006
+      ],
       "remark": "",
       "feedback": "",
       "admin": {
@@ -9981,6 +10445,34 @@
       "checkOut": "2023-11-12",
       "bookingsId": 502,
       "id": 1006
+    },
+    {
+      "updateTime": "2023-11-25 12:22:35 pm",
+      "state": "已取消",
+      "quantity": "3",
+      "roomType": "精緻房",
+      "price": "3000",
+      "admin": "user",
+      "remark": "貓咪非常怕生",
+      "catNum": "3",
+      "checkIn": "2023-12-24",
+      "checkOut": "2023-12-27",
+      "bookingsId": "407",
+      "id": 1007
+    },
+    {
+      "updateTime": "2023-11-25 12:23:52 pm",
+      "state": "已取消",
+      "quantity": "4",
+      "roomType": "經典房",
+      "price": "3200",
+      "admin": "user",
+      "remark": "",
+      "catNum": "4",
+      "checkIn": "2023-10-30",
+      "checkOut": "2023-11-03",
+      "bookingsId": "484",
+      "id": 1008
     }
   ],
   "managers": [

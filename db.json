@@ -671,7 +671,7 @@
           "birthday": "1989-01-08",
           "phone": "0933333333",
           "address": "高雄市橋頭區竹林街32號",
-          "userPhoto": "https://i.imgur.com/rUTLxZC.jpg",
+          "userPhoto": "https://imgur.com/Lmh8siS.jpg",
           "nickname": "小辰",
           "joinDate": "2022-01-05",
           "emergencyContactPerson": "陳太太",
@@ -690,7 +690,7 @@
           "birthday": "1991-01-08",
           "phone": "0944444444",
           "address": "屏東縣佳冬鄉佳和路15號",
-          "userPhoto": "https://i.imgur.com/rUTLxZC.jpg",
+          "userPhoto": "https://imgur.com/WnRGLFm.jpg",
           "nickname": "君君",
           "joinDate": "2023-05-24",
           "emergencyContactPerson": "周爸爸",
@@ -709,7 +709,7 @@
           "birthday": "1988-03-17",
           "phone": "0914238751",
           "address": "台北市中山區南京東路三段27號",
-          "userPhoto": "https://i.imgur.com/rUTLxZC.jpg",
+          "userPhoto": "https://imgur.com/BeNYeLl.jpg",
           "nickname": "悅",
           "joinDate": "2021-07-12",
           "emergencyContactPerson": "小林",
@@ -728,7 +728,7 @@
           "birthday": "1992-12-21",
           "phone": "0945641428",
           "address": "新北市三峡區中正路123號",
-          "userPhoto": "https://i.imgur.com/rUTLxZC.jpg",
+          "userPhoto": "https://imgur.com/FaYQ1Gb.jpg",
           "nickname": "殷殷",
           "joinDate": "2023-11-01",
           "emergencyContactPerson": "殷謀",
@@ -32122,18 +32122,21 @@
   "article": [
       {
           "title": "貓咪的魅力：生活中的小幸福",
+          "photo": "https://imgur.com/z8fuoju.jpg",
           "content": "貓咪，是我們生活中的小幸福。他們的溫柔、好奇和陪伴，總是讓我們心情愉快。每當我們疲憊或壓力山大，貓咪的蓬蓬尾巴和咕嚕聲，都能瞬間讓我們忘卻煩惱。\n\n他們教會了我們珍惜當下，因為貓咪總是全情投入於每個時刻。無論是一個陽光灑落的窗台，還是一個紙箱子，對貓咪而言，都是一個冒險的開始。\n\n讓我們一起感恩身邊的毛絨絨小夥伴，因為他們教會了我們愛、耐心和樂觀。無論生活如何變化，貓咪總是在那裡，提醒著我們：快樂，就在身邊。",
           "keyword": "貓咪小幸福",
           "id": 601
       },
       {
           "title": "貓咪的奇幻世界：一場無聲的探險",
+          "photo": "https://imgur.com/ZeBdzWd.jpg",
           "content": "每當貓咪閉上眼睛，它們便進入了一個全新的世界。在這個奇幻的地方，每一根草叢、每一片陽光都是一次無聲的探險。貓咪在瞬息萬變的幻想中捕獲著不可見的獵物，追趕著夢中的目標。\n\n這個神秘的世界是我們無法進入的，但我們可以欣賞它們的奇妙冒險。當我們看著貓咪睡覺時，我們也能分享它們的夢想。\n\n讓我們珍惜這些小生命，因為他們教會了我們即使在無聲中也能經歷壯麗的冒險。快來分享你的貓咪奇幻世界的瞬間吧！",
           "keyword": "貓咪奇幻世界",
           "id": 602
       },
       {
           "title": "貓咪訓練指南：建立愉快聯繫的秘訣",
+          "photo": "https://imgur.com/GDrSdtZ.jpg",
           "content": "貓咪訓練是一項有趣且具有挑戰性的活動，可以加強你和貓咪之間的聯繫，同時改善牠們的行為。首先，了解貓的天性是成功訓練的關鍵。貓咪通常較難像狗一樣服從命令，因此，訓練應該以正面強化為主。使用獎勵、美味的零食，並在貓咪表現良好時予以獎勵，可以讓牠們更樂意參與訓練。 另外，訓練應該簡短而頻繁，避免長時間的會話。使用一致的指令，例如“坐下”或“來”，同時確保家庭成員都使用相同的詞彙。訓練貓咪需要耐心和時間，不要強迫牠們參與，而是以愉快的方式進行，這樣貓咪將更有可能積極參與。 最後，避免使用懲罰性的方法，這可能使貓咪感到害怕或產生不良聯想。相反，專注於正面強化，讓牠們理解與人類互動是一個愉快而有益的體驗",
           "keyword": "貓咪訓練",
           "id": 603
